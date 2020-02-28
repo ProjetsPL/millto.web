@@ -25,6 +25,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - product-group
   - product
 - type: directory
   path: collections/_product_categories/pl
