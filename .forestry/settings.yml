@@ -24,6 +24,12 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: directory
+  path: collections/pl/_product_categories
+  label: Kategorie Produktów
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
