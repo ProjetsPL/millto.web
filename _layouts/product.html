@@ -29,7 +29,7 @@
                         </svg>
                     </div>
                     <div class="title">
-                        <h1>Rozdzielacz CO do ogrzewania podłogowego</h1>
+                        <h1>{{ page.name }}</h1>
                     </div>
                     <div class="date">
                         Data publikacji: <time datetime="2020-02-14T00:00:00+01:00">14-02-2020</time>
@@ -59,11 +59,20 @@
                   {{ content }}
 
                   <nav>
-                      <h4 class="h2  beam-border">Pozostałe produkty</h3>
-                      {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png" %}
-                      {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png" %}
+                      <h4 class="h2 beam-border">Pozostałe produkty</h3>
+
+                      {% assign parent_product_path = page.parent_product_path %}
+                      {% assign products = site.products | where: "parent_product_path", parent_product_path %}
+
+                      {% for product in products %}
+                        {% if product.path == page.path %}
+                          {% continue %}
+                        {% endif %}
+                        {% include parts/products-listing-listitem.html product=product %}
+                      {% endfor %}
+
                   </nav>
-                  
+
                   <h2 class="beam-border">Budowa rozdzielacza do ogrzewania podłogowego</h2>
                   <p>Rozdzielacz do podłogówki uzbrojony jest produktem, który powstał z połączenia mosiądzu oraz stali nierdzewnej. Dzięki temu wyróżnia się odpowiednią wytrzymałością. Główne części produktu, czyli belki wykonano z mosiądzu. Stal nierdzewna posłużyła natomiast do wyprodukowania trwałych uchwytów. Rozdzielacz można zamontować w systemach ogrzewania podłogowego. Główną funkcją, którą pełni jest rozdzielenie wody z kotła do pętli tworzących instalację.</p>
                   <h3>Budowa rozdzielacza do ogrzewania podłogowego</h3>
