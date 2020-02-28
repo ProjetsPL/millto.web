@@ -31,6 +31,8 @@ collections:
   products:
     output: true
     permalink: /:categories/:title:output_ext
+  product_categories:
+    output: false
 
 plugins:
   - jekyll-sitemap
