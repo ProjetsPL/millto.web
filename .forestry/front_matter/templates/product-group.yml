@@ -31,8 +31,8 @@ fields:
     source:
       type: pages
       section: kategorie-produktow
-      file: 
-      path: 
+      file: collections/_product_categories/pl/technika-grzewcza.md
+      path: ''
   label: Kategoria
 pages:
 - collections/_products/pl/rozdzielacze-co.md
