@@ -11,25 +11,13 @@ sections:
   label: Strony
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: collections/_posts/pl
   label: Posty
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: directory
-  path: _products
-  label: Products
-  create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
-  match: "**/*"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
