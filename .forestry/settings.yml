@@ -19,13 +19,13 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/pl/_products
+  path: collections/_products/pl
   label: Produkty
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: collections/pl/_product_categories
+  path: collections/_product_categories/pl
   label: Kategorie Produktów
   create: all
   match: "**/*"
