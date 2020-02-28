@@ -2,16 +2,16 @@
 label: Product Group
 hide_body: true
 fields:
-- name: base
-  type: include
-  config: {}
-  template: product-base
-  label: Podstawowe
 - name: layout
   type: text
   config:
     required: true
   label: Layout
   default: product-group
+- name: base
+  type: include
+  config: {}
+  template: product-base
+  label: Podstawowe
 pages:
 - collections/_products/pl/rozdzielacze-co.md
