@@ -27,4 +27,5 @@ fields:
   template: product-base
   label: Podstawowe
 pages:
+- collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
 - collections/_products/pl/rozdzielacze-co/testuje-produkt.html
