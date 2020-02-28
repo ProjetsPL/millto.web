@@ -26,3 +26,5 @@ fields:
   config: {}
   template: product-base
   label: Podstawowe
+pages:
+- collections/_products/pl/rozdzielacze-co/testuje-produkt.html
