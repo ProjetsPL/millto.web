@@ -1,0 +1,34 @@
+---
+---
+
+@import "variables.scss";
+
+.page-articles-listing {
+    .articles-listing-content {
+        .articles-listing-text {
+            >*:first-child {
+                margin-top:0px;
+            }
+        }
+        .beam-item {
+            margin-bottom: 40px;
+            &:first-child {
+                margin-bottom: 0;
+            }
+            @media (max-width: 1050px) {
+                flex-basis: 50%;
+                &:first-child {
+                    flex-basis: 100%;
+                }
+            }
+            @media (max-width: 550px) {
+                flex-basis: 100%;
+                &:first-child {
+                    flex-basis: 100%;
+                }
+            }
+        }
+    }
+}
+
+@import "components/articles-listing-boxitem.scss";

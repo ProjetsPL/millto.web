@@ -1,0 +1,20 @@
+---
+---
+
+@import "variables.scss";
+
+.page-about {
+    .about-content {
+        .about-text {
+            >*:first-child {
+                margin-top:0px;
+            }
+            @media (max-width:1050px) {
+                flex-basis: 100%;
+
+            }
+        }
+    }
+}
+
+@import "components/contact-profile.scss";

@@ -1,0 +1,100 @@
+url: "https://millto.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
+logo: '/assets/img/logo.png'
+logo_svg: '/assets/img/logo.svg'
+icon: '/assets/img/01.png'
+
+exclude:
+  - config
+  - plugins
+  - Capfile
+  - README.md
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/blog/:title:output_ext
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+toc:
+  min_level: 2
+  max_level: 2
+
+collections_dir: collections
+collections:
+  posts:
+    output: false
+  products:
+    output: true
+    permalink: /:categories/:title:output_ext
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-toc
+  - amp-jekyll
+
+ampdir: amp
+
+seo:
+  organization:
+    name: Millto
+    same_as:
+    logo:
+      url: 'https://millto.com/assets/img/logo.png'
+      width: 512
+      height: 512
+  website:
+    name: Treehouse.co
+  person:
+    name: Treehouse
+    id: 'author/treehouse'
+
+defaults:
+  #### languages ####
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+      full-lang: "en"
+
+  #### US ####
+  -
+    scope:
+      path: "us"
+    values:
+      lang: "us"
+      full-lang: 'en-US'
+  -
+    scope:
+      path: "_posts/us"
+    values:
+      lang: "us"
+      full-lang: 'en-US'
+      categories: "us"
+
+  #### PL ####
+  -
+    scope:
+      path: "pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+  -
+    scope:
+      path: "_posts/pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+      categories: "pl"
+  -
+    scope:
+      path: "_products/pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+      categories: "pl produkty"

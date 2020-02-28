@@ -1,0 +1,79 @@
+.h-xl,
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4
+ {
+    font-family: 'Oswald', sans-serif;
+    color: $main;
+    letter-spacing: 0px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    &.first-h {
+        margin-top: 0px;
+    }
+}
+.h-xl {
+    font-size: 42px;
+    line-height: 65px;
+    text-transform: uppercase;
+    @media (max-width: 760px) {
+        font-size: 38px;
+        line-height: 59px;
+    }
+}
+h1,
+.h1 {
+    font-size: 33px;
+    line-height: 52px;
+    text-transform: uppercase;
+    @media (max-width: 760px) {
+        font-size: 29px;
+        line-height: 47px;
+    }
+}
+h2,
+.h2 {
+    font-size: 26px;
+    line-height: 42px;
+    text-transform: uppercase;
+    @media (max-width: 760px) {
+        font-size: 23px;
+        line-height: 38px;
+    }
+}
+h3,
+.h3 {
+    font-size: 20px;
+    line-height: 33px;
+    text-transform: uppercase;
+    @media (max-width: 760px) {
+        font-size: 19px;
+        line-height: 30px;
+    }
+}
+h4,
+.h4 {
+    font-size: 20px;
+    line-height: 33px;
+    text-transform: unset;
+}
+p {    
+    margin-bottom: 20px;
+}
+
+a {
+    color: $main;
+    text-decoration: underline;
+    &:hover {
+        color: lighten($main, 10%)
+    }
+}
+b,
+strong {
+    font-weight: bold;
+}

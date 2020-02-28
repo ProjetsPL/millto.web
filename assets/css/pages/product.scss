@@ -1,0 +1,104 @@
+---
+---
+
+@import "variables.scss";
+
+.page-product {
+    .product-intro {
+        height: calc(100vh - var(--header-height));
+        min-height: 450px;
+        max-height: 900px;
+        align-items: center;
+        justify-items: center;
+        @media (max-width: 950px) {
+            height: auto;
+            max-height: none;
+            flex-direction: column;
+            border-bottom: $gray-border;
+            padding-top: 30px;
+            padding-bottom: 60px;
+        }
+
+        .photo {
+            @media (max-width: 950px) {
+                display: flex;
+                justify-content: center;
+            }
+            img {
+                width: 100%;
+                @media (max-width: 950px) {
+                    width: 400px;
+                    max-width: 100%;
+                }
+            }
+        }
+        .content {
+            border-left: $gray-border;
+            padding-left: 60px;
+            @media (max-width: 950px) {
+                padding-left: 20px;
+                border-left: none;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            * {
+                margin: 0;
+                @media (max-width: 950px) {
+                text-align: center;
+                }
+            }
+            .date {
+                font-size: 13px;
+                line-height: 13px;
+                 margin-bottom: 20px;
+                 margin-top: 15px;
+                 time {
+                     font-size: 13px;
+                     line-height: 13px;
+                 }
+            }
+            .specyfication {
+                margin-bottom: 20px;
+                @media (max-width: 950px) {
+                    display: none;
+                }
+            }
+            .action {
+                display: flex;
+                flex-direction: row;
+                justify-items: center;
+                align-items: center;
+                @media (max-width: 450px) {
+                    flex-direction: column;
+                }
+                .btn {
+                    margin-right: 20px;
+                    @media (max-width: 450px) {
+                       margin-right: 0px;
+                       margin-bottom: 20px;
+                    }
+                    &:last-child {
+                        margin-right: 0px;
+                        @media (max-width: 450px) {
+                           margin-bottom: 0px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .product-content {
+        .product-text {
+            *:first-child {
+                margin-top: 0px;
+            }
+            @media (max-width: 1050px) {
+                flex-basis: 100%;
+            }
+        }
+    }
+}
+
+@import "components/contact-profile.scss";
+@import "components/products-listing-listitem.scss";

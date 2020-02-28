@@ -1,0 +1,34 @@
+// Colors
+$gray-0: #FFFFFF;
+$gray-1: #F8F8F8;
+$gray-2: #EFEFEF;
+$gray-3: #D5D5D5;
+$gray-4: #8B8B8B;
+$gray-5:#444444;
+$main: #187D71;
+$success: #48A33E;
+$warning: #F6C500;
+$danger: #E83838;
+$info: #2A79B6; 
+
+//Document size
+$beam-gutter-size: 40px;
+$beam-size: 1200px;
+
+//Borders
+$gray-border: 2px solid $gray-2;
+
+//Shadows
+$main-shadow: 0px 20px 40px rgba(0, 0, 0, .1);
+
+//Top-line height
+:root {
+    --header-height: 80px;
+    @media (max-width: 1200px) {
+        --header-height: 60px;
+    }
+    --header-height-negative: -80px;
+    @media (max-width: 1200px) {
+        --header-height-negative: -60px;
+    }
+  }

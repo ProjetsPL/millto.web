@@ -1,0 +1,142 @@
+---
+---
+
+@import "variables.scss";
+
+.page-index{
+    .index-banners{
+        .main-banner {
+            display: flex;
+            align-items: center;
+            flex-direction: row;
+            margin: 30px 0;
+            img {
+                width: 50%;
+                flex-shrink: 0;
+            }
+            .content {
+                width: 50%;
+                >*:first-child {
+                    margin-top: 0px;
+                }
+            }
+            @media (max-width: 760px) {
+                flex-direction: column;
+                img {
+                    width: 100%;
+                    max-width: 400px;
+                }
+                .content {
+                    width: 100%;
+                    text-align: center;
+                }
+            }
+            @media (max-width: 470px) {
+                .content {
+                    h3 {
+                        font-size: 32px;
+                        line-height: 45px;
+                    }
+                }
+            }
+        }
+        @media (max-width: 850px) {
+            >.beam-item {
+                flex-basis: 100%;
+            }
+        }
+        .small-banner {
+            background-color: $gray-0;
+            box-shadow: $main-shadow;
+            border-radius: 5px;
+            padding: 20px;
+            height: 150px;
+            display: flex;
+            flex-direction: row;
+            overflow: hidden;
+            text-decoration: none;
+            transition: 0.1s;
+           >* {
+                flex-basis: 50%;
+            }
+            .banner-img {
+                position: relative;
+                img {
+                    position: absolute;
+                    width: 100%;
+                    top:50%;
+                    left:50%;
+                    transform: translateX(-50%) translateY(-50%) rotate(-15deg);
+                }
+            }
+            .banner-title {
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                align-items: flex-end;
+                span {
+                    font-size: 26px;
+                    line-height: 32px;
+                    text-transform: uppercase;
+                    font-family: 'Oswald', sans-serif;
+                    color: $main;
+                    text-align: right;
+                }
+                #arrow-lg {
+                    transition: 0.1s;
+                    * {
+                        transition: 0.1s;
+                    }
+                }
+            }
+            @media (max-width: 850px) {
+                margin: 10px 0;
+            }
+            &:hover {
+                margin-right: -20px;
+                .banner-img {
+                    opacity: 0.9;
+                }
+                .banner-title {
+                    span {
+                        color: lighten($main, 10%);
+                    }
+                    #arrow-lg {
+                        transform: scale(0.8) translateX(10px);
+                        g {
+                            path {
+                                stroke: lighten($main, 10%);
+                            }
+                        }
+                    }
+                }
+            }
+            &:active {
+                transform: scale(0.97);
+            }
+        }
+    }
+    .index-content {
+        .beam-item {
+            @media (max-width: 850px) {
+                flex-basis: 100%;
+            }
+        }
+    }
+    .index-blog {
+        .beam-item {
+            margin-bottom: 20px;
+            @media (max-width: 850px) {
+                &:first-child {
+                    flex-basis: 100%;
+                }
+                flex-basis: 50%;
+            }
+            @media (max-width: 550px) {
+                flex-basis: 100%;
+            }
+        }
+    }
+}
+
+@import "components/articles-listing-boxitem.scss";

@@ -1,0 +1,81 @@
+---
+---
+
+@import "variables.scss";
+
+.page-article {
+    .article-content {
+        .beam-item{
+            @media (max-width: 1050px) {
+                flex-basis: 100%;
+            }
+        }
+        .article-text {
+            .article-header{
+                *:first-child {
+                    margin-top: 0px;
+                }
+            }
+        }
+        .article-featured-product {
+            display: block;
+            padding: 20px;
+            background-color: $gray-0;
+            border-radius: 5px;
+            box-shadow: $main-shadow;
+            position: relative;
+            text-decoration: none;
+            @media (max-width: 1050px) {
+                text-align: center;
+            }
+            img {
+                width: 100%;
+                max-width: 350px;
+                margin-bottom: 0px;
+                transition: 0.2s;
+            }
+            h1, h2, h3, h4,p {
+                margin: 0px;
+                transition: 0.2s;
+            }
+            &:hover {
+                h1, h2, h3, h4 {
+                    color:lighten($main, 10%)
+                }
+                img {
+                    transform: scale(1.05);
+                }
+            }
+            &:active {
+                transform: scale(0.97);
+            }
+        }
+    }
+    .article-blog {
+        .beam-item {
+            margin-bottom: 40px;
+            &:first-child {
+                margin-bottom: 0px;
+                @media (max-width: 850px) {
+                    margin-bottom: 20px;
+                }
+            }
+
+            @media (max-width: 1050px) {
+                flex-basis: 50%;
+                &:first-child {
+                    flex-basis: 100%;
+                }
+            }
+            @media (max-width: 550px) {
+                flex-basis: 100%;
+                &:first-child {
+                    flex-basis: 100%;
+                }
+            }
+        }
+    }
+}
+
+@import "components/products-listing-listitem.scss";
+@import "components/articles-listing-boxitem.scss";
