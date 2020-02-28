@@ -1,3 +1,8 @@
+
+{% assign short_parent_product_path = page.parent_product_path | remove: "collections/"%}
+{% assign parent_product_helper = site.products | where: "path", short_parent_product_path | limit: 1 %}
+{% assign parent_product = parent_product_helper[0] %}
+
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 <head>
@@ -32,14 +37,11 @@
                         <h1>{{ page.name }}</h1>
                     </div>
                     <div class="date">
-                        Data publikacji: <time datetime="2020-02-14T00:00:00+01:00">14-02-2020</time>
+                        Data aktualizacji: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time>
                     </div>
-                    <ul class="specyfication">
-                        <li>Aktualna dostępność: <b>Duża</b></li>
-                        <li>Seria katalogowa: <b>R-ML-1</b></li>
-                        <li>Rozstaw między belkami: <b>177 mm</b></li>
-                        <li>Szerokość belki: <b>40mm</b></li>
-                    </ul>
+                    <div class="specyfication">
+                      {{ page.card_intro | markdownify}}
+                    </div>
                     <div class="action">
                         <a href="" class="btn btn-sm btn-white"><img src="/assets/img/360.svg" >Podgląd 360°</a>
                         <a href="" class="btn btn-sm"><img src="/assets/img/more-info.svg" >więcej informacji</a>
@@ -48,9 +50,13 @@
             </header>
             <div class="beam">
                 <nav class="beam-item">
-                    <ul class=" breadcrumbs">
-                        <li><a href="index.html">Strona główna</a></li>
-                        <li><a href="">Produkty</a></li>
+                    <ul class="breadcrumbs">
+                        <li><a href="/pl">Strona główna</a></li>
+                        <li><a href="/pl/produkty.html">Produkty</a></li>
+                        {% if parent_product.name %}
+                          <li><a href="{{parent_product.url}}">{{parent_product.name}}</a></li>
+                        {% endif %}
+                        <li><a href="{{page.url}}">{{page.name}}</a></li>
                     </ul>
                 </nav>
             </div>
@@ -73,20 +79,8 @@
 
                   </nav>
 
-                  <h2 class="beam-border">Budowa rozdzielacza do ogrzewania podłogowego</h2>
-                  <p>Rozdzielacz do podłogówki uzbrojony jest produktem, który powstał z połączenia mosiądzu oraz stali nierdzewnej. Dzięki temu wyróżnia się odpowiednią wytrzymałością. Główne części produktu, czyli belki wykonano z mosiądzu. Stal nierdzewna posłużyła natomiast do wyprodukowania trwałych uchwytów. Rozdzielacz można zamontować w systemach ogrzewania podłogowego. Główną funkcją, którą pełni jest rozdzielenie wody z kotła do pętli tworzących instalację.</p>
-                  <h3>Budowa rozdzielacza do ogrzewania podłogowego</h3>
-                  <p>Rozdzielacz do podłogówki uzbrojony jest produktem, który powstał z połączenia mosiądzu oraz stali nierdzewnej. Dzięki temu wyróżnia się odpowiednią wytrzymałością. Główne części produktu, czyli belki wykonano z mosiądzu. Stal nierdzewna posłużyła natomiast do wyprodukowania trwałych uchwytów. Rozdzielacz można zamontować w systemach ogrzewania podłogowego. Główną funkcją, którą pełni jest rozdzielenie wody z kotła do pętli tworzących instalację.</p>
-                   <nav class="table-of-content">
-                      <span class="title">Spis treści</span>
-                      <ul>
-                          <li><a href="">Kwiaty na balkon - na co zwrócić uwagę Kwiaty na balkon - na co zwrócić uwagę Kwiaty na balkon - na co zwrócić uwagę  na co zwrócić uwagę  na co zwrócić uwagę ?</a></li>
-                          <li><a href="">Kwiaty na balkon - rodzaj stanowiska</a></li>
-                          <li><a href="">Rośliny na balkon - przykładowe aranżacje</a></li>
-                          <li><a href="">Rośliny na balkon - trawy i bluszcze</a></li>
-                          <li><a href="">Kwiaty na balkon - FAQ</a></li>
-                      </ul>
-                  </nav>
+                  {{ page.seo_content | markdownify }}
+
                 </div>
                 <div class="beam-item b-size-1">
                     <div class="sticky-element">
