@@ -11,5 +11,8 @@ description: Jednym z kluczowych aspektów funkcjonowania każdego budynku jest 
 category: collections/_product_categories/pl/technika-grzewcza.md
 photo: "/uploads/rozdzielacz_millto_co.jpg"
 category_path: collections/_product_categories/pl/technika-grzewcza.md
+intro: Jednym z kluczowych aspektów funkcjonowania każdego budynku jest właściwy komfort
+  cieplny. Zależy on w dużej mierze od zastosowania nowoczesnych technologii oraz
+  właściwych instalacji.
 
 ---
