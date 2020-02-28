@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "Welcome to Jekyll!"
 date:   2020-02-28 10:48:39 +0100
 ---

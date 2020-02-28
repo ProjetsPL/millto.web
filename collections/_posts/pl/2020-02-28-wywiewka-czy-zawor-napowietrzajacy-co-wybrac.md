@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 date: 2020-02-28 16:02:04 +0000
 update_date: 2020-02-28 16:02:04 +0000
 title: Wywiewka czy zawór napowietrzający – co wybrać?
@@ -12,8 +13,6 @@ photo: "/uploads/Wywiewka-czy-zawór-napowietrzający-co-wybrać_Millto.jpg"
 related_products:
 - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
 - collections/_products/pl/glowica-termostatyczna-M30x15.html
-toc: false
-
 ---
 ## Dlaczego trzeba wentylować kanalizację?
 

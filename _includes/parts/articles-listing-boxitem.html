@@ -1,7 +1,7 @@
-<a href="/pl/blog/welcome-to-jekyll.html" class="articles-listing-boxitem">
+<a href="{{ include.post.url }}" class="articles-listing-boxitem">
     <div class="img-box img-ratio-16-9">
-        <img class="img" src="/assets/img/{{ include.articleImg }}">
+        <img class="img" src="{{ include.post.photo }}">
     </div>
-    <h3 class="h5">{{ include.articleTitle }}</h3>
-    <p>{{ include.articleIntro }} </p>
+    <h3 class="h5">{{ include.post.title }}</h3>
+    <p>{{ include.post.intro | markdownify | truncate: 100 }} </p>
 </a>

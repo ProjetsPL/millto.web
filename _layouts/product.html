@@ -65,10 +65,22 @@
                   {{ content }}
 
                   <nav>
-                      <h4 class="h2 beam-border">Pozostałe produkty</h3>
+                      <h4 class="h2 beam-border">Pozostałe produkty</h4>
 
                       {% assign parent_product_path = page.parent_product_path %}
-                      {% assign products = site.products | where: "parent_product_path", parent_product_path %}
+                      {% assign products_from_same_parent = site.products | where: "parent_product_path", parent_product_path %}
+                      {% assign products_from_same_category = site.products | where: "category_path", page.category_path %}
+
+                      {% if products_from_same_parent.size > 1 %}
+                        jestem 1
+                        {% assign products = products_from_same_parent %}
+                      {% elsif products_from_same_category.size > 1 %}
+                        jestem 2
+                        {% assign products = products_from_same_category %}
+                      {% else %}
+                        jestem 3
+                        {% assign products = site.products | where: "parent_product_path", null %}
+                      {% endif %}
 
                       {% for product in products %}
                         {% if product.path == page.path %}
@@ -76,6 +88,9 @@
                         {% endif %}
                         {% include parts/products-listing-listitem.html product=product %}
                       {% endfor %}
+
+
+
 
                   </nav>
 
