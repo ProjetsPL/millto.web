@@ -9,6 +9,11 @@ fields:
   config:
     required: false
   default: post
+- name: toc
+  type: boolean
+  label: toc
+  hidden: true
+  default: true
 - type: text
   name: title
   label: Tytuł
