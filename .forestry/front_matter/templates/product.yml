@@ -26,6 +26,16 @@ fields:
   config: {}
   template: product-base
   label: Podstawowe
+- name: seo_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Seo Content
+  description: Doatkowy content pod seo
 pages:
 - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
 - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony2.html
