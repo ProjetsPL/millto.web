@@ -7,6 +7,15 @@ fields:
   label: Nazwa
   config:
     required: true
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Intro
 - type: textarea
   name: description
   label: Opis
