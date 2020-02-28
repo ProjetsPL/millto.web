@@ -26,6 +26,15 @@ fields:
   config: {}
   template: product-base
   label: Podstawowe
+- name: card_intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Skrót na karcie produktu
 - name: seo_content
   type: textarea
   default: ''
