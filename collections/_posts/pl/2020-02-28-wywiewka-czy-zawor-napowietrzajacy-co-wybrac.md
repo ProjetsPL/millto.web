@@ -11,8 +11,8 @@ intro: 'Każda instalacja kanalizacyjna wymaga odpowiedniego wentylowana. Jest t
 content: dd
 photo: "/uploads/Wywiewka-czy-zawór-napowietrzający-co-wybrać_Millto.jpg"
 related_products:
-- collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
-- collections/_products/pl/glowica-termostatyczna-M30x15.html
+  - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
+  - collections/_products/pl/glowica-termostatyczna-M30x15.html
 ---
 ## Dlaczego trzeba wentylować kanalizację?
 
@@ -22,7 +22,7 @@ Gdyby piony nie miały zapewnionego dostępu powietrza, w pomieszczeniach rozcho
 
 Aby temu zapobiec, piony kanalizacyjne wyposaża się w zakończenia wentylujące. Obieg powietrza musi przebiegać dwustronnie – musi być ono doprowadzane, jak i odprowadzane. W tym celu stosuje się rury wywiewne, nazywane też kominkami wentylującymi lub wywiewkami. Oprócz nich wykorzystuje się również specjalne urządzenia – zawory napowietrzające.
 
-## **Wywiewka i zawór kanalizacyjny – różnice**
+## Wywiewka i zawór kanalizacyjny – różnice
 
 Wywiewkę kanalizacyjną montuje się na powierzchni dachu. Musi być ona wyposażona w daszek chroniący wentylację przed opadami atmosferycznymi oraz ptactwem. Aby wylot nie został zatkany przez śnieg, umieszcza się go pół metra ponad dachem stromym oraz 1 metr ponad dachem płaskim. Producenci oferują szeroką gamę wywiewek o różnym wzornictwie. Dlatego dopasowanie tego elementu do rodzaju dachu i wentylacji nie powinno sprawić większego problemu. Dostępne na rynku tak zwane kominki wykonuje się z tworzywa, metalu oraz materiałów pasujących do pokrycia ceramicznego. Ważną kwestią jest to, aby wywiewka była dobrze umiejscowiona na dachu. Nie może ona znajdować się zbyt blisko kanałów wentylacyjnych ani okien dachowych. Nieprzyjemny zapach mógłby wtedy dostawać się z powrotem do pomieszczeń budynku.
 
@@ -32,10 +32,11 @@ Zawory można zakładać na rury o średnicach od 32 do 110 mm. Mniejsze zakońc
 
 Montując zawór napowietrzający, ważne jest zadbanie o dwie kwestie:
 
+{:.list}
 * swobodny dostęp powietrza – urządzenie nie może być niczym zasłonięte, nie umieszcza się go także za ścianą; możliwe jest natomiast umieszczenie go za kratką wentylacyjną,
 * zawór nie może być narażony na zamarzanie; nie należy montować go na zewnątrz; jeśli znajduje się w pomieszczeniu nieogrzewanym, należy go dodatkowo ocieplić.
 
-## **Czy wywiewka może być zastąpiona przez zawór napowietrzający?**
+## Czy wywiewka może być zastąpiona przez zawór napowietrzający?
 
 W prawidłowo działającej kanalizacji obieg powietrza musi być przede wszystkim dwustronny. Aby zapobiec zasysaniu wody z instalacji, powietrze stale odprowadza się do rur. Natomiast szkodliwym gazom trzeba zapewnić ujście, żeby nie rozchodziły się po pomieszczeniach.
 
@@ -43,6 +44,7 @@ Ponieważ zawór napowietrzający nie wypuszcza gazów na zewnątrz, nie może b
 
 Przepisy budowlane dokładnie regulują sposób wentylowania kanalizacji:
 
+{:.list}
 * Ostatni pion, licząc od podłączenia kanalizacyjnego na każdym przewodzie odpływowym kończy się rurą wywiewną.
 * Co najmniej, co piąty z pozostałych pionów powinien posiadać wywiewkę.
 * Pozostałe kanały można zakończyć zaworami napowietrzającymi.

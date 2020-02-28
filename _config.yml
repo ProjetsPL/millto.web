@@ -20,6 +20,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+toc:
+  min_level: 2
+  max_level: 2
+
 collections_dir: collections
 collections:
   posts:

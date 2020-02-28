@@ -1,3 +1,5 @@
+{% assign related_products = site.products | where: "path", page.related_products %}
+
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
 <head>
@@ -40,8 +42,9 @@
 
                     <nav>
                         <h3 class="beam-border">Polecane produkty</h3>
-                        {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png"%}
-                        {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png"%}
+                        {% for related_product in related_products %}
+                          {% include parts/products-listing-listitem.html product=related_product%}
+                        {% endfor %}
                     </nav>
                 </div>
                 <div class="beam-item b-size-1">
