@@ -8,11 +8,6 @@ fields:
     required: true
   label: Layout
   default: product
-- name: base
-  type: include
-  config: {}
-  template: product-base
-  label: Podstawowe
 - name: parent_product_path
   type: select
   default: []
@@ -22,9 +17,14 @@ fields:
     source:
       type: pages
       section: produkty
-      file:
-      path:
+      file: 
+      path: 
   label: Produkt nadrzędny
-  description: Jeśli będzie uzupełniony, produkt pojawi przy produkcie grupowym  
+  description: Jeśli będzie uzupełniony, produkt pojawi przy produkcie grupowym
+- name: base
+  type: include
+  config: {}
+  template: product-base
+  label: Podstawowe
 pages:
 - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.md
