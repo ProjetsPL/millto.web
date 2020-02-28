@@ -10,5 +10,6 @@ description: Jednym z kluczowych aspektów funkcjonowania każdego budynku jest 
   jak i instalacjach podłogowych.
 category: collections/_product_categories/pl/technika-grzewcza.md
 photo: "/uploads/rozdzielacz_millto_co.jpg"
+category_path: collections/_product_categories/pl/technika-grzewcza.md
 
 ---
