@@ -5,9 +5,62 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  config:
+    required: false
+  default: post
 - type: text
   name: title
-  label: title
+  label: Tytuł
+  config:
+    required: true
 - type: datetime
   name: date
-  label: date
+  label: Data publikacji
+  config:
+    display_utc: false
+    required: true
+  default: now
+- name: update_date
+  type: datetime
+  label: Data aktualizacji
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Intro
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Treść
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: Główne zdjęcie
+- name: related_products
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: produkty
+  label: Powiązane produkty
