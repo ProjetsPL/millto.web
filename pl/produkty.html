@@ -15,22 +15,10 @@ layout: products
           <div class="beam-item b-size-3 products-listing-text">
               <h1>Produkty</h1>
               <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
-              <h2>Technika Grzewcza</h2>
-              <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
 
-              {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png" %}
-              {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png" %}
-              {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png" %}
-              {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png" %}
-
-              <h2>Technika Grzewcza</h2>
-              <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
-              <h2>Technika Grzewcza</h2>
-              <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
-              <h2>Technika Grzewcza</h2>
-              <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
-              <h2>Technika Grzewcza</h2>
-              <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
+              {% for product_category in site.product_categoriedsss %}
+                {% include parts/product-category-section.html product_category=product_category %}
+              {% endfor %}
           </div>
           <div class="beam-item b-size-1">
               <div class="sticky-element">
