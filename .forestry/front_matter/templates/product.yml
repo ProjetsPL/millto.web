@@ -46,7 +46,5 @@ fields:
   label: Seo Content
   description: Doatkowy content pod seo
 pages:
+- collections/_products/pl/glowica-termostatyczna-M30x15.html
 - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
-- collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony2.html
-- collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony3.html
-- collections/_products/pl/rozdzielacze-co/testuje-produkt.html
