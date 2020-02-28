@@ -23,6 +23,26 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- name: date
+  type: datetime
+  label: Data publikacji
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: update_date
+  type: datetime
+  label: Data aktualizacji
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - name: category_path
   type: select
   default: []
