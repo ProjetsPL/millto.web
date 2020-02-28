@@ -32,23 +32,10 @@ fields:
     source:
       type: pages
       section: kategorie-produktow
-      file: 
-      path: 
+      file:
+      path:
   label: Kategoria
   description: Jeśli będzie uzupełniona, produkt pojawi się przy kategorii
-- name: parent_product_path
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: produkty
-      file: 
-      path: 
-  label: Produkt nadrzędny
-  description: Jeśli będzie uzupełniony, produkt pojawi przy produkcie grupowym
 - name: photo
   type: file
   config:

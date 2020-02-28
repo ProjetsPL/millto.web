@@ -2,7 +2,7 @@
 <p>{{ include.product_category.description }}</p>
 
 {% assign category_path = include.product_category.path | prepend: 'collections/' %}
-{% assign products = site.products | where: "category", category_path %}
+{% assign products = site.products | where: "category_path", category_path %}
 
 {% for product in products %}
   {% include parts/products-listing-listitem.html product=product %}

@@ -1,6 +1,6 @@
-<a href="product.html" class="products-listing-listitem">
+<a href="{{ include.product.url }}" class="products-listing-listitem">
     <div class="product-img">
-        <img src="/assets/img/{{ include.productImg }}" >
+        <img src="{{ include.product.photo }}" >
     </div>
     <div class="product-content">
         <h3 class="h4">{{ include.product.name }}</h3>
