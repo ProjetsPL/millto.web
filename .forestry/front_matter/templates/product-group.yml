@@ -22,5 +22,17 @@ fields:
     schema:
       format: markdown
   label: Opis
+- name: category
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: kategorie-produktow
+      file: 
+      path: 
+  label: Kategoria
 pages:
 - collections/_products/pl/rozdzielacze-co.md
