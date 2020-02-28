@@ -3,8 +3,8 @@
         <img src="/assets/img/{{ include.productImg }}" >
     </div>
     <div class="product-content">
-        <h3 class="h4">{{ include.productTitle }}</h3>
-        <p>{{ include.productIntro }}</p>
+        <h3 class="h4">{{ include.product.name }}</h3>
+        <p>{{ include.product.description | truncate: 150 }}</p>
     </div>
     <div class="product-arrow" >
         <svg xmlns="http://www.w3.org/2000/svg" width="26.828" height="22.828" viewBox="0 0 26.828 22.828">

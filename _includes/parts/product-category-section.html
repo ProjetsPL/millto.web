@@ -1,4 +1,9 @@
 <h2> {{ include.product_category.name }} </h2>
 <p>{{ include.product_category.description }}</p>
 
-<!-- {% include parts/products-listing-listitem.html productTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " productIntro="Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle." productImg="banner-main.png" %} -->
+{% assign category_path = include.product_category.path | prepend: 'collections/' %}
+{% assign products = site.products | where: "category", category_path %}
+
+{% for product in products %}
+  {% include parts/products-listing-listitem.html product=product %}
+{% endfor %}
