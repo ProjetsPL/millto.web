@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: Krótki opis
   description: Krótki opis kategorii
+pages:
+- collections/pl/_product_categories/technika-grzewcza.md
