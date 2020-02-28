@@ -2,37 +2,16 @@
 label: Product Group
 hide_body: true
 fields:
+- name: base
+  type: include
+  config: {}
+  template: product-base
+  label: Podstawowe
 - name: layout
   type: text
   config:
     required: true
   label: Layout
   default: product-group
-- name: name
-  type: text
-  config:
-    required: true
-  label: Nazwa
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Opis
-- name: category
-  type: select
-  default: []
-  config:
-    required: true
-    options: []
-    source:
-      type: pages
-      section: kategorie-produktow
-      file: collections/_product_categories/pl/technika-grzewcza.md
-      path: ''
-  label: Kategoria
 pages:
 - collections/_products/pl/rozdzielacze-co.md
