@@ -13,7 +13,7 @@ module Jekyll
           description = @page["description"] || @page["excerpt"] || @site["description"]
           description.gsub!("\n", '')
 
-          ['<meta name="description" content="', description, '" />'].join
+          ['<meta name="description" content="', description, '" />'].join  
         end
 
         private
