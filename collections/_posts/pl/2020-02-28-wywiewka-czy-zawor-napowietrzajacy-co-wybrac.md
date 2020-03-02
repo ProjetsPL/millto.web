@@ -15,6 +15,8 @@ related_products:
 - collections/_products/pl/glowica-termostatyczna-M30x15.html
 promoted: true
 description: Wywiewka czy zawór napowietrzający – co wybrać?
+h1: Wywiewka czy zawór napowietrzający – co wybrać?
+image: ''
 
 ---
 ## Dlaczego trzeba wentylować kanalizację?
