@@ -8,6 +8,11 @@ fields:
     required: true
   label: Nazwa
   description: Nazwa kategorii
+- name: title
+  type: text
+  config:
+    required: false
+  label: Nazwa
 - name: description
   type: textarea
   default: ''
@@ -16,10 +21,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: Krótki opis
+  label: Opis
   description: Krótki opis kategorii
-- name: title
-  type: text
-  config:
-    required: false
-  label: Meta Tytuł
