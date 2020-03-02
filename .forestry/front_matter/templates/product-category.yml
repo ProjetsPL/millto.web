@@ -18,3 +18,8 @@ fields:
       format: markdown
   label: Krótki opis
   description: Krótki opis kategorii
+- name: title
+  type: text
+  config:
+    required: false
+  label: Meta Tytuł
