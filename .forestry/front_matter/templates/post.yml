@@ -19,6 +19,15 @@ fields:
   label: Tytuł
   config:
     required: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta Opis
 - type: datetime
   name: date
   label: Data publikacji
