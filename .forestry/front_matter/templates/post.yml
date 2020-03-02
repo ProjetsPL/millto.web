@@ -14,9 +14,14 @@ fields:
   label: toc
   hidden: true
   default: true
+- name: h1
+  type: text
+  config:
+    required: false
+  label: Nazwa artykułu
 - type: text
   name: title
-  label: Tytuł
+  label: SEO Tytuł
   config:
     required: true
 - name: description
@@ -27,7 +32,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Meta Opis
+  label: SEO Opis
 - type: datetime
   name: date
   label: Data publikacji
@@ -54,7 +59,7 @@ fields:
     schema:
       format: markdown
   label: Intro
-- name: photo
+- name: image
   type: file
   config:
     maxSize: 250
