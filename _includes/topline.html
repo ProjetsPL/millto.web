@@ -10,16 +10,35 @@
                 </div>
                 <nav class="menu">
                     <ul class="navigation">
-                        <li class="active">
+                        {% if include.active == "products" %}
+                          <li class="active">
+                        {% else %}
+                          <li>
+                        {% endif %}
                             <a href="/pl/produkty.html">Produkty</a>
                         </li>
-                        <li>
+
+                        {% if include.active == "about" %}
+                          <li class="active">
+                        {% else %}
+                          <li>
+                        {% endif %}
                             <a href="/pl/o-nas.html">O nas</a>
                         </li>
-                        <li>
+                        
+                        {% if include.active == "contact" %}
+                          <li class="active">
+                        {% else %}
+                          <li>
+                        {% endif %}
                             <a href="/pl/kontakt.html">Kontakt</a>
                         </li>
-                        <li>
+
+                        {% if include.active == "blog" %}
+                          <li class="active">
+                        {% else %}
+                          <li>
+                        {% endif %}
                             <a href="/pl/blog.html">Blog</a>
                         </li>
                     </ul>

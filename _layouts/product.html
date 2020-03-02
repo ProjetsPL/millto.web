@@ -14,7 +14,7 @@
   {% include header.html %}
 
   <div class="page-wrapper">
-    {% include topline.html %}
+    {% include topline.html active="products" %}
 
     <main class="page page-product">
         <div class="beams-wrapper global-beam-wrapper">
@@ -72,13 +72,10 @@
                       {% assign products_from_same_category = site.products | where: "category_path", page.category_path %}
 
                       {% if products_from_same_parent.size > 1 %}
-                        jestem 1
                         {% assign products = products_from_same_parent %}
                       {% elsif products_from_same_category.size > 1 %}
-                        jestem 2
                         {% assign products = products_from_same_category %}
                       {% else %}
-                        jestem 3
                         {% assign products = site.products | where: "parent_product_path", null %}
                       {% endif %}
 

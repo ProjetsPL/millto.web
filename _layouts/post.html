@@ -1,4 +1,4 @@
-{% assign related_products = site.products | where: "path", page.related_products %}
+{% assign related_products = site.products | where: "pathss", page.related_products %}
 
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
@@ -11,15 +11,16 @@
   {% include header.html %}
 
   <div class="page-wrapper">
-    {% include topline.html %}
+    {% include topline.html active="blog" %}
 
     <main class="page page-article">
         <div class="beams-wrapper global-beam-wrapper">
             <div class="beam">
                 <nav class="beam-item">
                     <ul class=" breadcrumbs">
-                        <li><a href="index.html">Strona główna</a></li>
-                        <li><a href="">Produkty</a></li>
+                        <li><a href="/pl">Strona główna</a></li>
+                        <li><a href="/pl/blog.html">Blog</a></li>
+                        <li><a href="{{ page.url }}">{{page.title}}</a></li>
                     </ul>
                 </nav>
             </div>
@@ -49,30 +50,36 @@
                 </div>
                 <div class="beam-item b-size-1">
                     <div class="sticky-element">
-                  <a href="product.html" class="article-featured-product">
-                        <img src="/assets/img/banner-main.png">
-                        <h3>System Poziomowania</h3>
-                        <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.</p>
+                    <a href="{{ related_products[0]["url"]}}" class="article-featured-product">
+                        <img src="{{ related_products[0]["photo"]}}">
+                        <h3>{{ related_products[0]["name"] }}</h3>
+                        <p>{{ related_products[0]["intro"] | truncate: 100 }}</p>
                     </a>
                     </div>
                 </div>
             </div>
             <div class="beam b-size-4 article-blog">
                 <div class="beam-item b-size-6">
-                    <h3 class=" beam-border">Polecane artykuły</h3>
+                    <h3 class="beam-border">Polecane artykuły</h3>
                 </div>
-                <div class="beam-item b-size-1">
-                    {% include parts/articles-listing-boxitem.html articleTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " articleIntro="Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić. " articleImg="article-image.jpg"%}
-                </div>
-                <div class="beam-item b-size-1">
-                    {% include parts/articles-listing-boxitem.html articleTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " articleIntro="Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić. " articleImg="article-image.jpg"%}
-                </div>
-                <div class="beam-item b-size-1">
-                    {% include parts/articles-listing-boxitem.html articleTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " articleIntro="Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić. " articleImg="article-image.jpg"%}
-                </div>
-                <div class="beam-item b-size-1">
-                    {% include parts/articles-listing-boxitem.html articleTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " articleIntro="Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić. " articleImg="article-image.jpg"%}
-                </div>
+                {% assign i = 0 %}
+                {% assign promoted_posts = site.posts | where: 'promoted', true %}
+
+                {% for promoted_post in promoted_posts limit: 5 %}
+                  {% if i == 4 %}
+                    {% break %}
+                  {% endif %}
+
+                  {% if promoted_post.path == page.path %}
+                    {% continue %}
+                  {% endif %}
+
+                  <div class="beam-item b-size-1">
+                      {% include parts/articles-listing-boxitem.html post=promoted_post %}
+                  </div>
+
+                  {% assign i = i | plus: 1 %}
+                {% endfor %}
             </div>
         </div>
     </main>

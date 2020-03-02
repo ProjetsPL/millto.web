@@ -1,0 +1,28 @@
+{% for block in site.data.map %}
+  {% for item in block[page.lang] %}
+    {% if item == page.path %}
+      {% for trans in block %}
+
+        {% assign trans_path = trans[1] %}
+        {% assign posts = site.posts | where:"path",trans_path %}
+
+        {% for item in posts %}
+          {% if item.full-lang == 'pl-PL' %}
+            <link rel="alternate" hreflang="x-default" href="{{item.url|absolute_url}}" />
+          {% endif %}
+          <link rel="alternate" hreflang="{{item.full-lang}}" href="{{item.url|absolute_url}}" />
+        {% endfor %}
+
+        {% assign pages = site.pages | where:"path",trans_path %}
+
+        {% for item in pages %}
+          {% if item.full-lang == 'pl-PL' %}
+            <link rel="alternate" hreflang="x-default" href="{{item.url|absolute_url}}" />
+          {% endif %}
+          <link rel="alternate" hreflang="{{item.full-lang}}" href="{{item.url|absolute_url}}" />
+        {% endfor %}
+
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
