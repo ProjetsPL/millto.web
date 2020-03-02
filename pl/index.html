@@ -20,7 +20,7 @@ layout: index
                 </div>
                 <div class="banner-title">
                     <span>Rozdzielacz manualny</span>
-                    <svg    xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
                         <g transform="translate(-153.241 -945.586)">
                             <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
                             <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
@@ -36,7 +36,7 @@ layout: index
                 </div>
                 <div class="banner-title">
                     <span>Rozdzielacz manualny</span>
-                    <svg    xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
                         <g transform="translate(-153.241 -945.586)">
                             <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
                             <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
@@ -52,7 +52,7 @@ layout: index
                 </div>
                 <div class="banner-title">
                     <span>Rozdzielacz manualny</span>
-                    <svg    xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
                         <g transform="translate(-153.241 -945.586)">
                             <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
                             <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
@@ -68,21 +68,21 @@ layout: index
             <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
         </div>
         <div class="beam-item b-size-3">
-            <h2 class="h2 first-h">Apparently we had reached a great height in the atmosphere</h1>
+            <h2 class="h2 first-h">Apparently we had reached a great height in the atmosphere</h2>
             <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
         </div>
     </div>
     <section class="beam b-size-6 beam-border index-blog">
         <div class="beam-item b-size-2">
-            <h2 class="first-h">Strefa wiedzy</h1>
+            <h2 class="first-h">Strefa wiedzy</h2>
             <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished.</p>
-            <a href="articles-listing.html" class="btn">Pokaż wszystkie</a>
+            <a href="/pl/blog.html" class="btn">Pokaż wszystkie</a>
         </div>
-        <div class="beam-item b-size-2">
-            {% include parts/articles-listing-boxitem.html articleTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " articleIntro="Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić." articleImg="article-image.jpg" %}
-        </div>
-        <div class="beam-item b-size-2">
-            {% include parts/articles-listing-boxitem.html articleTitle="Kanalizacja – jak zaprojektować i wykonać instalację? " articleIntro="Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić." articleImg="article-image.jpg" %}
-        </div>
-    </section>
+
+        {% for post in site.posts limit: 2 %}
+          <div class="beam-item b-size-2">
+              {% include parts/articles-listing-boxitem.html post=post %}
+          </div>
+        {% endfor %}
+      </section>
 </div>
