@@ -20,18 +20,18 @@
                     <ul class=" breadcrumbs">
                         <li><a href="/pl">Strona główna</a></li>
                         <li><a href="/pl/blog.html">Blog</a></li>
-                        <li><a href="{{ page.url }}">{{page.title}}</a></li>
+                        <li><a href="{{ page.url }}">{{page.h1}}</a></li>
                     </ul>
                 </nav>
             </div>
             <div class="beam b-size-4  article-content">
                 <div class="beam-item b-size-3 article-text">
                     <header class="article-header">
-                        <h1>{{ page.title }}</h1>
+                        <h1>{{ page.h1 }}</h1>
                         <p>{{ page.intro | markdownify }}</p>
                         <figure class="content-image">
-                            <img alt="{{ page.title }}" title="{{ page.title }}" src="/assets/img/article-image.jpg">
-                            <figcaption>{{ page.title }}</figcaption>
+                            <img alt="{{ page.h1 }}" title="{{ page.h1 }}" src="/assets/img/article-image.jpg">
+                            <figcaption>{{ page.h1 }}</figcaption>
                         </figure>
                     </header>
                     <nav class="table-of-content">

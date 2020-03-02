@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-h1: Wywiewka czy zawór napowietrzający – co wybrać?
-title: Wywiewka czy zawór napowietrzający – co wybrać?
-description: Wywiewka czy zawór napowietrzający – co wybrać?
+h1: H1 Wywiewka czy zawór napowietrzający – co wybrać?
+title: SEO Wywiewka czy zawór napowietrzający – co wybrać?
+description: SEO Wywiewka czy zawór napowietrzający – co wybrać?
 date: 2020-02-28T16:02:04.000+00:00
 update_date: 2020-02-28T16:02:04.000+00:00
 intro: 'Każda instalacja kanalizacyjna wymaga odpowiedniego wentylowana. Jest to konieczne
