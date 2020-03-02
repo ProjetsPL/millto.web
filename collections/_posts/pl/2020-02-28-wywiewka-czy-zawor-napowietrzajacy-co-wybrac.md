@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-02-28 16:02:04 +0000
-update_date: 2020-02-28 16:02:04 +0000
+date: 2020-02-28T16:02:04.000+00:00
+update_date: 2020-02-28T16:02:04.000+00:00
 title: Wywiewka czy zawór napowietrzający – co wybrać?
 intro: 'Każda instalacja kanalizacyjna wymaga odpowiedniego wentylowana. Jest to konieczne
   nie tylko ze względu na prawidłowe działanie systemu. Przepisy prawne wymagają zapewnienia
@@ -11,8 +11,10 @@ intro: 'Każda instalacja kanalizacyjna wymaga odpowiedniego wentylowana. Jest t
 content: dd
 photo: "/uploads/Wywiewka-czy-zawór-napowietrzający-co-wybrać_Millto.jpg"
 related_products:
-  - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
-  - collections/_products/pl/glowica-termostatyczna-M30x15.html
+- collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
+- collections/_products/pl/glowica-termostatyczna-M30x15.html
+promoted: true
+
 ---
 ## Dlaczego trzeba wentylować kanalizację?
 
