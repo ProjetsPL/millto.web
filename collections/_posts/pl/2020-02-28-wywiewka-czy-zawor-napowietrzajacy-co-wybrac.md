@@ -14,6 +14,7 @@ related_products:
 - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
 - collections/_products/pl/glowica-termostatyczna-M30x15.html
 promoted: true
+description: Wywiewka czy zawór napowietrzający – co wybrać?
 
 ---
 ## Dlaczego trzeba wentylować kanalizację?
