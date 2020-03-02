@@ -2,9 +2,13 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0.0"
 gem 'jekyll-toc', '~> 0.12.2'
-gem 'amp-jekyll'
 gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag', path: 'plugins/jekyll-seo-tag'
+gem 'jekyll-treehouse', path: 'plugins/jekyll-treehouse'
+
+gem 'amp-jekyll'
 gem 'sanitize', '~> 5.1.0'
+gem "pry", '~> 0.12.2'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

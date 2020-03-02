@@ -1,4 +1,4 @@
-{% assign related_products = site.products | where: "pathss", page.related_products %}
+{% assign related_products = site.products | where: "path", page.related_products %}
 
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">

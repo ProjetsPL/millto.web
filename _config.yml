@@ -35,6 +35,8 @@ collections:
     output: false
 
 plugins:
+  - jekyll-seo-tag
+  - jekyll-treehouse
   - jekyll-sitemap
   - jekyll-toc
   - amp-jekyll
@@ -50,10 +52,19 @@ seo:
       width: 512
       height: 512
   website:
-    name: Treehouse.co
+    name: millto.com
   person:
-    name: Treehouse
-    id: 'author/treehouse'
+    name: Millto
+    id: 'author/millto'
+
+author:
+  name: TreeHouse.co
+  image: '/assets/img/logo.png'
+  logo: '/assets/img/logo.png'
+  job: TreeHouse
+  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  email: hello@treehouse.co
+
 
 defaults:
   #### languages ####
