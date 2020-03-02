@@ -50,6 +50,9 @@ fields:
   config:
     maxSize: 250
   label: Główne zdjęcie
+- name: promoted
+  type: boolean
+  label: Artykuł promowany?
 - name: related_products
   type: list
   config:
@@ -60,8 +63,5 @@ fields:
       type: pages
       section: produkty
   label: Powiązane produkty
-- name: promoted
-  type: boolean
-  label: Artykuł promowany?
 pages:
 - collections/_posts/pl/2020-02-28-wywiewka-czy-zawor-napowietrzajacy-co-wybrac.md
