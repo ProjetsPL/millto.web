@@ -11,7 +11,7 @@ intro: 'Każda instalacja kanalizacyjna wymaga odpowiedniego wentylowana. Jest t
   swobodnego dostępu powietrza do instalacji ściekowej w każdym gospodarstwie domowym.
   W tym celu stosowana jest wywiewka lub zawór napowietrzający. '
 content: dd
-image: "/uploads/Wywiewka-czy-zawór-napowietrzający-co-wybrać_Millto.jpg"
+image: "/uploads/wywiewka-czy-zawor.jpg"
 related_products:
 - collections/_products/pl/rozdzielacze-co/rozdzielacz-co-mosiezny-nieuzbrojony.html
 - collections/_products/pl/glowica-termostatyczna-M30x15.html
