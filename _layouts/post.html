@@ -1,4 +1,11 @@
-{% assign related_products = site.products | where: "path", page.related_products %}
+{% assign related_products = "" | split: ',' %}
+{% assign related_product_paths = page.related_products %}
+{% for related_product_path in related_product_paths %}
+  {% assign corrected_related_product_path = related_product_path | remove: "collections/" %}
+
+  {% assign related_product = site.products | where: "path", corrected_related_product_path %}
+  {% assign related_products = related_products | push: related_product[0] %}
+{% endfor %}
 
 <!DOCTYPE html>
 <html lang="{{ page.full-lang | default: site.lang | default: 'en' }}">
@@ -24,6 +31,7 @@
                     </ul>
                 </nav>
             </div>
+
             <div class="beam b-size-4  article-content">
                 <div class="beam-item b-size-3 article-text">
                     <header class="article-header">
