@@ -1,8 +1,12 @@
 ---
 name: Technika grzewcza
 title: Technika grzewcza
-description: Głowicę termostatyczną bardzo często określa się również mianem regulatora
-  ciepła. To niewielkich rozmiarów element, dzięki któremu można kontrolować dopływ
-  ciepłego powietrza, wydostającego się z kaloryfera do wnętrza.
+description: Właściwy komfort cieplny jest jedną z najważniejszych kwestii dotyczących
+  każdego budynku. Prawidłowe funkcjonowanie systemu grzewczego jest koniecznie zarówno
+  w przypadku nieruchomości prywatnych, biurowych, jak i budynków o przeznaczeniu
+  przemysłowym. W zależności od jej charakteru same systemy instalacyjne będą się
+  jednak między sobą różniły. Technika grzewcza, która doskonale sprawdza się w domu,
+  niekoniecznie będzie wydajna dla obiektów przemysłowych - i odwrotnie. Dlatego bardzo
+  ważne jest dopasowanie właściwego systemu grzewczego.
 
 ---
