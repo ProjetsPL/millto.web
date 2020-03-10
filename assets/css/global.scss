@@ -235,3 +235,14 @@ body {
 @import "components-global/page_header.scss";
 // Page footer
 @import "components-global/page_footer.scss";
+
+#chatlio-widget {
+    text-decoration: none;
+    .chatlio-title-text {
+        text-decoration: none;
+        .chatlio-title-text-content {
+            text-decoration: none;
+            color:$gray-0;
+        }
+    }
+}
