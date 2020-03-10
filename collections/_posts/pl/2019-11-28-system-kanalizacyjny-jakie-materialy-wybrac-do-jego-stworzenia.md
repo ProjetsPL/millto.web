@@ -26,6 +26,7 @@ System kanalizacyjny w domu, jak również w każdym innym budynku powinien dzia
 
 Najważniejsze z nich to:
 
+{:.list.list-positive}
 * Trwałość - w wielu krajach Europy zakłada się, że instalacja kanalizacyjna powinna działać bez zarzutu przez co najmniej 200 lat. Wydaje się to długo, jednak biorąc pod uwagę przykładowo kanały rzymskie, które są sprawne od 2000 lat, można zmienić swoje podejście do sprawy. Im wyższej jakości materiał, tym dłużej system kanalizacyjny będzie działał.
 * Szczelność - rury nie mogą przepuszczać ani wód gruntowych z zewnątrz, ani ścieków na zewnątrz. Oprócz tworzywa, z którego wykonano połączenia, materiał stosowany do uszczelnień również musi być bardzo trwały.
 * Odporność na korozję - substancje płynące w ściekach mogą być żrące, dlatego ściany wewnętrzne kanału nie mogą wchodzić z nimi w reakcje i powinny być odporne na ich szkodliwe działanie.
@@ -39,6 +40,7 @@ Istnieje kilka rodzajów materiałów, z których można zbudować instalację w
 
 Powszechnie stosowane są rury kanalizacyjne z takich materiałów jak:
 
+{:.list}
 * PVC - elementy wykonane z tego materiału odznaczają się niskim poziomem chropowatości i dobrymi właściwościami hydraulicznymi. Charakteryzuje je to, że są odporne na działanie substancji chemicznych i korozję. Są także lekkie i łatwe w montażu - łączy się je za pomocą kleju. Rury PVC są jednak podatne na niskie temperatury. Gdy ta spadnie poniżej zera, mogą się kruszyć.
 * HDPE - polietylenowe połączenia są odporne na uszkodzenia mechaniczne i działanie chemikaliów. Nie tracą trwałości w niskich ani wysokich temperaturach - mogą wytrzymać od -40 do 80°C. Przewody i kształtki wykonane z tego tworzywa łączy się poprzez zgrzewanie.
 * Żeliwo - z rur tego typu można wykonać przewody odpływowe i elementy kanalizacji zewnętrznej. Żeliwo jest niepalne i wytrzymałe na wysokie temperatury. Elementy te spajane są za pomocą stalowych obejm z uszczelkami wykonanymi z kauczuku. Ponieważ takie przewody są ciężkie i trudne w montażu, stosuje się je coraz rzadziej.

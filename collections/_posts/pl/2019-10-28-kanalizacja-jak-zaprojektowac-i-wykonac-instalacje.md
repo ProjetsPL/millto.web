@@ -24,6 +24,7 @@ promoted: true
 
 Ścieki powinny być odprowadzane do odpowiednich zbiorników lub oczyszczalni. W zależności od typu odprowadzanych nieczystości, system można podzielić na kilka rodzajów. Należą do nich:
 
+{:.list}
 * Kanalizacja sanitarna - odprowadza ścieki z poszczególnych urządzeń domowych. Składa się ze specjalnych podejść przy sanitariacie oraz pionów kanalizacyjnych połączonych z przewodami odpływowymi (poziomami). Podłączenie do kanalizacji sanitarnej wymaga zgody zarządcy kanalizacyjnego. Zwykle jest to urząd gminy lub zakład komunalny.
 * Kanalizacja burzowa - nazywana jest także deszczową. Ten typ zbiera opady oraz ścieki roztopowe spływające z terenów o nieprzepuszczalnym podłożu. Ścieki są odprowadzane za pomocą sieci kanałów i rurociągów do naturalnych zbiorników wodnych - rzek i jezior. Takie systemy jednak bardzo rzadko występują na terenach wiejskich, podmiejskich i w zabudowaniach domów jednorodzinnych.
 * Kanalizacja ogólnospławna - jest to połączenie wspomnianych wcześniej instalacji: burzowej i sanitarnej. Zbiera ona wszystkie rodzaje ścieków z konkretnego obszaru. Nieczystości są odprowadzane do wspólnego strumienia, a następnie do oczyszczalni. Przed podłączeniem do takiej kanalizacji należy uzyskać zgodę zarządcy.
@@ -34,6 +35,7 @@ Nieczystości mogą być także odprowadzane naturalnie, pod wpływem własnego 
 
 Kanalizację domową można podzielić na wewnętrzną i zewnętrzną. Każda z nich składa się z wielu elementów, których funkcjonowanie zależy między innymi od prawidłowego doboru materiałów. Aby domowy system wodno-kanalizacyjny działał poprawnie, należy pamiętać o kilku aspektach:
 
+{:.list}
 * Odpowiednia średnica rur - należy dobrać je do rodzaju i liczby urządzeń, a także ilości załamań na odcinkach poziomych. Jeżeli zakoli jest więcej niż trzy, średnicę rury należy zwiększyć o jeden rozmiar. Również długość podejść jest w tym przypadku istotną kwestią. Przy średnicy 40-50mm nie powinna ona przekraczać 3 metrów, a przy 75 mm - 5 metrów. Jeżeli odcinki są dłuższe, rura również powinna być większa o jeden rozmiar.
 * Spadki - w kanalizacji grawitacyjnej każda średnica wymaga odpowiedniego spadku. Zbyt mały może uniemożliwiać swobodny przepływ ścieków.
 * Wentylacja - prawidłowy przepływ powietrza zapobiega spiętrzeniu wody i zasysaniu jej z syfonów.
@@ -46,6 +48,7 @@ W celu uzyskania jak najlepszej sprawności systemu kanalizacyjnego, rury łącz
 
 Całkowitych kosztów podłączenia systemu kanalizacyjnego w gospodarstwie nie da się jednoznacznie określić. Cena może się wahać w zależności od punktów odbioru: szamba, ogólnej sieci kanalizacyjnej lub przydomowej oczyszczalni. W skład kosztów należy włączyć:
 
+{:.list}
 * prace ziemne,
 * usługi hydraulika,
 * koszty podpięcia do systemu kanalizacyjnego,
