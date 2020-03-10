@@ -90,8 +90,14 @@
     }
     .product-content {
         .product-text {
+            .beam-border {
+                
+                *:first-child {
+                    margin-top: 0px;
+                }
+            }
             *:first-child {
-                margin-top: 0px;
+                // margin-top: 0px;
             }
             @media (max-width: 1050px) {
                 flex-basis: 100%;
