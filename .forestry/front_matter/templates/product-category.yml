@@ -23,5 +23,3 @@ fields:
       format: markdown
   label: Opis
   description: Krótki opis kategorii
-pages:
-- collections/_product_categories/pl/artykuły-budowlane.md
