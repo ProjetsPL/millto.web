@@ -20,7 +20,7 @@
         <div class="beams-wrapper global-beam-wrapper">
             <header class="beam b-size-4 product-intro">
                 <div class="beam-item  b-size-2 photo">
-                     <img src="{{ page.photo }}" >
+                     <img src="{{ page.photo }}" alt="{{ page.name }}" >
                 </div>
                 <div class="beam-item  b-size-2 content">
                     <div class="rating">
@@ -43,12 +43,12 @@
                       {{ page.card_intro | markdownify}}
                     </div>
                     <div class="action">
-                        <a href="" class="btn btn-sm btn-white"><img src="/assets/img/360.svg" >Podgląd 360°</a>
-                        <a href="" class="btn btn-sm"><img src="/assets/img/more-info.svg" >więcej informacji</a>
+                        <!-- <a href="" class="btn btn-sm btn-white"><img src="/assets/img/360.svg" alt="Podgląd 360 stopni">Podgląd 360°</a> -->
+                        <a href="#productContent" class="btn btn-sm"><img src="/assets/img/more-info.svg" alt="Wiecej informacji">więcej informacji</a>
                     </div>
                 </div>
             </header>
-            <div class="beam">
+            <div  id="productContent" class="beam">
                 <nav class="beam-item">
                     <ul class="breadcrumbs">
                         <li><a href="/pl">Strona główna</a></li>

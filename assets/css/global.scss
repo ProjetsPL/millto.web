@@ -238,11 +238,36 @@ body {
 
 #chatlio-widget {
     text-decoration: none;
-    .chatlio-title-text {
-        text-decoration: none;
-        .chatlio-title-text-content {
-            text-decoration: none;
-            color:$gray-0;
+    .chatlio-title-bar-chip-container {
+        // border-radius: 30px;
+        .chatlio-title-bar-chip {
+            .chatlio-title-text {
+                text-decoration: none;
+                height: 60px;
+                .chatlio-title-text-content {
+                    text-decoration: none;
+                    color:$gray-0;
+                    display:none;
+                    padding-left: 40px;
+                }
+                &::before {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    top:0px;
+                    left:0px;
+                    height: 60px;
+                    width: 60px;
+                    background-image: url(/uploads/konrad.jpg);
+                    background-size: cover;
+                    border-radius: 30px 30px 0 30px;
+                }
+            }
+        }
+    }
+    .chatlio-message-from-me {
+        * {
+            color: $gray-0;
         }
     }
 }
