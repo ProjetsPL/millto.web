@@ -39,7 +39,6 @@ plugins:
   - jekyll-treehouse
   - jekyll-sitemap
   - jekyll-toc
-  - amp-jekyll
 
 ampdir: amp
 
@@ -58,12 +57,12 @@ seo:
     id: 'author/millto'
 
 author:
-  name: TreeHouse.co
+  name: Millto
   image: '/assets/img/logo.png'
   logo: '/assets/img/logo.png'
-  job: TreeHouse
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: hello@treehouse.co
+  job: Millto
+  bio: 
+  email: biuro@millto.com
 
 
 defaults:

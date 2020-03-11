@@ -7,13 +7,19 @@
             </div>
             <nav class="language">
                 <span>Wybierz kraj</span>
-                <a href="/pl" class="btn btn-sm btn-white"><img src="/assets/img/flag-poland.svg"  alt="Polish language">Polska</a>
+                <a href="/pl/" class="btn btn-sm btn-white"><img src="/assets/img/flag-poland.svg"  alt="Polish language">Polska</a>
                 <!-- <a href="/us" class="btn btn-sm btn-white"><img src="/assets/img/flag-usa.svg" >United States</a> -->
             </nav>
         </div>
     </div>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@13.0.1/dist/lazyload.min.js"></script>
+<script type="text/javascript">
+  var lazyLoadInstance = new LazyLoad({
+      elements_selector: ".lazy"
+  });
+</script>
 
 <script type="text/javascript" src="/assets/js/mobile-menu.js"></script>
 <script type="text/javascript" src="/assets/js/contact-profile.js"></script>
@@ -33,9 +39,11 @@
 </script>
 
 <script type="text/javascript">
+  setTimeout(function(){
     window._chatlio = window._chatlio||[];
     !function(){ var t=document.getElementById("chatlio-widget-embed");if(t&&window.ChatlioReact&&_chatlio.init)return void _chatlio.init(t,ChatlioReact);for(var e=function(t){return function(){_chatlio.push([t].concat(arguments)) }},i=["configure","identify","track","show","hide","isShown","isOnline", "page", "open", "showOrHide"],a=0;a<i.length;a++)_chatlio[i[a]]||(_chatlio[i[a]]=e(i[a]));var n=document.createElement("script"),c=document.getElementsByTagName("script")[0];n.src="https://w.chatlio.com/w.chatlio-widget.js",n.async=!0,n.setAttribute("data-embed-version","2.3");
        n.setAttribute('data-widget-id','f7140488-c68d-441f-6bf4-555204d8294f');
        c.parentNode.insertBefore(n,c);
     }();
+  }, 1000);
 </script>

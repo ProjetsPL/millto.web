@@ -20,7 +20,7 @@
         <div class="beams-wrapper global-beam-wrapper">
             <header class="beam b-size-4 product-intro">
                 <div class="beam-item  b-size-2 photo">
-                     <img src="{{ page.photo }}" alt="{{ page.name }}" >
+                     <img class="lazy" height="560" width="560" data-src="{{ page.photo }}" src="/assets/img/pixel.jpg" alt="{{ page.name }}" >
                 </div>
                 <div class="beam-item  b-size-2 content">
                     <div class="rating">
@@ -51,7 +51,7 @@
             <div  id="productContent" class="beam">
                 <nav class="beam-item">
                     <ul class="breadcrumbs">
-                        <li><a href="/pl">Strona główna</a></li>
+                        <li><a href="/pl/">Strona główna</a></li>
                         <li><a href="/pl/produkty.html">Produkty</a></li>
                         {% if parent_product.name %}
                           <li><a href="{{parent_product.url}}">{{parent_product.name}}</a></li>

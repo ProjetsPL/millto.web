@@ -1,6 +1,6 @@
 <a href="{{ include.post.url }}" class="articles-listing-boxitem">
     <div class="img-box img-ratio-16-9">
-        <img class="img" src="{{ include.post.image }}" alt="{{ include.post.h1 }}">
+        <img class="img lazy" data-src="{{ include.post.image }}" src="/assets/img/pixel.jpg" alt="{{ include.post.h1 }}">
     </div>
     <h3 class="h5">{{ include.post.h1 }}</h3>
     <p>{{ include.post.intro | markdownify | truncate: 100 }} </p>
