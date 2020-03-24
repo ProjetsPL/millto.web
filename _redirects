@@ -1,1 +1,2 @@
-http://milltocom.netlify.com/* https://millto.com/:splat 301!
+# Redirect default Netlify subdomain to primary domain
+https://milltocom.netlify.com/* https://millto.com/:splat 301!
