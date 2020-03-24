@@ -5,6 +5,8 @@ logo: '/assets/img/logo.png'
 logo_svg: '/assets/img/logo.svg'
 icon: '/assets/img/01.png'
 
+include:
+  - _redirects
 exclude:
   - config
   - plugins
@@ -61,7 +63,7 @@ author:
   image: '/assets/img/logo.png'
   logo: '/assets/img/logo.png'
   job: Millto
-  bio: 
+  bio:
   email: biuro@millto.com
 
 
