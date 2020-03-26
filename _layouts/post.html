@@ -38,7 +38,7 @@
                         <h1>{{ page.h1 }}</h1>
                         <p>{{ page.intro | markdownify }}</p>
                         <figure class="content-image">
-                            <img alt="{{ page.h1 }}" title="{{ page.h1 }}" class="lazy" data-src="{{ page.image }}" src="/assets/img/pixel.jpg">
+                            <img alt="{{ page.h1 }}" title="{{ page.h1 }}" src="{{ page.image }}" src="/assets/img/pixel.jpg">
                             <figcaption>{{ page.h1 }}</figcaption>
                         </figure>
                     </header>
@@ -59,7 +59,7 @@
                 <div class="beam-item b-size-1">
                     <div class="sticky-element">
                     <a href="{{ related_products[0]["url"]}}" class="article-featured-product">
-                        <img class="lazy" height="160" width="160" data-src="{{ related_products[0]['photo']}}" src="/assets/img/pixel.jpg" alt="{{ related_products[0]["name"] }}">
+                        <img src="{{ related_products[0]['photo']}}" alt="{{ related_products[0]["name"] }}">
                         <h3>{{ related_products[0]["name"] }}</h3>
                         <p>{{ related_products[0]["intro"] | truncate: 100 }}</p>
                     </a>
