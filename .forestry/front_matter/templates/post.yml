@@ -78,4 +78,5 @@ fields:
       section: produkty
   label: Powiązane produkty
 pages:
+- collections/_posts/pl/ewrtwert.md
 - collections/_posts/pl/ukladanie-kostki-brukowej-cena-i-jakosc-ile-to-kosztuje.md
