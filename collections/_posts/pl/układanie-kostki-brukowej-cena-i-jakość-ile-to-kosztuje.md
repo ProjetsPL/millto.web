@@ -18,7 +18,6 @@ promoted: false
 related_products:
 - collections/_products/pl/silownik-termoelektryczny.html
 - collections/_products/pl/rozdzielacze-co/do-grzejnikow.html
-published: false
 
 ---
 ## Układanie kostki brukowej - cena za metr kwadratowy
