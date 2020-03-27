@@ -14,7 +14,7 @@ intro: Zastanawiając się, z czego wykonać ścieżki i podjazdy wokół domu, 
   zaletą takiego rozwiązania. Istnieje wiele rodzajów kostki, a każdy różni się ceną,
   jak i właściwościami.
 image: "/uploads/jaka-jest-cena-kostki-brukowej2.jpg"
-promoted: false
+promoted: true
 related_products:
 - collections/_products/pl/silownik-termoelektryczny.html
 - collections/_products/pl/rozdzielacze-co/do-grzejnikow.html
