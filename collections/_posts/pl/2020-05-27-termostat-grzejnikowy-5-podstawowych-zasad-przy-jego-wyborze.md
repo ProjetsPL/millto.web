@@ -17,7 +17,6 @@ image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: false
 related_products:
 - collections/_products/pl/glowica-termostatyczna.html
-published: false
 
 ---
 ## Czym jest termostat grzejnikowy i jak działa?
