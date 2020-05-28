@@ -29,9 +29,13 @@ Układanie płytek - zarówno na podłogach, jak i na ścianach nie jest trudną
 
 **Przyczepność płytek do podłoża**, a często również ich wytrzymałość zależą od odpowiedniego przygotowania powierzchni, na której wykonywane będą prace. Dotyczy to jednakowo podłóg, jak i ścian.
 
-**Grunt pod układanie płytek** powinien być przede wszystkim **równy**. Zazwyczaj jego przygotowanie pod tym kątem realizowane jest we wcześniejszych etapach wykończenia wnętrza - w przypadku nowych nieruchomości. Jeżeli wnętrze jest remontowane, może zdarzyć się, że konieczne będzie wyrównanie nierówności, które powstały np. przy usuwaniu wcześniejszego pokrycia podłogi lub ściany. 
+**Grunt pod układanie płytek** powinien być przede wszystkim **równy**. Zazwyczaj jego przygotowanie pod tym kątem realizowane jest we wcześniejszych etapach wykończenia wnętrza - w przypadku nowych nieruchomości. Jeżeli wnętrze jest remontowane, może zdarzyć się, że konieczne będzie wyrównanie nierówności, które powstały np. przy usuwaniu wcześniejszego pokrycia podłogi lub ściany.
 
-Co w takim przypadku? Wyrównanie pod układanie płytek nie jest skomplikowane i tę czynność również wykonasz samodzielnie np. przy pomocy **samopoziomującej masy szpachlowej**, która jest do tego celu odpowiednia. Po rozrobieniu masy zgodne ze wskazówkami producenta konieczne jest jej wylanie na tych obszarach, które wymagają wyrównania. Warto dodatkowo użyć specjalnej gumowej pacy - z jej pomocą dotrzesz do obszarów znajdujących się rogach pomieszczenia. 
+{% fig %}
+![Zanim rozpoczniesz układanie płytek - przygotuj powierzchnię](/uploads/ukladanie-plytek-sprzatanie.jpg "Zanim rozpoczniesz układanie płytek - przygotuj powierzchnię")
+{% endfig %}
+
+Co w takim przypadku? Wyrównanie pod układanie płytek nie jest skomplikowane i tę czynność również wykonasz samodzielnie np. przy pomocy **samopoziomującej masy szpachlowej**, która jest do tego celu odpowiednia. Po rozrobieniu masy zgodne ze wskazówkami producenta konieczne jest jej wylanie na tych obszarach, które wymagają wyrównania. Warto dodatkowo użyć specjalnej gumowej pacy - z jej pomocą dotrzesz do obszarów znajdujących się rogach pomieszczenia.
 
 W przypadku **równania ścian** powinieneś pamiętać dodatkowo o tym, że rozrobiona masa szpachlowa powinna być gęstsza, co zapobiegnie jej spływaniu z powierzchni, na której została rozprowadzona.
 
@@ -51,6 +55,10 @@ Jeżeli na powierzchni, gdzie ma być wykonywane **układanie glazury**, znajduj
 
 Jeżeli jesteś osobą początkującą i jest to Twoje pierwsze układanie płytek postaw raczej na **prostą technikę**. W tym przypadku doskonale sprawdzi się równoległe układanie glazury. Możesz **zacząć od środka pomieszczenia**, a następnie rozmieszczaj płytki ku zewnętrznym stronom. Nawet jeżeli będziesz musiał je przyciąć - po bokach nie będzie to zbyt widoczne, ponieważ zwykle te miejsca zakryte są przez meble lub inne elementy dekoracyjne.
 
+{% fig %}
+![Układanie płytek dla początkujących](/uploads/samodzielne-ukladanie-plytek-1.jpg "Układanie płytek dla początkujących")
+{% endfig %}
+
 ### Skomplikowane wzory - jak kłaść kafelki bez pomyłek?
 
 Jeżeli układanie płytek nie jest Twoją mocną stroną, ale mimo wszystko podejmujesz wyzwanie i chcesz stworzyć ciekawe wnętrze - mamy dla Ciebie wskazówkę, która **pomoże Ci uniknąć niespodzianek i pomyłek**. Spróbuj ułożyć kafelki metodą **"na sucho" - bez klejenia**. Jest to nic innego jak rozplanowanie płytek na podłodze. W ten sposób zobaczysz czy są odpowiednio dopasowane i wprowadzisz szybko zmiany - bez uszkodzenia płytek i marnowania materiału. Po ułożeniu możesz zrobić także zdjęcie, według którego następnie wykonasz klejenie kafelek. Jest to co prawda czasochłonna czynność, ale masz wówczas pewność, że nic Cię nie zaskoczy.
@@ -65,6 +73,30 @@ Podczas fugowania można wykorzystać również specjalne **wiadro glazurnicze z
 
 ### Nowoczesne spojrzenie na układanie płytek
 
-Jeszcze do niedawna podstawowym wyposażeniem wykorzystywanym podczas układania glazury była poziomica oraz krzyżaki. Dzięki tym narzędziom możliwe było **równe i dokładne kładzenie kafelek**. Obecnie jednak elementy te są coraz rzadziej stosowane. 
+Jeszcze do niedawna podstawowym wyposażeniem wykorzystywanym podczas układania glazury była poziomica oraz krzyżaki. Dzięki tym narzędziom możliwe było **równe i dokładne kładzenie kafelek**. Obecnie jednak elementy te są coraz rzadziej stosowane.
+
+{% fig %}
+![Nowoczesne spojrzenie na układanie płytek](/uploads/samodzielne-ukladanie-plytek-2.jpg "Nowoczesne spojrzenie na układanie płytek")
+{% endfig %}
 
 Od niedawna wyposażeniem wykorzystywanym zarówno przez profesjonalistów, jak i domowych majsterkowiczów jest [system poziomowania płytek](https://millto.com/pl/produkty/system-poziomowania-plytek.html). Znajdujące się w zestawie klipsy i kliny pozwalają na zachowanie równych odstępów między kafelkami, a także umożliwiają **szybkie wyrównanie ich powierzchni**. Dzięki tej metodzie samodzielne układanie płytek jest nie tylko dokładne, ale przede wszystkim zdecydowanie krótsze. Osoby, które profesjonalnie zajmują się glazurowaniem, twierdzą, że możliwe jest **skrócenie czasu nawet o połowę**.
+
+{% faqItem %}
+{% faqQuestion %}
+Jak układać płytki na ścianie?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Układanie płytek na ścianie rozpocznij od dokładnego zaplanowania jak mają wyglądać. Upewnij się, że masz odpowiednią ilość kafelków i wszelkie niezbędne akcesoria. Następnie oczyść powierzchnię, rozrób substancję klejącą i zacznij właściwe czynności. Pamiętaj, aby kładzenie kafelek rozpocząć o tych miejsc, które będą najbardziej widoczne po wejście do pomieszczenia.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+Jak kłaść płytki podłogowe?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Układanie płytek podłogowych i ściennych wygląda analogicznie. Najważniejsze jest odpowiednie przygotowanie podłoża oraz zgromadzenie wszelkich niezbędnych sprzętów. Jeżeli wszystko posiadasz, musisz wybrać tylko odpowiednią technikę i zacząć kłaść glazurę od tego obszaru, który będzie najbardziej wyeksponowany.
+{% endfaqAnswer %}
+{% endfaqItem %}
