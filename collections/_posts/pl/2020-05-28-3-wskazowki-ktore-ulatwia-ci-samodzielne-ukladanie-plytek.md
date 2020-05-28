@@ -18,7 +18,6 @@ image: "/uploads/samodzielne-ukladanie-plytek.jpg"
 promoted: false
 related_products:
 - collections/_products/pl/system-poziomowania-plytek.html
-published: false
 
 ---
 ## Układanie płytek - nie takie trudne, jak myślisz
