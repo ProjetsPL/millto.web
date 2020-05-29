@@ -16,10 +16,7 @@ intro: Wybór odpowiedniej instalacji grzewczej to absolutna podstawa w każdym 
 image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: false
 related_products:
-- collections/_products/pl/zawor-termostatyczny.html
-- collections/_products/pl/glowica-termostatyczna.html
 - collections/_products/pl/rozdzielacze-co/do-podlogowki.html
-- collections/_products/pl/rozdzielacze-co/do-grzejnikow.html
 
 ---
 ## Ogrzewanie podłogowe czy grzejniki - co różni te dwie metody?
