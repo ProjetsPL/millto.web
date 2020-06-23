@@ -7,8 +7,8 @@
             </div>
             <nav class="language">              
                 <span>{{site.data.translations.chooselanguage.[page.lang]}}</span>
-                {% for item in site.data.translations.language %}                
-                <a href="{{item.path}}" class="btn btn-sm btn-white btn-flag"><img src="{{item.icon}}"  alt="{{item.[page.lang].flag}}"></a>
+                {% for item in site.data.menu-languages %}                
+                <a href="{{item.path}}" class="btn btn-sm btn-white btn-flag"><img src="{{item.icon}}"  alt="{{item.flag}}"></a>
                 {% endfor %}
             </nav>
         </div> 

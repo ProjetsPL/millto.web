@@ -1,0 +1,21 @@
+-
+  lang: en
+  path: "/en/"
+  icon: /assets/img/flag-usa.svg
+  name: "United States"
+  short-name: "USA"
+  flag: "USA FLag"
+-
+  lang: pl
+  path: /pl/
+  icon: /assets/img/flag-poland.svg
+  name: "Polska"
+  short-name: "PL"
+  flag: "Flaga Polski"
+-
+  lang: de
+  path: /de/
+  icon: /assets/img/flag-germany.svg
+  name: "Deutschland"
+  short-name: "DE"
+  flag: "Deutsche Flagge"

@@ -17,22 +17,22 @@
                 <nav class="menu">
 
                     <ul class="navigation">
-                        {% for item in site.data.menu %}
+                        {% for item in site.data.menu-pages %}
                         <li>              
                             <a href="{{item.[page.lang].link}}">{{item.[page.lang].name}}</a>      
                         </li>
                         {% endfor %}
                     </ul>
                 <ul class="language">                    
-                    {% for item in site.data.translations.language %}
+                    {% for item in site.data.menu-languages %}
                     {% if page.lang == item.lang %}
                     <li class="active">
                      {% else %}
                     <li>
                     {% endif %}
                         <a href="{{item.path}}">
-                            <img src="{{item.icon}}" alt="{{item.[page.lang].flag}}">
-                            <span>{{item.[page.lang].name}}</span>
+                            <img src="{{item.icon}}" alt="{{item.flag}}">
+                            <span>{{item.name}}</span>
                         </a>
                     </li>
                     {% endfor %}
@@ -47,7 +47,7 @@
     </div>
     <nav id="menuMobileCtn" class="menu-mobile">
         <ul class="navigation">
-            {% for item in site.data.menu %}
+            {% for item in site.data.menu-pages %}
             {% if include.active == "products" %}
               <li class="active">
             {% else %}
