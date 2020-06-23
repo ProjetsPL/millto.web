@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: DE
+- type: heading
+  label: EN
+- type: heading
   label: PL
 - type: directory
   path: pl
