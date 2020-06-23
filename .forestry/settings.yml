@@ -125,6 +125,15 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: directory
+  path: collections/_products/sk
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
 - type: heading
   label: CS
 - type: directory
@@ -141,6 +150,15 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: directory
+  path: collections/_products/cs
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
 - type: heading
   label: FR
 - type: directory
@@ -157,6 +175,15 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: directory
+  path: collections/_products/fr
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
 - type: heading
   label: ES
 - type: directory
@@ -173,6 +200,15 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: directory
+  path: collections/_products/es
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
 - type: heading
   label: IT
 - type: directory
@@ -189,6 +225,15 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: directory
+  path: collections/_products/it
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
