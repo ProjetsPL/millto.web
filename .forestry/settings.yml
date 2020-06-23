@@ -8,6 +8,12 @@ sections:
   label: DE
 - type: heading
   label: EN
+- type: directory
+  path: en
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
 - type: heading
   label: PL
 - type: directory
