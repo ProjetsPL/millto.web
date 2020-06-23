@@ -11,7 +11,6 @@
 </head>
 
 <body>
-  {% include header.html %}
 
   <div class="page-wrapper">
     {% include topline.html active="products" %}
@@ -24,7 +23,7 @@
                 </div>
                 <div class="beam-item  b-size-2 content">
                     <div class="rating">
-                        <p>Ocena: 4.75</p>
+                        <p>{{site.data.translations.rating[page.lang]}}: 4.75</p>
                         <svg class="star-5" xmlns="http://www.w3.org/2000/svg" width="105" height="16" viewBox="0 0 105 16">
                             <path d="M8.5,0l2.55,5.371,5.95.74-4.374,4.06L13.753,16,8.5,13.138,3.247,16l1.127-5.829L0,6.111l5.95-.74Z"/>
                             <path d="M8.5,0l2.55,5.371,5.95.74-4.374,4.06L13.753,16,8.5,13.138,3.247,16l1.127-5.829L0,6.111l5.95-.74Z" transform="translate(22)"/>
@@ -37,22 +36,28 @@
                         <h1>{{ page.name }}</h1>
                     </div>
                     <div class="date">
-                        Data aktualizacji: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time>
+                      {{site.data.translations.updatedate[page.lang]}}: <time datetime="{{ page.update_date | date_to_xmlschema }}">{{page.update_date | date: '%d-%m-%Y'}}</time>
                     </div>
                     <div class="specyfication">
                       {{ page.card_intro | markdownify}}
                     </div>
                     <div class="action">
                         <!-- <a href="" class="btn btn-sm btn-white"><img src="/assets/img/360.svg" alt="Podgląd 360 stopni">Podgląd 360°</a> -->
-                        <a href="#productContent" class="btn btn-sm"><img src="/assets/img/more-info.svg" alt="Wiecej informacji">więcej informacji</a>
+                        <a href="#productContent" class="btn btn-sm"><img src="/assets/img/more-info.svg" alt="Wiecej informacji">{{site.data.translations.moreinformation[page.lang]}}</a>
                     </div>
                 </div>
             </header>
             <div  id="productContent" class="beam">
                 <nav class="beam-item">
-                    <ul class="breadcrumbs">
-                        <li><a href="/pl/">Strona główna</a></li>
-                        <li><a href="/pl/produkty.html">Produkty</a></li>
+                    <ul class="breadcrumbs">                        
+                        {% for item in site.data.menu %}
+                        {% if  item.pagename == "home" %}
+                          <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                        {% endif %}
+                        {% if  item.pagename == "products" %}
+                          <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                        {% endif %}
+                        {% endfor %}
                         {% if parent_product.name %}
                           <li><a href="{{parent_product.url}}">{{parent_product.name}}</a></li>
                         {% endif %}
@@ -65,18 +70,18 @@
                   {{ content }}
 
                   <nav>
-                      <h4 class="h2 beam-border">Pozostałe produkty</h4>
+                      <h4 class="h2 beam-border">{{site.data.translations.otherproducts[page.lang]}}</h4>
 
                       {% assign parent_product_path = page.parent_product_path %}
                       {% assign products_from_same_parent = site.products | where: "parent_product_path", parent_product_path %}
                       {% assign products_from_same_category = site.products | where: "category_path", page.category_path %}
 
                       {% if products_from_same_parent.size > 1 %}
-                        {% assign products = products_from_same_parent %}
+                        {% assign products = products_from_same_parent | where: "lang", page.lang  %}
                       {% elsif products_from_same_category.size > 1 %}
-                        {% assign products = products_from_same_category %}
+                        {% assign products = products_from_same_category | where: "lang", page.lang  %}
                       {% else %}
-                        {% assign products = site.products | where: "parent_product_path", null %}
+                        {% assign products = site.products | where: "parent_product_path", null | where: "lang", page.lang %}
                       {% endif %}
 
                       {% for product in products %}

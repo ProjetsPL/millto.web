@@ -1,0 +1,59 @@
+-
+  pagename: home
+  pl: 
+    name: "Strona główna"
+    link: "/pl/"
+  en:
+    name: "Home"
+    link:  "/en/"
+  de:
+    name: "Zuhause"
+    link:  "/de/"
+
+-
+  pagename: products
+  pl: 
+    name: "Produkty"
+    link: "/pl/produkty.html"
+  en:
+    name: "Products"
+    link:  "/en/products.html"
+  de:
+    name: "Produkte"
+    link:  "/de/produkte.html"
+
+-
+  pagename: aboutus
+  pl: 
+    name: "O nas"
+    link: "/pl/o-nas.html"
+  en:
+    name: "About us"
+    link:  "/en/about-us.html"
+  de:
+    name: "Über uns"
+    link:  "/de/uber-uns.html"
+
+-
+  pagename: contact
+  pl: 
+    name: "Kontakt"
+    link: "/pl/kontakt.html"
+  en:
+    name: "Contact"
+    link:  "/en/contact.html"
+  de:
+    name: "Kontakt"
+    link:  "/de/kontakt.html"
+
+-
+  pagename: blog
+  pl: 
+    name: "Blog"
+    link: "/pl/blog.html"
+  en:
+    name: "Blog"
+    link:  "/en/blog.html"
+  de:
+    name: "Blog"
+    link:  "/de/blog.html"

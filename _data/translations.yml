@@ -1,0 +1,137 @@
+#Języki
+language:
+  -
+    lang: en
+    path: "/en/"
+    icon: /assets/img/flag-usa.svg
+    pl:
+      name: "Stany Zjednoczone"
+      short-name: "USA"
+      flag: "Flaga USA"
+    en:
+      name: "United States"
+      short-name: "USA"
+      flag: "Flaga USA"
+    de:
+      name: "Vereinigte Staaten."
+      short-name: "USA"
+      flag: "Flagge der Vereinigten Staaten."
+  -
+    lang: pl
+    path: /pl/
+    icon: /assets/img/flag-poland.svg
+    pl: 
+      name: "Polska"
+      short-name: "PL"
+      flag: "Flaga Polski"
+    en:
+      name: "Poland"
+      short-name: "PL"
+      flag: "Poland flag"
+    de:
+      name: "Polen"
+      short-name: "PL"
+      flag: "Polnische Flagge"
+  -
+    lang: de
+    path: /de/
+    icon: /assets/img/flag-germany.svg
+    pl: 
+      name: "Niemcy"
+      short-name: "DE"
+      flag: "Flaga Niemiec"
+    en:
+      name: "Germany"
+      short-name: "DE"
+      flag: "Germany flag"
+    de:
+      name: "Deutschland"
+      short-name: "DE"
+      flag: "Deutsche Flagge"
+
+#Tłumaczenia
+
+contact: 
+  pl: "Kontakt"
+  en: "Contact"
+  de: "Kontakt"
+
+contacticon: 
+  pl: "Ikona kontaktu"
+  en: "Contact icon"
+  de: "Kontaktsymbol"
+
+callnow:
+  pl: "Zadzwoń teraz"
+  en: "Call now"
+  de: "Jetzt anrufen"
+
+phoneicon:
+  pl: "Ikona telefonu"
+  en: "Phone icon"
+  de: "Telefonsymbol"
+
+sendemail:
+  pl: "Wyślij e-mail"
+  en: "Send e-mail"
+  de: "e-mail senden"
+
+emailicon:
+  pl: "Ikona e-mail"
+  en: "e-mail icon"
+  de: "e-mail-Symbol"
+
+startchat:
+  pl: "Rozpocznij chat"
+  en: "Start chat"
+  de: "Starten Sie den Chat"
+
+chaticon:
+  pl: "Ikona rozmowyu online"
+  en: "Chat icon"
+  de: "Online-Chat-Symbol"
+
+chooselanguage:
+  pl: "Wybierz język"
+  en: "Choose language"
+  de: "Sprache wählen"
+
+startpage:
+  pl: "Strona startowa"
+  en: "Start page"
+  de: "Startseite"
+
+featuredproducts:
+  pl: "Polecane produkty"
+  en: "Featured Products"
+  de: "Ausgewählte Produkte"
+
+featuredarticles:
+  pl: "Polecane artykuły"
+  en: "Featured Articles"
+  de: "Ausgewählte Artikel"
+
+rating:
+  pl: "Ocena"
+  en: "Rating"
+  de: "Bewertung"
+
+updatedate:
+  pl: "Data aktualizacji"
+  en: "update date"
+  de: "Aktualisierungsdatum"
+
+moreinformation:
+  pl: "Pokaż wszystkie"
+  en: "More information"
+  de: "Mehr Informationen"
+
+showall:
+  pl: "Więcej informacji"
+  en: "Show all"
+  de: "Zeige alles"
+
+otherproducts:
+  pl: "Pozostałe produkty"
+  en: "Other products"
+  de: "Andere Produkte"

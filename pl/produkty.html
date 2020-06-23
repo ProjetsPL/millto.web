@@ -1,24 +1,32 @@
 ---
 layout: products
-title: Millto | Produkty
-description: "Wybór poszczególnych części tworzących instalacje domowe uzależnia się od kilku bardzo ważnych czynników. Dwoma najważniejszymi są: jakość produktów oraz kwestia bezpieczeństwa. "
+title: "Millto | Produkty"
+description: "Wybór części do instalacji domowych jest uzależniony od kilku ważnych czynników. Najważniejsze z nich to jakość produktów oraz kwestia bezpieczeństwa"
 ---
 <div class="page page-products-listing">
   <div class="beams-wrapper global-beam-wrapper">
       <div class="beam">
           <nav class="beam-item">
-              <ul class="breadcrumbs">
-                <li><a href="/pl/">Strona główna</a></li>
-                <li><a href="{{ page.url }}">Produkty</a></li>
-              </ul>
+            <ul class="breadcrumbs">
+              {% for item in site.data.menu %}
+                {% if  item.pagename == "home" %}
+                  <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                {% endif %}
+                {% if  item.pagename == "products" %}
+                  <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                {% endif %}
+              {% endfor %}
+            </ul>
           </nav>
       </div>
       <main class="beam b-size-4 products-listing-content">
           <div class="beam-item b-size-3 products-listing-text">
               <h1>Produkty</h1>
               <p>Wybór poszczególnych części tworzących instalacje domowe uzależnia się od kilku bardzo ważnych czynników. Dwoma najważniejszymi są: jakość produktów oraz kwestia bezpieczeństwa. Dla przykładu – tworząc instalację ogrzewania podłogowego, należy zwrócić uwagę na dopasowanie odpowiedniego rozdzielacza, który będzie wydajny. Podobnie wygląda kwestia systemów wodnych..</p>
+            
+              {% assign product_category_lang = site.product_categories | where: "lang", page.lang %}
 
-              {% for product_category in site.product_categories %}
+              {% for product_category in product_category_lang %}
                 {% include parts/product-category-section.html product_category=product_category %}
               {% endfor %}
           </div>

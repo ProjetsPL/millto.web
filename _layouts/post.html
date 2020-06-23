@@ -15,7 +15,6 @@
 </head>
 
 <body>
-  {% include header.html %}
 
   <div class="page-wrapper">
     {% include topline.html active="blog" %}
@@ -25,8 +24,14 @@
             <div class="beam">
                 <nav class="beam-item">
                     <ul class="breadcrumbs">
-                        <li><a href="/pl/">Strona główna</a></li>
-                        <li><a href="/pl/blog.html">Blog</a></li>
+                        {% for item in site.data.menu %}
+                          {% if  item.pagename == "home" %}
+                            <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                          {% endif %}
+                          {% if  item.pagename == "blog" %}
+                            <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                          {% endif %}
+                        {% endfor %}
                         <li><a href="{{ page.url }}">{{page.h1}}</a></li>
                     </ul>
                 </nav>
@@ -50,7 +55,7 @@
                     {{ content | inject_anchors }}
 
                     <nav>
-                        <h3 class="beam-border">Polecane produkty</h3>
+                        <h3 class="beam-border">{{site.data.translations.featuredproducts[page.lang]}}</h3>
                         {% for related_product in related_products %}
                           {% include parts/products-listing-listitem.html product=related_product%}
                         {% endfor %}
@@ -68,7 +73,7 @@
             </div>
             <div class="beam b-size-4 article-blog">
                 <div class="beam-item b-size-6">
-                    <h3 class="beam-border">Polecane artykuły</h3>
+                    <h3 class="beam-border">{{site.data.translations.featuredarticles[page.lang]}}</h3>
                 </div>
                 {% assign i = 0 %}
                 {% assign promoted_posts = site.posts | where: 'promoted', true %}

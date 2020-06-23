@@ -1,0 +1,44 @@
+---
+layout: about
+title: "Millto | Hochwertige Ausrüstung"
+description: "Planen Sie Renovierung? Müssen Sie ein Heizungs- oder Wassersystem in Ihrem Haus planen? 🏡 Stellen Sie sicher, dass Sie die beste Ausrüstung erhalten. ✔️ Wählen Sie Qualität und Sicherheit."
+
+---
+<div class="page page-about">
+    <div class="beams-wrapper global-beam-wrapper">
+        <div class="beam">
+            <nav class="beam-item">
+                <ul class="breadcrumbs">
+                    {% for item in site.data.menu %}
+                      {% if  item.pagename == "home" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                      {% if  item.pagename == "aboutus" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+        <main class="beam b-size-4  about-content">
+            <div class="beam-item b-size-3  about-text">
+                <h1>Millto – Baumaterialien, Heizungsinstallation und Wassersysteme</h1>
+                <p>Millto ist eine Marke, die sich auf die Produktion einer Vielzahl von Baumaterialien, Heizsystemen Elementen sowie Wasser- und Abwasseranlagen Ausrüstung spezialisiert hat. Was macht uns besonders? Am wichtigsten ist unser umfangreicher technischer Hintergrund in Verbindung mit der großen Geschäftserfahrung – was uns hilft, unseren Kunden den besten Service zu bieten.</p>
+                <h2>Unser Auftrag ist Ihre Zufriedenheit!</h2>
+                <p>Wir legen Wert auf Innovation und suchen ständig nach Wegen, um voranzukommen. Deshalb wählen wir Lösungen auf der Grundlage der neuesten Technologie, die den aktuellsten Bedürfnissen des Marktes entsprechen. Wir sind zuversichtlich, dass ein sicheres und voll funktionsfähiges Zuhause den Gesamtkomfort Ihres Lebens verbessert.</p>
+                <h2>Gestalten Sie Ihre Zukunft mit uns</h2>
+                <p>Wir sind ständig auf dem Laufenden über die neuesten Lösungen und Technologien, was uns einen Wettbewerbsvorteil verschafft. Wir sind ständig in Bewegung, indem wir nach neuen Produkten suchen, die alle Bedürfnisse unserer Kunden erfüllen. Wir wiederholen keine bereits bekannten Schemata. Wir setzen neue Standards in der Branche.</p>
+                <h2>Makellose Perfektion und ausgezeichnete Qualität – anders als anderswo</h2>
+                <p>Die von uns angebotenen Lösungen entsprechen den Normen und verfügen über alle erforderlichen Zertifikate. Was sie besonders macht, ist die Sicherheit - für Mensch, Gebäude und deren Systeme, aber auch für die Umwelt. Wir treffen unsere Entscheidungen mit Blick auf die soziale Verantwortung unseres Unternehmens - zur Förderung ethischen Verhaltens und zur Gestaltung positiver Beziehungen zu unseren Partnern.</p>
+                <p>Wir legen Wert auf Dauerhaftigkeit. 100% unserer Produkte werden sorgfältig geprüft, bevor sie auf den Markt gebracht werden können. Deshalb können Sie sicher sein, dass Sie nichts bekommen, was nicht schon einmal von uns getestet wurde.</p>
+                <h2>Einfacher Kontakt – wann immer Sie ihn brauchen</h2>
+                <p>Wir kümmern uns immer um unsere Kunden. Sie können uns auf jede für Sie passende Weise kontaktieren. Wenn Sie es wünschen, erhalten Sie während des gesamten Kaufprozesses technische Unterstützung.</p>
+            </div>
+            <div class="beam-item b-size-1">
+                <div class="sticky-element">
+                    {% include parts/contact-profile.html %}
+                </div>
+            </div>
+        </main>
+    </div>
+</div>

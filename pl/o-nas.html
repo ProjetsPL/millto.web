@@ -1,8 +1,7 @@
 ---
 layout: about
-title: Millto | Najlepsze Wyposażenie na Rynku
-description: "Planujesz wykonanie instalacji grzewczej lub wodnej w swoim domu? Czeka
-  Cię remont? \U0001F3E1 Wybierz najlepsze produkty. ✔️Postaw na jakość i swoje bezpieczeństwo."
+title: "Millto | Najlepsze Wyposażenie na Rynku"
+description: "Planujesz wykonanie instalacji grzewczej lub wodnej w swoim domu? Czeka Cię remont? 🏡 Wybierz najlepsze produkty. ✔️Postaw na jakość i swoje bezpieczeństwo."
 
 ---
 <div class="page page-about">
@@ -10,8 +9,14 @@ description: "Planujesz wykonanie instalacji grzewczej lub wodnej w swoim domu? 
         <div class="beam">
             <nav class="beam-item">
                 <ul class="breadcrumbs">
-                    <li><a href="/pl/">Strona główna</a></li>
-                    <li><a href="{{ page.url }}">O nas</a></li>
+                    {% for item in site.data.menu %}
+                      {% if  item.pagename == "home" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                      {% if  item.pagename == "aboutus" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                    {% endfor %}
                 </ul>
             </nav>
         </div>

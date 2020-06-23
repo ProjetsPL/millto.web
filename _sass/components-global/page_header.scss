@@ -126,13 +126,15 @@
             }
             li {
                 background-color: $gray-0;
-                border-top: $gray-border;
+                border-bottom: $gray-border;
                 border-left: $gray-border;
                 border-right: $gray-border;
                 height:  var(--header-height);
+                top: 2px;
+                position: relative;
                 order:2;
                 &:last-child {
-                    border-bottom: $gray-border;
+                    // border-bottom: $gray-border;
                 }
                 &:hover {
                     background-color: $gray-1;
@@ -176,6 +178,7 @@
         display: none;
         @media (max-width: 760px) {
             display: flex;
+            align-items: center;
         }
         background-color: $gray-0;
         border: 0px;

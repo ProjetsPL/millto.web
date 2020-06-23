@@ -1,0 +1,44 @@
+---
+layout: about
+title: "Millto | Top Quality Equipment"
+description: "Planning home improvement? Need to design heating or water system in your house? 🏡 Make sure to get the best equipment. ✔️ Choose quality and safety."
+
+---
+<div class="page page-about">
+    <div class="beams-wrapper global-beam-wrapper">
+        <div class="beam">
+            <nav class="beam-item">
+                <ul class="breadcrumbs">
+                    {% for item in site.data.menu %}
+                      {% if  item.pagename == "home" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                      {% if  item.pagename == "aboutus" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+        <main class="beam b-size-4  about-content">
+            <div class="beam-item b-size-3  about-text">
+                <h1>Millto - building materials, heating installation and water systems</h1>
+                <p>Millto is a brand specializing in production of a wide variety of construction materials, heating systems and water and sewage management equipment. What makes us special? Most importantly, our extensive technical background combined with the great business experience – which helps us to provide the best service to our Customers.</p>
+                <h2>Our mission is your satisfaction!</h2>
+                <p>We value innovation and constantly seek ways to advance. That’s why we choose solutions based on the latest technology that meet the most current needs of the market. We are confident that safe and fully functional home improves the overall comfort of your life.</p>
+                <h2>Create your future with us</h2>
+                <p>We constantly keep track on the latest solutions and technologies, which gives us competitive advantage. We are always on the move by searching for new products to meet all the needs of our Customers. We do not repeat already known schemes. We set new standards in the industry.</p>
+                <h2>Flawless perfection and excellent quality – unlike anywhere else</h2>
+                <p>The solutions we provide are compliant with standards and have all the necessary certificates. What makes them special is safety – for humans, buildings and their systems, as well as for the environment. We make our decisions with the social responsibility of our business in mind – to promote ethical behaviour and shape positive relations with our partners.</p>
+                <p>We value long-lasting durability. 100% of our products are carefully tested before they can be put on the market. Therefore, you can be sure that you will not get anything that has not been already tested by us.</p>
+                <h2>Easy contact – whenever you need</h2>
+                <p>We always care for our customers. You can contact us in any way that suits you. If you need, you will receive technical support during the whole purchase process.</p>
+            </div>
+            <div class="beam-item b-size-1">
+                <div class="sticky-element">
+                    {% include parts/contact-profile.html %}
+                </div>
+            </div>
+        </main>
+    </div>
+</div>

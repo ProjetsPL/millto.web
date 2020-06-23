@@ -3,64 +3,39 @@
         <div class="beam">
             <div class="beam-item">
                 <div class="logo">
+                    {% if page.lang == "pl" %}
                     <a href="/pl/" class="graphic">
+                    {% elsif page.lang == "en" %}
+                    <a href="/en/" class="graphic">
+                        {% elsif page.lang == "de" %}
+                        <a href="/de/" class="graphic">
+                    {% endif %}    
                         <img src="/assets/img/logo.svg" alt="Millto logo">
                     </a>
                     <p class="slogan">Heating & water systems</p>
                 </div>
                 <nav class="menu">
+
                     <ul class="navigation">
-                        {% if include.active == "products" %}
-                          <li class="active">
-                        {% else %}
-                          <li>
-                        {% endif %}
-                            <a href="/pl/produkty.html">Produkty</a>
+                        {% for item in site.data.menu %}
+                        <li>              
+                            <a href="{{item.[page.lang].link}}">{{item.[page.lang].name}}</a>      
                         </li>
-
-                        {% if include.active == "about" %}
-                          <li class="active">
-                        {% else %}
-                          <li>
-                        {% endif %}
-                            <a href="/pl/o-nas.html">O nas</a>
-                        </li>
-
-                        {% if include.active == "contact" %}
-                          <li class="active">
-                        {% else %}
-                          <li>
-                        {% endif %}
-                            <a href="/pl/kontakt.html">Kontakt</a>
-                        </li>
-
-                        {% if include.active == "blog" %}
-                          <li class="active">
-                        {% else %}
-                          <li>
-                        {% endif %}
-                            <a href="/pl/blog.html">Blog</a>
-                        </li>
+                        {% endfor %}
                     </ul>
-                <ul class="language">
+                <ul class="language">                    
+                    {% for item in site.data.translations.language %}
+                    {% if page.lang == item.lang %}
                     <li class="active">
-                        <a href="/pl/">
-                            <img src="/assets/img/flag-poland.svg" alt="Flaga Polski">
-                            <span>Polska</span>
-                        </a>
-                    </li>
-                    <!-- <li>
-                        <a href="">
-                            <img src="/assets/img/flag-usa.svg" >
-                            <span>United States</span>
-                        </a>
-                    </li>
+                     {% else %}
                     <li>
-                        <a href="">
-                            <img src="/assets/img/flag-germany.svg" >
-                            <span>Deutschland</span>
+                    {% endif %}
+                        <a href="{{item.path}}">
+                            <img src="{{item.icon}}" alt="{{item.[page.lang].flag}}">
+                            <span>{{item.[page.lang].name}}</span>
                         </a>
-                    </li> -->
+                    </li>
+                    {% endfor %}
                 </ul>
                 </nav>
                 <button id="menuMobileBtn" class="menu-mobile-btn">
@@ -72,18 +47,15 @@
     </div>
     <nav id="menuMobileCtn" class="menu-mobile">
         <ul class="navigation">
-            <li class="active">
-                <a href="/pl/produkty.html">Produkty</a>
+            {% for item in site.data.menu %}
+            {% if include.active == "products" %}
+              <li class="active">
+            {% else %}
+              <li>
+            {% endif %}                        
+                <a href="{{item.[page.lang].link}}">{{item.[page.lang].name}}</a>      
             </li>
-            <li>
-                <a href="/pl/o-nas.html">O nas</a>
-            </li>
-            <li>
-                <a href="/pl/kontakt.html">Kontakt</a>
-            </li>
-            <li>
-                <a href="/pl/blog.html">Blog</a>
-            </li>
+            {% endfor %}
         </ul>
     </nav>
 </header>

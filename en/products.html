@@ -1,0 +1,41 @@
+---
+layout: products
+title: "Millto | Products"
+description: "The choice of parts for a building’s systems depends on various factors. The most important ones are: the quality of the products and their safety"
+---
+<div class="page page-products-listing">
+  <div class="beams-wrapper global-beam-wrapper">
+      <div class="beam">
+          <nav class="beam-item">
+              <ul class="breadcrumbs">
+                {% for item in site.data.menu %}
+                  {% if  item.pagename == "home" %}
+                    <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                  {% endif %}
+                  {% if  item.pagename == "products" %}
+                    <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                  {% endif %}
+                {% endfor %}
+              </ul>
+          </nav>
+      </div>
+      <main class="beam b-size-4 products-listing-content">
+          <div class="beam-item b-size-3 products-listing-text">
+              <h1>Products</h1>
+              <p>The decision which elements are suitable for a building system depends on several important factors. The two most important ones are: the quality of the products and their safety levels. For instance – if you want to create a floor heating system, you should pay attention to the manifold – it should be as efficient as possible. It’s quite similar with water systems.</p>
+
+              
+            {% assign product_category_lang = site.product_categories | where: "lang", page.lang %}
+
+              {% for product_category in product_category_lang %}
+                {% include parts/product-category-section.html product_category=product_category %}
+              {% endfor %}
+          </div>
+          <div class="beam-item b-size-1">
+              <div class="sticky-element">
+                  {% include parts/contact-profile.html %}
+              </div>
+          </div>
+      </main>
+  </div>
+</div>

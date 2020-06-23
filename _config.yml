@@ -79,17 +79,31 @@ defaults:
   #### US ####
   -
     scope:
-      path: "us"
+      path: "en"
     values:
-      lang: "us"
-      full-lang: 'en-US'
+      lang: "en"
+      full-lang: 'en'
   -
     scope:
-      path: "_posts/us"
+      path: "_posts/en"
     values:
-      lang: "us"
-      full-lang: 'en-US'
-      categories: "us"
+      lang: "en"
+      full-lang: 'en'
+      categories: "en"
+  -
+    scope:
+      path: "_product_categories/en"
+    values:
+      lang: "en"
+      full-lang: 'en'
+      categories: "en product_categories"
+  -
+    scope:
+      path: "_products/en"
+    values:
+      lang: "en"
+      full-lang: "en"
+      categories: "en products"
 
   #### PL ####
   -
@@ -107,8 +121,44 @@ defaults:
       categories: "pl"
   -
     scope:
+      path: "_product_categories/pl"
+    values:
+      lang: "pl"
+      full-lang: "pl"
+      categories: "pl product_categories"
+  -
+    scope:
       path: "_products/pl"
     values:
       lang: "pl"
       full-lang: "pl"
       categories: "pl produkty"
+
+  #### DE ####
+  -
+    scope:
+      path: "de"
+    values:
+      lang: "de"
+      full-lang: "de"
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      lang: "de"
+      full-lang: "de"
+      categories: "de"
+  -
+    scope:
+      path: "_product_categories/de"
+    values:
+      lang: "de"
+      full-lang: "de"
+      categories: "de product_categories"
+  -
+    scope:
+      path: "_products/de"
+    values:
+      lang: "de"
+      full-lang: "de"
+      categories: "de produkty"
