@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: _data
-  label: Zarządzanie językami
+  label: Zarządzanie jezykami
   create: all
   match: "**/*"
   new_doc_ext: yml
