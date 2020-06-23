@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: _data
+  label: Zarządzanie językami
+  create: all
+  match: "**/*"
+  new_doc_ext: yml
 - type: heading
   label: PL
 - type: directory
@@ -31,6 +37,72 @@ sections:
   - product
 - type: directory
   path: collections/_product_categories/pl
+  label: Kategorie Produktów
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-category
+- type: heading
+  label: EN
+- type: directory
+  path: en
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+- type: directory
+  path: collections/_posts/en
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
+  path: collections/_products/en
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
+- type: directory
+  path: collections/_product_categories/en
+  label: Kategorie Produktów
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-category
+- type: heading
+  label: DE
+- type: directory
+  path: de
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+- type: directory
+  path: collections/_posts/de
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
+  path: collections/_products/de
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
+- type: directory
+  path: collections/_product_categories/de
   label: Kategorie Produktów
   create: all
   match: "**/*"
