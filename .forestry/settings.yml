@@ -5,41 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: DE
-- type: heading
-  label: EN
-- type: directory
-  path: en
-  label: Strony
-  create: all
-  match: "**/*"
-  new_doc_ext: html
-- type: directory
-  path: collections/_posts/en
-  label: Posty
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
-  path: collections/_products/en
-  label: Produkty
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - product-group
-  - product
-- type: directory
-  path: collections/_product_categories/en
-  label: Kategorie Produktów
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - product-category
-- type: heading
   label: PL
 - type: directory
   path: pl
@@ -72,6 +37,47 @@ sections:
   new_doc_ext: md
   templates:
   - product-category
+- type: heading
+  label: EN
+- type: directory
+  path: en
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+- type: directory
+  path: collections/_posts/en
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
+  path: collections/_products/en
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
+- type: directory
+  path: collections/_product_categories/en
+  label: Kategorie Produktów
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-category
+- type: heading
+  label: DE
+- type: directory
+  path: en
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
