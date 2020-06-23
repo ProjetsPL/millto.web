@@ -5,38 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: collections/_posts/it
-  label: Posty
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
-  path: collections/_posts/es
-  label: Posty
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
-  path: collections/_posts/fr
-  label: Posty
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
-  path: collections/_posts/cs
-  label: Posty
-  create: all
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
   path: _data
   label: Zarządzanie jezykami
   create: all
@@ -165,6 +133,14 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: html
+- type: directory
+  path: collections/_posts/cs
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
 - type: heading
   label: FR
 - type: directory
@@ -173,6 +149,14 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: html
+- type: directory
+  path: collections/_posts/fr
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
 - type: heading
   label: ES
 - type: directory
@@ -181,6 +165,14 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: html
+- type: directory
+  path: collections/_posts/es
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
 - type: heading
   label: IT
 - type: directory
@@ -189,6 +181,14 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: html
+- type: directory
+  path: collections/_posts/it
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
