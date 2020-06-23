@@ -134,6 +134,14 @@ sections:
   templates:
   - product-group
   - product
+- type: directory
+  path: collections/_product_categories/sk
+  label: Kategorie Produktów
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-category
 - type: heading
   label: CS
 - type: directory
