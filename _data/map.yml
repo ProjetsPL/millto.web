@@ -1,28 +1,20 @@
-## Strona główna
+## Strony statyczne
 -
   pl: pl/index.html
   en: en/index.html
   de: de/index.html
-  
-  ## Produkty
 -
   pl: pl/produkty.html
   en: en/products.html
   de: de/produkte.html
-  
-  ## O nas
 -
   pl: pl/o-nas.html
   en: en/about-us.html
   de: de/uber-uns.html
-
-  ## Kontakt
 -
   pl: pl/kontakt.html
   en: en/contact.html
   de: de/kontakt.html
-
-  ## Blog
 -
   pl: pl/blog.html
   en: en/blog.html
