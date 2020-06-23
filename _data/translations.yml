@@ -2,83 +2,168 @@ contact:
   pl: "Kontakt"
   en: "Contact"
   de: "Kontakt"
+  sk: "Kontakt"
+  cs: "Kontakt"
+  fr: "Contact"
+  es: "Contacto"
+  it: "Contatto"
 
 contacticon: 
   pl: "Ikona kontaktu"
   en: "Contact icon"
   de: "Kontaktsymbol"
+  sk: "Ikona kontaktu"
+  cs: "Ikona kontaktu"
+  fr: "Icône de contact."
+  es: "Icono de contacto"
+  it: "Icona di contatto."
 
 callnow:
   pl: "Zadzwoń teraz"
   en: "Call now"
   de: "Jetzt anrufen"
+  sk: "Zavolej teď"
+  cs: "Zavolajte teraz"
+  fr: "Appelle maintenant"
+  es: "Llama ahora"
+  it: "Chiamare ora"
 
 phoneicon:
   pl: "Ikona telefonu"
   en: "Phone icon"
   de: "Telefonsymbol"
+  sk: "Ikona telefónu"
+  cs: "Ikona telefonu"
+  fr: "Icône de téléphone"
+  es: "Icono del teléfono"
+  it: "Icona del telefono"
 
 sendemail:
   pl: "Wyślij e-mail"
   en: "Send e-mail"
   de: "e-mail senden"
+  sk: "Poslať email"
+  cs: "Poslat email"
+  fr: "Envoyer un e-mail"
+  es: "Enviar un correo electrónico"
+  it: "Invia una email"
 
 emailicon:
   pl: "Ikona e-mail"
   en: "e-mail icon"
   de: "e-mail-Symbol"
+  sk: "ikona e-mailu"
+  cs: "ikona e-mailu"
+  fr: "icône e-mail"
+  es: "icono de correo electrónico"
+  it: "icona e-mail"
 
 startchat:
   pl: "Rozpocznij chat"
   en: "Start chat"
   de: "Starten Sie den Chat"
+  sk: "Spustiť chat"
+  cs: "Začít konverzaci"
+  fr: "Démarrer la discussion"
+  es: "Comenzar chat"
+  it: "Inizia chat"
 
 chaticon:
   pl: "Ikona rozmowyu online"
   en: "Chat icon"
   de: "Online-Chat-Symbol"
+  sk: "Ikona rozmowyu online"
+  cs: "Ikona rozmowyu online"
+  fr: "Icône de chat"
+  es: "Icono de chat"
+  it: "Icona della chat"
 
 chooselanguage:
   pl: "Wybierz język"
   en: "Choose language"
   de: "Sprache wählen"
+  sk: "Vyberte jazyk"
+  cs: "Vyber jazyk"
+  fr: "Choisissez la langue"
+  es: "Elige lengua"
+  it: "Scegli la lingua"
 
 startpage:
   pl: "Strona startowa"
   en: "Start page"
   de: "Startseite"
+  sk: "Úvodná stránka"
+  cs: "Úvodní stránka"
+  fr: "Page de démarrage"
+  es: "Página de inicio"
+  it: "Pagina iniziale"
 
 featuredproducts:
   pl: "Polecane produkty"
   en: "Featured Products"
   de: "Ausgewählte Produkte"
+  sk: "Vybrané produkty"
+  cs: "Představované výrobky"
+  fr: "Produits populaires"
+  es: "Productos Destacados"
+  it: "Prodotti sponsorizzati"
 
 featuredarticles:
   pl: "Polecane artykuły"
   en: "Featured Articles"
   de: "Ausgewählte Artikel"
+  sk: "Najlepšie články"
+  cs: "Doporučené články"
+  fr: "Articles en vedette"
+  es: "Artículos relacionados"
+  it: "Articoli in vetrina"
 
 rating:
   pl: "Ocena"
   en: "Rating"
   de: "Bewertung"
+  sk: "Rating"
+  cs: "Hodnocení"
+  fr: "Évaluation"
+  es: "Clasificación"
+  it: "Valutazione"
 
 updatedate:
   pl: "Data aktualizacji"
-  en: "update date"
+  en: "Update date"
   de: "Aktualisierungsdatum"
-
-moreinformation:
-  pl: "Pokaż wszystkie"
-  en: "More information"
-  de: "Mehr Informationen"
+  sk: "Aktualizovať dátum"
+  cs: "Datum aktualizace"
+  fr: "Date de mise à jour"
+  es: "Fecha de actualización"
+  it: "Data di aggiornamento"
 
 showall:
-  pl: "Więcej informacji"
+  pl: "Pokaż wszystkie"
   en: "Show all"
   de: "Zeige alles"
+  sk: "Ukázať všetko"
+  cs: "Ukázat vše"
+  fr: "Afficher tout"
+  es: "Mostrar todo"
+  it: "Mostra tutto"
+
+moreinformation:
+  pl: "Więcej informacji"
+  en: "More information"
+  de: "Mehr Informationen"
+  sk: "Viac informácií"
+  cs: "Více informací"
+  fr: "Plus d'information"
+  es: "Más información"
+  it: "Maggiori informazioni"
 
 otherproducts:
   pl: "Pozostałe produkty"
   en: "Other products"
   de: "Andere Produkte"
+  sk: "Iné produkty"
+  cs: "Ostatní produkty"
+  fr: "Autres produits"
+  es: "Otros productos"
+  it: "Altri prodotti"

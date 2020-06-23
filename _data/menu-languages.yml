@@ -19,3 +19,38 @@
   name: "Deutschland"
   short-name: "DE"
   flag: "Deutsche Flagge"
+-
+  lang: 	sk
+  path: /sk/
+  icon: /assets/img/flag-slovakia.svg
+  name: "Slovensko"
+  short-name: "SK"
+  flag: "slovenská vlajka"
+-
+  lang: 	cs
+  path: /cs/
+  icon: /assets/img/flag-czech.svg
+  name: "Česko"
+  short-name: "CS"
+  flag: "Česká vlajka"
+-
+  lang: 	fr
+  path: /fr/
+  icon: /assets/img/flag-france.svg
+  name: "France"
+  short-name: "FR"
+  flag: "drapeau français"
+-
+  lang: 	es
+  path: /es/
+  icon: /assets/img/flag-spain.svg
+  name: "España"
+  short-name: "ES"
+  flag: "Bandera de españa"
+-
+  lang: 	it
+  path: /it/
+  icon: /assets/img/flag-Italy.svg
+  name: "Italia"
+  short-name: "IT"
+  flag: "Bandiera italiana"

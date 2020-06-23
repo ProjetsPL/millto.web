@@ -3,13 +3,7 @@
         <div class="beam">
             <div class="beam-item">
                 <div class="logo">
-                    {% if page.lang == "pl" %}
-                    <a href="/pl/" class="graphic">
-                    {% elsif page.lang == "en" %}
-                    <a href="/en/" class="graphic">
-                        {% elsif page.lang == "de" %}
-                        <a href="/de/" class="graphic">
-                    {% endif %}    
+                    <a href="/{{ page.lang }}/" class="graphic">
                         <img src="/assets/img/logo.svg" alt="Millto logo">
                     </a>
                     <p class="slogan">Heating & water systems</p>

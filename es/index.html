@@ -1,0 +1,93 @@
+---
+layout: index
+title: "Millto | Sistemas de calefacción, productos sanitarios, materiales de construcción"
+description: "Millto es una respuesta integral a las necesidades de un edificio y de las personas que viven en su interior. Ofrecemos una selección probada de productos que cumplen con todos los estándares."
+
+---
+<div class="beams-wrapper global-beam-wrapper">
+    <aside class="beam b-size-6 index-banners">
+        <div class="beam-item b-size-6">
+            <section class="main-banner">
+                <img src="/assets/img/banner-main.png" alt="Rozdzielacze do centralnego ogrzewania">
+                <div class="content">
+                    <h3 class="h-xl">Colectores de calefacción central de latón </h3>
+                    <p>Un colector es un elemento de uso común en los últimos años, tanto en edificios residenciales como industriales. Puede ser usado para radiadores así como para sistemas de calefacción por suelo.</p>
+                    <a href="" class="btn">Más información</a>
+                </div>
+            </section>
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/glowica-test.jpg" alt="Válvula termostática">
+                </div>
+                <div class="banner-title">
+                    <span>Válvula termostática</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/osadnik-test.jpg" alt="Tanque de desagüe">
+                </div>
+                <div class="banner-title">
+                    <span>Tanque de desagüe</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/pokrywa-test.jpg" alt="Boca de alcantarilla">
+                </div>
+                <div class="banner-title">
+                    <span>Boca de alcantarilla</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+    </aside>
+    <div class="beam b-size-6 beam-border index-content">
+        <div class="beam-item b-size-3">
+            <h1 class="h2 first-h">Sistemas de calefacción, sanitarios, materiales de construcción. ¡Descubre las posibilidades de tu casa!</h1>
+            <p>Millto representa una respuesta integral a las necesidades de un edificio y de las personas que viven en su interior. Conscientes de la importancia de la seguridad, sólo ofrecemos una selección de productos probados y comprobados que cumplen con todas las normas. Con nuestros productos puede descubrir el verdadero confort.</p>
+        </div>
+        <div class="beam-item b-size-3">
+            <h2 class="h2 first-h">Su satisfacción es crucial</h2>
+            <p>El equipo funcional por sí solo no es suficiente, también debe ser fácil de instalar y usar. Los productos seleccionados consciente y cuidadosamente son una garantía de satisfacción. Contrariamente a la creencia popular, los productos y sistemas sanitarios no tienen que ser tan complicados como parecen.</p>
+        </div>
+    </div>
+    <section class="beam b-size-6 beam-border index-blog">
+        <div class="beam-item b-size-2">
+            <h2 class="first-h">Aprende algo más</h2>
+            <p>Tal vez le interesen los sistemas de calefacción y fontanería. Tal vez quiera aprender a lograr los objetivos de diseño interior que se ha fijado. O tal vez sólo quieres satisfacer tu curiosidad. En cualquier caso, siéntase libre de elegir un tema interesante y reunir los conocimientos de los expertos.</p>
+           
+
+            <a href="/es/blog.html" class="btn">Lea más</a>
+        </div>
+        {% assign posts=site.posts | where:"lang", page.lang %}
+        {% for post in posts  limit: 2 %}
+          <div class="beam-item b-size-2">
+              {% include parts/articles-listing-boxitem.html post=post %}
+          </div>
+        {% endfor %}
+      </section>
+</div>

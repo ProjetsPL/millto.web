@@ -1,0 +1,44 @@
+---
+layout: about
+title: "Millto | Un équipement de qualité"
+description: "Vous envisagez de rénover votre maison ? Vous avez besoin de concevoir un système de chauffage ou d'eau dans votre maison ? 🏡 Assurez-vous d'obtenir le meilleur équipement. ✔️ Choisissez la qualité et la sécurité."
+
+---
+<div class="page page-about">
+    <div class="beams-wrapper global-beam-wrapper">
+        <div class="beam">
+            <nav class="beam-item">
+                <ul class="breadcrumbs">
+                    {% for item in site.data.menu-pages %}
+                      {% if  item.pagename == "home" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                      {% if  item.pagename == "aboutus" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+        <main class="beam b-size-4  about-content">
+            <div class="beam-item b-size-3  about-text">
+                <h1>Millto - matériaux de construction, installation de chauffage et systèmes d'eau</h1>
+                <p>Millto est une marque spécialisée dans la production d'une grande variété de matériaux de construction, de systèmes de chauffage et d'équipements de gestion de l'eau et des eaux usées. Qu'est-ce qui nous rend spéciaux ? Avant tout, notre vaste bagage technique combiné à une grande expérience commerciale - qui nous aide à fournir le meilleur service à nos clients.</p>
+                <h2>Notre mission est votre satisfaction !</h2>
+                <p>Nous apprécions l'innovation et cherchons constamment des moyens de progresser. C'est pourquoi nous choisissons des solutions basées sur les dernières technologies qui répondent aux besoins les plus actuels du marché. Nous sommes convaincus qu'une maison sûre et pleinement fonctionnelle améliore le confort général de votre vie.</p>
+                <h2>Créez votre avenir avec nous</h2>
+                <p>Nous suivons en permanence les dernières solutions et technologies, ce qui nous donne un avantage concurrentiel. Nous sommes toujours en mouvement en recherchant de nouveaux produits pour répondre à tous les besoins de nos clients. Nous ne répétons pas les schémas déjà connus. Nous établissons de nouveaux standards dans l'industrie.</p>
+                <h2>Une perfection sans faille et une excellente qualité - comme nulle part ailleurs.</h2>
+                <p>Les solutions que nous proposons sont conformes aux normes et disposent de tous les certificats nécessaires. Ce qui les rend spéciales, c'est la sécurité - pour les hommes, les bâtiments et leurs systèmes, ainsi que pour l'environnement. Nous prenons nos décisions en gardant à l'esprit la responsabilité sociale de notre entreprise - afin de promouvoir un comportement éthique et d'établir des relations positives avec nos partenaires.</p>
+                <p>Nous accordons une grande importance à la durabilité. 100% de nos produits sont soigneusement testés avant d'être mis sur le marché. Vous pouvez donc être sûr que vous n'obtiendrez rien qui n'ait déjà été testé par nous.</p>
+                <h2>Un contact facile - quand vous en avez besoin.</h2>
+                <p>Nous nous soucions toujours de nos clients. Vous pouvez nous contacter de la manière qui vous convient. Si vous en avez besoin, vous bénéficierez d'une assistance technique pendant toute la durée du processus d'achat.</p>
+            </div>
+            <div class="beam-item b-size-1">
+                <div class="sticky-element">
+                    {% include parts/contact-profile.html %}
+                </div>
+            </div>
+        </main>
+    </div>
+</div>

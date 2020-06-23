@@ -1,0 +1,44 @@
+---
+layout: about
+title: "Millto | Špičkové Vybavenie."
+description: "Plánovanie domáce zlepšenie? Potrebujete navrhnúť vykurovanie alebo vodný systém vo vašom dome? 🏡 istite sa, že získať najlepšie vybavenie. ✔️ Vyberte si kvalitu a bezpečnosť."
+
+---
+<div class="page page-about">
+    <div class="beams-wrapper global-beam-wrapper">
+        <div class="beam">
+            <nav class="beam-item">
+                <ul class="breadcrumbs">
+                    {% for item in site.data.menu-pages %}
+                      {% if  item.pagename == "home" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                      {% if  item.pagename == "aboutus" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+        <main class="beam b-size-4  about-content">
+            <div class="beam-item b-size-3  about-text">
+                <h1>Millto - stavebné materiály, vykurovacie zariadenia a vodné systémy</h1>
+                <p>Millto je značka špecializujúca sa na výrobu širokej škály stavebných materiálov, vykurovacích systémov a zariadení na správu vody a odpadových vôd. Čo nás robí výnimočnými? Najdôležitejšie je, aby sa naše rozsiahle technické pozadie v kombinácii s veľkou obchodné skúsenosti – čo nám pomáha poskytovať čo najlepšie služby pre našich Zákazníkov.</p>
+                <h2>ším poslaním je vaša spokojnosť!</h2>
+                <p>Oceňujeme inovácie a neustále hľadať spôsoby, ako postupovať. Preto si vyberáme riešenia založené na najnovších technológiách, ktoré spĺňajú najaktuálnejšie potreby trhu. Sme presvedčení, že bezpečný a plne funkčný domov zlepšuje celkový komfort vášho života.</p>
+                <h2>Vytvorte si svoju budúcnosť s nami</h2>
+                <p>Neustále sledujeme najnovšie riešenia a technológie, čo nám dáva konkurenčnú výhodu. Sme vždy na cestách hľadaním nových produktov na uspokojenie všetkých potrieb našich zákazníkov. Neopakujeme už známe schémy. Stanovili sme nové štandardy v priemysle.</p>
+                <h2>Bezchybná dokonalosť a vynikajúca kvalita-na rozdiel od kdekoľvek inde</h2>
+                <p>Riešenia, ktoré poskytujeme, sú v súlade s normami a majú všetky potrebné certifikáty. To, čo ich robí špeciálnymi, je bezpečnosť-pre ľudí, budovy a ich systémy, ako aj pre životné prostredie. Sme, aby naše rozhodnutia sociálnej zodpovednosti nášho podnikania v pamäti, – podporovať etické správanie a formovať pozitívne vzťahy s našimi partnermi.</p>
+                <p>Ceníme si dlhotrvajúcu trvanlivosť. 100% našich výrobkov sú starostlivo testované pred tým, než môžu byť uvedené na trh. Preto si môžete byť istí, že nedostanete nič, čo by sme už neboli testovaní.</p>
+                <h2>Jednoduchý kontakt - kedykoľvek budete potrebovať.</h2>
+                <p>Vždy sa staráme o našich zákazníkov. Môžete nás kontaktovať akýmkoľvek spôsobom, ktorý vám vyhovuje. Ak potrebujete, počas celého procesu nákupu dostanete technickú podporu.</p>
+            </div>
+            <div class="beam-item b-size-1">
+                <div class="sticky-element">
+                    {% include parts/contact-profile.html %}
+                </div>
+            </div>
+        </main>
+    </div>
+</div>

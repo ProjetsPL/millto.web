@@ -123,6 +123,12 @@
             }  
             &:hover {
                 overflow: visible;
+                li {
+                    height: 50px;
+                    &.active {                        
+                        height:  var(--header-height);
+                    }
+                }
             }
             li {
                 background-color: $gray-0;

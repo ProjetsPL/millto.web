@@ -162,3 +162,153 @@ defaults:
       lang: "de"
       full-lang: "de"
       categories: "de produkty"
+
+
+  #### SK ####
+  -
+    scope:
+      path: "sk"
+    values:
+      lang: "sk"
+      full-lang: "sk"
+  -
+    scope:
+      path: "_posts/sk"
+    values:
+      lang: "sk"
+      full-lang: "sk"
+      categories: "sk"
+  -
+    scope:
+      path: "_product_categories/sk"
+    values:
+      lang: "sk"
+      full-lang: "sk"
+      categories: "sk product_categories"
+  -
+    scope:
+      path: "_products/sk"
+    values:
+      lang: "sk"
+      full-lang: "sk"
+      categories: "sk produkty"
+
+
+  #### CS ####
+  -
+    scope:
+      path: "cs"
+    values:
+      lang: "cs"
+      full-lang: "cs"
+  -
+    scope:
+      path: "_posts/cs"
+    values:
+      lang: "cs"
+      full-lang: "cs"
+      categories: "cs"
+  -
+    scope:
+      path: "_product_categories/cs"
+    values:
+      lang: "cs"
+      full-lang: "cs"
+      categories: "cs product_categories"
+  -
+    scope:
+      path: "_products/cs"
+    values:
+      lang: "cs"
+      full-lang: "cs"
+      categories: "cs produkty"
+
+
+  #### FR ####
+  -
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"
+      full-lang: "fr"
+  -
+    scope:
+      path: "_posts/fr"
+    values:
+      lang: "fr"
+      full-lang: "fr"
+      categories: "fr"
+  -
+    scope:
+      path: "_product_categories/fr"
+    values:
+      lang: "fr"
+      full-lang: "fr"
+      categories: "fr product_categories"
+  -
+    scope:
+      path: "_products/fr"
+    values:
+      lang: "fr"
+      full-lang: "fr"
+      categories: "fr produkty"
+
+
+  #### ES ####
+  -
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+      full-lang: "es"
+  -
+    scope:
+      path: "_posts/es"
+    values:
+      lang: "es"
+      full-lang: "es"
+      categories: "es"
+  -
+    scope:
+      path: "_product_categories/es"
+    values:
+      lang: "es"
+      full-lang: "es"
+      categories: "es product_categories"
+  -
+    scope:
+      path: "_products/es"
+    values:
+      lang: "es"
+      full-lang: "es"
+      categories: "es produkty"
+
+
+  #### IT ####
+  -
+    scope:
+      path: "it"
+    values:
+      lang: "it"
+      full-lang: "it"
+  -
+    scope:
+      path: "_posts/it"
+    values:
+      lang: "it"
+      full-lang: "it"
+      categories: "it"
+  -
+    scope:
+      path: "_product_categories/it"
+    values:
+      lang: "it"
+      full-lang: "it"
+      categories: "it product_categories"
+  -
+    scope:
+      path: "_products/it"
+    values:
+      lang: "it"
+      full-lang: "it"
+      categories: "it produkty"

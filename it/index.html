@@ -1,0 +1,93 @@
+---
+layout: index
+title: "Millto | Sistemi di riscaldamento, sanitari, materiali da costruzione"
+description: "Millto è una risposta completa alle esigenze di un edificio e delle persone che ci vivono dentro. Offriamo una collaudata selezione di prodotti conformi a tutti gli standard"
+
+---
+<div class="beams-wrapper global-beam-wrapper">
+    <aside class="beam b-size-6 index-banners">
+        <div class="beam-item b-size-6">
+            <section class="main-banner">
+                <img src="/assets/img/banner-main.png" alt="Rozdzielacze do centralnego ogrzewania">
+                <div class="content">
+                    <h3 class="h-xl">Collettori in ottone per riscaldamento centrale</h3>
+                    <p>Un collettore è un elemento comunemente usato negli ultimi anni - sia in edifici residenziali che industriali. Può essere utilizzato sia per i radiatori che per i sistemi di riscaldamento a pavimento.</p>
+                    <a href="" class="btn">Maggiori informazioni</a>
+                </div>
+            </section>
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/glowica-test.jpg" alt="Valvola termostatica">
+                </div>
+                <div class="banner-title">
+                    <span>Valvola termostatica</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/osadnik-test.jpg" alt="Serbatoio di grondaia">
+                </div>
+                <div class="banner-title">
+                    <span>Serbatoio di grondaia</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/pokrywa-test.jpg" alt="Tombino di fogna">
+                </div>
+                <div class="banner-title">
+                    <span>Tombino di fogna</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+    </aside>
+    <div class="beam b-size-6 beam-border index-content">
+        <div class="beam-item b-size-3">
+            <h1 class="h2 first-h">Sistemi di riscaldamento, sanitari, materiali da costruzione - scoprite le possibilità della vostra casa!</h1>
+            <p>Millto è l'acronimo di una risposta completa alle esigenze di un edificio e delle persone che vivono al suo interno. Consapevoli di quanto sia importante la sicurezza, offriamo solo una selezione comprovata e completamente testata di prodotti conformi a tutte le norme. Con i nostri prodotti potete scoprire il vero comfort.</p>
+        </div>
+        <div class="beam-item b-size-3">
+            <h2 class="h2 first-h">La vostra soddisfazione è fondamentale</h2>
+            <p>Le apparecchiature funzionali da sole non sono sufficienti - dovrebbero essere anche facili da installare e da utilizzare. Prodotti selezionati con cura e attenzione sono una garanzia di soddisfazione. Contrariamente a quanto si crede, i sanitari e i sistemi non devono essere così complicati come sembrano di solito.</p>
+        </div>
+    </div>
+    <section class="beam b-size-6 beam-border index-blog">
+        <div class="beam-item b-size-2">
+            <h2 class="first-h">Imparate qualcosa di più</h2>
+            <p>Forse siete interessati agli impianti di riscaldamento e idraulici. Forse volete imparare a raggiungere gli obiettivi di interior design che vi siete prefissati. O forse volete solo soddisfare la vostra curiosità? In ogni caso, sentitevi liberi di scegliere un argomento interessante e di raccogliere le conoscenze degli esperti.</p>
+           
+
+            <a href="/it/blog.html" class="btn">Leggi di più</a>
+        </div>
+        {% assign posts=site.posts | where:"lang", page.lang %}
+        {% for post in posts  limit: 2 %}
+          <div class="beam-item b-size-2">
+              {% include parts/articles-listing-boxitem.html post=post %}
+          </div>
+        {% endfor %}
+      </section>
+</div>

@@ -8,7 +8,7 @@ description: "Wybór części do instalacji domowych jest uzależniony od kilku 
       <div class="beam">
           <nav class="beam-item">
             <ul class="breadcrumbs">
-              {% for item in site.data.menu %}
+              {% for item in site.data.menu-pages %}
                 {% if  item.pagename == "home" %}
                   <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
                 {% endif %}

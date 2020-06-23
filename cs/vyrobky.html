@@ -1,14 +1,14 @@
 ---
 layout: products
-title: Millto | Produkte
-description: "Die Wahl der Teile für die Systeme eines Gebäudes hängt von verschiedenen Faktoren ab. Die wichtigsten sind: die Qualität der Produkte und ihre Sicherheit."
+title: "Millto | Výrobky"
+description: "Výběr dílů pro systémy budovy závisí na různých faktorech. Nejdůležitější jsou: kvalita výrobků a jejich bezpečnost."
 ---
 <div class="page page-products-listing">
   <div class="beams-wrapper global-beam-wrapper">
       <div class="beam">
           <nav class="beam-item">
               <ul class="breadcrumbs">
-                {% for item in site.data.menu-pages %}
+                {% for item in site.data.menu %}
                   {% if  item.pagename == "home" %}
                     <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
                   {% endif %}
@@ -21,8 +21,8 @@ description: "Die Wahl der Teile für die Systeme eines Gebäudes hängt von ver
       </div>
       <main class="beam b-size-4 products-listing-content">
           <div class="beam-item b-size-3 products-listing-text">
-              <h1>Produkte</h1>
-              <p>Die Entscheidung, welche Elemente für ein Bausystem geeignet sind, hängt von mehreren wichtigen Faktoren ab. Die beiden wichtigsten sind: die Qualität der Produkte und ihr Sicherheitsniveau. Zum Beispiel - wenn Sie eine Fußbodenheizung erstellen wollen, sollten Sie auf den Verteiler achten - er sollte so effizient wie möglich sein. Ganz ähnlich verhält es sich mit Wassersystemen.</p>
+              <h1>Výrobky</h1>
+              <p>Rozhodnutí, které prvky jsou vhodné pro stavební systém, závisí na několika důležitých faktorech. Dvě nejdůležitější jsou: kvalita výrobků a jejich úroveň bezpečnosti. Například-pokud chcete vytvořit systém podlahového vytápění, měli byste věnovat pozornost potrubí-mělo by to být co nejefektivnější. Je to docela podobné s vodními systémy.</p>
 
               
             {% assign product_category_lang = site.product_categories | where: "lang", page.lang %}

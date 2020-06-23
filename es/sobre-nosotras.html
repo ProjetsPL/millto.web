@@ -1,0 +1,44 @@
+---
+layout: about
+title: "Millto | Equipo de alta calidad"
+description: "¿Planeando mejoras en el hogar? ¿Necesita diseñar un sistema de calefacción o agua en su casa? 🏡 Asegúrate de conseguir el mejor equipo. ✔️ Elija la calidad y la seguridad."
+
+---
+<div class="page page-about">
+    <div class="beams-wrapper global-beam-wrapper">
+        <div class="beam">
+            <nav class="beam-item">
+                <ul class="breadcrumbs">
+                    {% for item in site.data.menu-pages %}
+                      {% if  item.pagename == "home" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                      {% if  item.pagename == "aboutus" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+        <main class="beam b-size-4  about-content">
+            <div class="beam-item b-size-3  about-text">
+                <h1>Millto - materiales de construcción, instalación de calefacción y sistemas de agua</h1>
+                <p>Millto es una marca especializada en la producción de una amplia variedad de materiales de construcción, sistemas de calefacción y equipos de gestión de agua y aguas residuales. ¿Qué nos hace especiales? Lo más importante es que nuestra amplia formación técnica combinada con la gran experiencia empresarial - que nos ayuda a proporcionar el mejor servicio a nuestros clientes.</p>
+                <h2>¡Nuestra misión es su satisfacción!</h2>
+                <p>Valoramos la innovación y buscamos constantemente maneras de avanzar. Por eso elegimos soluciones basadas en la última tecnología que satisfacen las necesidades más actuales del mercado. Estamos seguros de que un hogar seguro y completamente funcional mejora el confort general de su vida.</p>
+                <h2>Crea tu futuro con nosotros</h2>
+                <p>Nos mantenemos constantemente al tanto de las últimas soluciones y tecnologías, lo que nos da una ventaja competitiva. Siempre estamos en movimiento buscando nuevos productos para satisfacer todas las necesidades de nuestros clientes. No repetimos esquemas ya conocidos. Establecemos nuevos estándares en la industria.</p>
+                <h2>Perfección impecable y excelente calidad, como en ningún otro lugar.</h2>
+                <p>Las soluciones que ofrecemos cumplen con las normas y tienen todos los certificados necesarios. Lo que las hace especiales es la seguridad, tanto para los humanos, los edificios y sus sistemas, como para el medio ambiente. Tomamos nuestras decisiones teniendo en cuenta la responsabilidad social de nuestro negocio, para promover un comportamiento ético y formar relaciones positivas con nuestros socios.</p>
+                <p>Valoramos la durabilidad. El 100% de nuestros productos son cuidadosamente probados antes de ser puestos en el mercado. Por lo tanto, puede estar seguro de que no obtendrá nada que no haya sido ya probado por nosotros.</p>
+                <h2>Contacto fácil - siempre que lo necesites</h2>
+                <p>Siempre nos preocupamos por nuestros clientes. Puede contactarnos de la forma que le parezca más conveniente. Si lo necesita, recibirá soporte técnico durante todo el proceso de compra.</p>
+            </div>
+            <div class="beam-item b-size-1">
+                <div class="sticky-element">
+                    {% include parts/contact-profile.html %}
+                </div>
+            </div>
+        </main>
+    </div>
+</div>

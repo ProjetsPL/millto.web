@@ -4,11 +4,26 @@
     name: "Strona główna"
     link: "/pl/"
   en:
-    name: "Home"
+    name: "Homepage"
     link:  "/en/"
   de:
-    name: "Zuhause"
+    name: "Startseite"
     link:  "/de/"
+  sk:
+    name: "Úvodná stránka"
+    link: "/sk/"
+  cs:
+    name: "Domovská stránka"
+    link: "/cs/"
+  fr:
+    name: "Page d'accueil"
+    link: "/fr/"
+  es:
+    name: "Página principal"
+    link: "/es/"
+  it:
+    name: "Casa"
+    link: "/it/"
 
 -
   pagename: products
@@ -21,6 +36,21 @@
   de:
     name: "Produkte"
     link:  "/de/produkte.html"
+  sk:
+    name: "Výrobky"
+    link: "/sk/vyrobky.html"
+  cs:
+    name: "Výrobky"
+    link: "/cs/vyrobky.html"
+  fr:
+    name: "Des produits"
+    link: "/fr/des-produits.html"
+  es:
+    name: "Productos"
+    link: "/es/productos.html"
+  it:
+    name: "Prodotti"
+    link: "/it/prodotti.html"
 
 -
   pagename: aboutus
@@ -33,6 +63,21 @@
   de:
     name: "Über uns"
     link:  "/de/uber-uns.html"
+  sk:
+    name: "O nás"
+    link: "/sk/o-nas.html"
+  cs:
+    name: "O nás"
+    link: "/cs/o-nas.html"
+  fr:
+    name: "À propos de nous"
+    link: "/fr/a-propos-de-nous.html"
+  es:
+    name: "Sobre nosotras"
+    link: "/es/sobre-nosotras.html"
+  it:
+    name: "Riguardo a noi"
+    link: "/it/riguardo-a-noi.html"
 
 -
   pagename: contact
@@ -45,6 +90,21 @@
   de:
     name: "Kontakt"
     link:  "/de/kontakt.html"
+  sk:
+    name: "Kontakt"
+    link: "/sk/kontakt.html"
+  cs:
+    name: "Kontakt"
+    link: "/cs/kontakt.html"
+  fr:
+    name: "Contact"
+    link: "/fr/contact.html"
+  es:
+    name: "Contacto"
+    link: "/es/contacto.html"
+  it:
+    name: "Contatto"
+    link: "/it/contatto.html"
 
 -
   pagename: blog
@@ -57,3 +117,18 @@
   de:
     name: "Blog"
     link:  "/de/blog.html"
+  sk:
+    name: "Blog"
+    link: "/sk/blog.html"
+  cs:
+    name: "Blog"
+    link: "/cs/blog.html"
+  fr:
+    name: "Blog"
+    link: "/fr/blog.html"
+  es:
+    name: "Blog"
+    link: "/es/blog.html"
+  it:
+    name: "Blog"
+    link: "/it/blog.html"

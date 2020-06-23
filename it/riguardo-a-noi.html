@@ -1,0 +1,44 @@
+---
+layout: about
+title: "Millto | Attrezzature di alta qualità"
+description: "Pianificare il miglioramento della casa? Hai bisogno di progettare il riscaldamento o l'impianto dell'acqua nella tua casa? 🏡 Assicuratevi di avere le migliori attrezzature. ✔️ Scegliete la qualità e la sicurezza."
+
+---
+<div class="page page-about">
+    <div class="beams-wrapper global-beam-wrapper">
+        <div class="beam">
+            <nav class="beam-item">
+                <ul class="breadcrumbs">
+                    {% for item in site.data.menu-pages %}
+                      {% if  item.pagename == "home" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                      {% if  item.pagename == "aboutus" %}
+                        <li><a href="{{item[page.lang].link}}">{{item[page.lang].name}}</a></li>                        
+                      {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+        <main class="beam b-size-4  about-content">
+            <div class="beam-item b-size-3  about-text">
+                <h1>Millto - materiali da costruzione, impianti di riscaldamento e sistemi idrici</h1>
+                <p>Millto è un marchio specializzato nella produzione di un'ampia varietà di materiali da costruzione, sistemi di riscaldamento e attrezzature per la gestione dell'acqua e delle acque reflue. Cosa ci rende speciali? Soprattutto, il nostro ampio background tecnico combinato con la grande esperienza aziendale - che ci aiuta a fornire il miglior servizio ai nostri Clienti.</p>
+                <h2>La nostra missione è la vostra soddisfazione!</h2>
+                <p>Apprezziamo l'innovazione e cerchiamo costantemente modi per progredire. Per questo motivo scegliamo soluzioni basate sulle più recenti tecnologie che soddisfano le esigenze più attuali del mercato. Siamo sicuri che una casa sicura e completamente funzionale migliora il comfort generale della vostra vita.</p>
+                <h2>Crea il tuo futuro con noi</h2>
+                <p>Teniamo costantemente sotto controllo le soluzioni e le tecnologie più recenti, il che ci offre un vantaggio competitivo. Siamo sempre in movimento, alla ricerca di nuovi prodotti per soddisfare tutte le esigenze dei nostri Clienti. Non ripetiamo schemi già conosciuti. Definiamo nuovi standard nel settore.</p>
+                <h2>Perfezione impeccabile e qualità eccellente - a differenza di qualsiasi altro posto</h2>
+                <p>Le soluzioni che forniamo sono conformi alle norme e dispongono di tutti i certificati necessari. Ciò che le rende speciali è la sicurezza - per le persone, gli edifici e i loro sistemi, così come per l'ambiente. Prendiamo le nostre decisioni tenendo presente la responsabilità sociale della nostra azienda - per promuovere un comportamento etico e per plasmare relazioni positive con i nostri partner.</p>
+                <p>Apprezziamo la durata nel tempo. Il 100% dei nostri prodotti viene accuratamente testato prima di essere immesso sul mercato. Pertanto, potete essere sicuri che non otterrete nulla che non sia già stato testato da noi.</p>
+                <h2>Contatto facile - ogni volta che ne avete bisogno</h2>
+                <p>Ci prendiamo sempre cura dei nostri clienti. Potete contattarci in qualsiasi modo vi convenga. Se ne avete bisogno, riceverete supporto tecnico durante l'intero processo di acquisto.</p>
+            </div>
+            <div class="beam-item b-size-1">
+                <div class="sticky-element">
+                    {% include parts/contact-profile.html %}
+                </div>
+            </div>
+        </main>
+    </div>
+</div>

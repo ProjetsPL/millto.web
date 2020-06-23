@@ -1,0 +1,93 @@
+---
+layout: index
+title: "Millto | Vykurovacie systémy, sanitárne výrobky, stavebné materiály"
+description: "Millto je komplexná odpoveď na potreby budovy a ľudí žijúcich vo vnútri. Ponúkame osvedčený výber tovaru v súlade so všetkými normami."
+
+---
+<div class="beams-wrapper global-beam-wrapper">
+    <aside class="beam b-size-6 index-banners">
+        <div class="beam-item b-size-6">
+            <section class="main-banner">
+                <img src="/assets/img/banner-main.png" alt="Rozdzielacze do centralnego ogrzewania">
+                <div class="content">
+                    <h3 class="h-xl">Mosadzné rozdeľovače ústredného kúrenia </h3>
+                    <p>Rozdeľovač je v posledných rokoch bežne používaným prvkom-v obytných aj priemyselných budovách. Môže byť použitý pre radiátory, ako aj pre podlahové vykurovanie.</p>
+                    <a href="" class="btn">Viac informácií.</a>
+                </div>
+            </section>
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/glowica-test.jpg" alt="Termostatický Ventil">
+                </div>
+                <div class="banner-title">
+                    <span>Termostatický Ventil</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/osadnik-test.jpg" alt="Lapač strešných splavenín">
+                </div>
+                <div class="banner-title">
+                    <span>Lapač strešných splavenín</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+        <div class="beam-item b-size-2">
+            <a href=""class="small-banner">
+                <div class="banner-img">
+                    <img src="/uploads/pokrywa-test.jpg" alt="Kanalizačný kryt">
+                </div>
+                <div class="banner-title">
+                    <span>Kanalizačný kryt</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                        <g transform="translate(-153.241 -945.586)">
+                            <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                            <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                        </g>
+                    </svg>
+                </div>
+            </a >
+        </div>
+    </aside>
+    <div class="beam b-size-6 beam-border index-content">
+        <div class="beam-item b-size-3">
+            <h1 class="h2 first-h">Vykurovacie systémy, sanitárny tovar, stavebné materiály-objavte možnosti vášho domu!</h1>
+            <p>Millto znamená komplexnú odpoveď na potreby budovy a ľudí žijúcich vo vnútri. Uvedomujúc si, aká dôležitá je bezpečnosť, ponúkame len osvedčený a plne testovaný výber tovaru, ktorý spĺňa všetky normy. S našimi produktmi môžete objaviť skutočný komfort.</p>
+        </div>
+        <div class="beam-item b-size-3">
+            <h2 class="h2 first-h">Vaša spokojnosť je rozhodujúca</h2>
+            <p>Samotné funkčné zariadenie jednoducho nestačí-malo by byť tiež ľahko inštalovateľné a používané. Vedome a starostlivo vybrané produkty sú zárukou spokojnosti. Na rozdiel od všeobecného presvedčenia - sanitárne výrobky a systémy nemusia byť tak zložité, ako sa zvyčajne zdať.</p>
+        </div>
+    </div>
+    <section class="beam b-size-6 beam-border index-blog">
+        <div class="beam-item b-size-2">
+            <h2 class="first-h">Naučte sa niečo viac.</h2>
+            <p>Možno vás zaujíma vykurovacie a inštalačné systémy. Možno sa chcete dozvedieť, ako dosiahnuť ciele interiéru, ktoré ste si nastavili pre seba. Alebo možno len chcete uspokojiť vašu zvedavosť? Bez ohľadu na to, neváhajte si vybrať zaujímavú tému a zhromaždiť poznatky pochádzajúce od odborníkov.</p>
+           
+
+            <a href="/sk/blog.html" class="btn">Čítajte viac</a>
+        </div>
+        {% assign posts=site.posts | where:"lang", page.lang %}
+        {% for post in posts  limit: 2 %}
+          <div class="beam-item b-size-2">
+              {% include parts/articles-listing-boxitem.html post=post %}
+          </div>
+        {% endfor %}
+      </section>
+</div>
