@@ -109,6 +109,16 @@ sections:
   new_doc_ext: md
   templates:
   - product-category
+- type: heading
+  label: SK
+- type: heading
+  label: CS
+- type: heading
+  label: FR
+- type: heading
+  label: ES
+- type: heading
+  label: IT
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
