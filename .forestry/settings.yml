@@ -73,11 +73,13 @@ sections:
 - type: heading
   label: DE
 - type: directory
-  path: en
-  label: Strony
+  path: collections/_posts/de
+  label: Posty
   create: all
   match: "**/*"
-  new_doc_ext: html
+  new_doc_ext: md
+  templates:
+  - post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
