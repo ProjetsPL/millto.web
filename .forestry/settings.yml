@@ -111,14 +111,44 @@ sections:
   - product-category
 - type: heading
   label: SK
+- type: directory
+  path: sk
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
 - type: heading
   label: CS
+- type: directory
+  path: cs
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
 - type: heading
   label: FR
+- type: directory
+  path: fr
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
 - type: heading
   label: ES
+- type: directory
+  path: es
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
 - type: heading
   label: IT
+- type: directory
+  path: it
+  label: Strony
+  create: all
+  match: "**/*"
+  new_doc_ext: html
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
