@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: _data
+  label: Translacje
+  create: all
+  match: "**/*"
+  new_doc_ext: yml
 - type: heading
   label: PL
 - type: directory
