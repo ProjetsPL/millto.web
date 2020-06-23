@@ -5,6 +5,30 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: collections/_posts/it
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
+  path: collections/_posts/es
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
+  path: collections/_posts/fr
+  label: Posty
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
+- type: directory
   path: collections/_posts/cs
   label: Posty
   create: all
