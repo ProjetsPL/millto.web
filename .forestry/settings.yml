@@ -86,6 +86,23 @@ sections:
   new_doc_ext: md
   templates:
   - post
+- type: directory
+  path: collections/_products/de
+  label: Produkty
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - product-group
+  - product
+- type: directory
+  path: collections/_product_categories/de
+  label: Kategorie Produktów
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - product-category
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
