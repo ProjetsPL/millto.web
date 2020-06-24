@@ -10,7 +10,7 @@ fields:
     options: []
     source:
       type: pages
-      section: kategorie-produktow
+      section: kategorie-produktowe
       file: 
       path: 
   label: Kategoria
@@ -64,5 +64,5 @@ fields:
 - name: photo
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Zdjęcie
