@@ -302,7 +302,7 @@ sections:
   label: Kategorie Produktowe (all)
   create: all
   match: "**/*"
-  new_doc_ext: mg
+  new_doc_ext: md
   templates:
   - product-category
 upload_dir: uploads
