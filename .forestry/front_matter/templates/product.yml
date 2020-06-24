@@ -47,13 +47,24 @@ fields:
   description: Doatkowy content pod seo
 pages:
 - collections/_products/pl/glowica-termostatyczna.html
+- collections/_products/pl/glowica-termostatyczna.html
+- collections/_products/pl/kominek-wentylacyjny.html
 - collections/_products/pl/kominek-wentylacyjny.html
 - collections/_products/pl/osadnik-rynnowy.html
+- collections/_products/pl/osadnik-rynnowy.html
+- collections/_products/pl/pokrywa-studzienki.html
 - collections/_products/pl/pokrywa-studzienki.html
 - collections/_products/pl/rotametr.html
+- collections/_products/pl/rotametr.html
+- collections/_products/pl/rozdzielacze-co/do-grzejnikow.html
 - collections/_products/pl/rozdzielacze-co/do-grzejnikow.html
 - collections/_products/pl/rozdzielacze-co/do-podlogowki.html
+- collections/_products/pl/rozdzielacze-co/do-podlogowki.html
+- collections/_products/pl/silownik-termoelektryczny.html
 - collections/_products/pl/silownik-termoelektryczny.html
 - collections/_products/pl/studzienka-rewizyjna.html
+- collections/_products/pl/studzienka-rewizyjna.html
 - collections/_products/pl/system-poziomowania-plytek.html
+- collections/_products/pl/system-poziomowania-plytek.html
+- collections/_products/pl/zawor-termostatyczny.html
 - collections/_products/pl/zawor-termostatyczny.html
