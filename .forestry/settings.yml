@@ -36,7 +36,7 @@ sections:
   - product-group
   - product
 - type: directory
-  path: collections/_product_categories/pl
+  path: collections/_product_categories
   label: Kategorie Produktów
   create: all
   match: "**/*"
