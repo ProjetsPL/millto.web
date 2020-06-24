@@ -46,7 +46,6 @@ fields:
   label: Seo Content
   description: Doatkowy content pod seo
 pages:
-- collections/_products/en/test-asdad.html
 - collections/_products/pl/glowica-termostatyczna.html
 - collections/_products/pl/kominek-wentylacyjny.html
 - collections/_products/pl/osadnik-rynnowy.html
