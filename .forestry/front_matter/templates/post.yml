@@ -62,7 +62,7 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Główne zdjęcie
 - name: promoted
   type: boolean
@@ -75,7 +75,7 @@ fields:
     max: 
     source:
       type: pages
-      section: produkty
+      section: produkty-c160222d-3565-4bb2-82c3-907bc7a2ad9b
   label: Powiązane produkty
 pages:
 - collections/_posts/pl/2020-05-27-termostat-grzejnikowy-5-podstawowych-zasad-przy-jego-wyborze.md
