@@ -6,6 +6,5 @@ description: Edifici residenziali, uffici e industriali – ognuno di essi utili
   cruciale di un sistema idrico è la fornitura di acqua. Ma è solo uno dei tanti compiti
   che il sistema deve svolgere. È bene tenere presente che la rete di tubazioni dell'acqua
   rimuove anche i rifiuti dalla casa.
-published: false
 
 ---
