@@ -25,3 +25,4 @@ fields:
   description: Krótki opis kategorii
 pages:
 - collections/_product_categories/sk/technologia-vykurovania.md
+- collections/_product_categories/sk/vodne-instalacie.md
