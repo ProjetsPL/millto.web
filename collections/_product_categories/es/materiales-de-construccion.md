@@ -9,6 +9,5 @@ description: Construir una casa es un sueño hecho realidad para muchos. Tambié
   no te cueste una fortuna? Es una pregunta que casi todas las personas que quieren
   construir una casa se hacen. No hay una receta para una casa perfecta, pero se puede
   empezar eligiendo materiales de construcción de buena calidad.
-published: false
 
 ---
