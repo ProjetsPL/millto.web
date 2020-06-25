@@ -8,6 +8,5 @@ description: Budování domova, i když pro mnoho lidí je to sen, je také slo�
   bude výhodnou investicí? Tuto otázku si klade každý druhý člověk postižený stavbou
   domu. Neexistuje žádný recept na ideální byt nebo dům – můžete si však vybrat stavební
   výrobky charakterizované odpovídající kvalitou.
-published: false
 
 ---
