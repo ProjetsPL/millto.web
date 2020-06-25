@@ -8,6 +8,5 @@ description: Il comfort termico è uno degli aspetti più importanti in ogni edi
   di riscaldamento perfetto per una casa privata potrebbe essere insufficiente per
   un edificio industriale – e viceversa. Per questo motivo è fondamentale scegliere
   la soluzione giusta.
-published: false
 
 ---
