@@ -8,6 +8,5 @@ description: Budovanie domu, zatiaľ čo sen pre mnohých ľudí, je tiež zlož
   a zároveň je ziskové investície? Túto otázku kladie každá druhá osoba postihnutá
   výstavbou domu. Neexistuje žiadny recept na ideálny byt alebo dom – môžete si však
   vybrať stavebné výrobky, ktoré sa vyznačujú vhodnou kvalitou.
-published: false
 
 ---
