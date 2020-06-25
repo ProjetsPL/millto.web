@@ -10,6 +10,5 @@ description: Construire une maison est un rêve devenu réalité pour beaucoup. 
   que se posent presque toutes les personnes qui veulent construire une maison. Il
   n'existe pas de recette pour une maison parfaite, mais on peut commencer par choisir
   des matériaux de construction de bonne qualité.
-published: false
 
 ---
