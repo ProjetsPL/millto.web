@@ -7,6 +7,5 @@ description: Správný tepelný komfort je jednou z nejdůležitějších otáze
   se však samotné instalační systémy budou lišit od sebe. Topná technika, která funguje
   dobře v domě, nemusí být nutně účinná pro průmyslové objekty – a naopak. Proto je
   velmi důležité zvolit správný topný systém.
-published: false
 
 ---
