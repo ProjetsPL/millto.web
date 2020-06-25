@@ -46,6 +46,7 @@ fields:
   label: Seo Content
   description: Doatkowy content pod seo
 pages:
+- collections/_products/de/thermostatventil-effiziente-ausrustung-fur-ihr-heizsystem.html
 - collections/_products/en/thermostatic-valve-choose-functional-heating-equipment.html
 - collections/_products/pl/glowica-termostatyczna.html
 - collections/_products/pl/glowica-termostatyczna.html
