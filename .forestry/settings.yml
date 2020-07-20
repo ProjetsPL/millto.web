@@ -299,18 +299,10 @@ sections:
   - product
 - type: directory
   path: collections/_product_categories
-  label: Kategorie Produktowe (all)
+  label: Kategorie Produktów (all)
   create: all
   match: "**/*"
   new_doc_ext: md
-  templates:
-  - product-category
-- type: directory
-  path: collections/_product_categories
-  label: Test
-  create: all
-  match: "**/*"
-  new_doc_ext: ".md"
   templates:
   - product-category
 upload_dir: uploads
