@@ -10,7 +10,7 @@ fields:
     options: []
     source:
       type: pages
-      section: kategorie-produktowe
+      section: test
       file: 
       path: 
   label: Kategoria
