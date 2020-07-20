@@ -46,6 +46,7 @@ fields:
   label: Seo Content
   description: Doatkowy content pod seo
 pages:
+- collections/_products/cs/termostaticky-ventil-vyberte-funkcne-vykurovanie.html
 - collections/_products/de/thermostatventil.html
 - collections/_products/de/thermostatventil.html
 - collections/_products/en/thermostatic-valve.html
