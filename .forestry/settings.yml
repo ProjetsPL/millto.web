@@ -305,6 +305,14 @@ sections:
   new_doc_ext: md
   templates:
   - product-category
+- type: directory
+  path: collections/_product_categories
+  label: Test
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - product-category
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
