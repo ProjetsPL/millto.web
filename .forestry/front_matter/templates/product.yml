@@ -46,7 +46,7 @@ fields:
   label: Seo Content
   description: Doatkowy content pod seo
 pages:
-- collections/_products/cs/termostaticky.html
+- collections/_products/cs/termostatický-ventil.html
 - collections/_products/de/thermostatventil.html
 - collections/_products/de/thermostatventil.html
 - collections/_products/en/thermostatic-valve.html
