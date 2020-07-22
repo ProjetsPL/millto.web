@@ -1,6 +1,13 @@
-## Strony statyczne
--
-  pl: pl/index.html
+---
+- pl: pl/produkty/zawor-termostatyczny.html
+  en: en/products/thermostatic-valve.html
+  de: de/produkty/thermostatventil.html
+  sk: sk/produkty/termostaticky-ventil.html
+  cs: cs/produkty/termostatický-ventil.html
+  fr: fr/produkty/vanne-thermostatique.html
+  es: es/produkty/valvula-termostatica.html
+  it: it/produkty/valvola-termostatica.html
+- pl: pl/index.html
   en: en/index.html
   de: de/index.html
   sk: sk/index.html
@@ -8,8 +15,7 @@
   fr: fr/index.html
   es: es/index.html
   it: it/index.html
--
-  pl: pl/produkty.html
+- pl: pl/produkty.html
   en: en/products.html
   de: de/produkte.html
   sk: sk/vyrobky.html
@@ -17,8 +23,7 @@
   fr: fr/des-produits.html
   es: es/productos.html
   it: it/prodotti.html
--
-  pl: pl/o-nas.html
+- pl: pl/o-nas.html
   en: en/about-us.html
   de: de/uber-uns.html
   sk: sk/o-nas.html
@@ -26,8 +31,7 @@
   fr: fr/a-propos-de-nous.html
   es: es/sobre-nosotras.html
   it: it/riguardo-a-noi.html
--
-  pl: pl/kontakt.html
+- pl: pl/kontakt.html
   en: en/contact.html
   de: de/kontakt.html
   sk: sk/kontakt.html
@@ -35,8 +39,7 @@
   fr: fr/contact.html
   es: es/contacto.html
   it: it/contatto.html
--
-  pl: pl/blog.html
+- pl: pl/blog.html
   en: en/blog.html
   de: de/blog.html
   sk: sk/blog.html
