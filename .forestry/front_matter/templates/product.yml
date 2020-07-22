@@ -46,6 +46,7 @@ fields:
   label: Seo Content
   description: Doatkowy content pod seo
 pages:
+- collections/_products/cs/nivelacni-system-na-dlazbu-vyberte-rychlou-a-snadnou-instalaci.html
 - collections/_products/cs/termostatický-ventil.html
 - collections/_products/de/fliesen-nivelliersystem-wahlen-sie-die-schnelle-und-einfache-losung.html
 - collections/_products/de/thermostatventil.html
