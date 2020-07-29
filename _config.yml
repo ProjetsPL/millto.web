@@ -161,7 +161,7 @@ defaults:
     values:
       lang: "de"
       full-lang: "de"
-      categories: "de produkty"
+      categories: "de produkte"
 
 
   #### SK ####
@@ -191,7 +191,7 @@ defaults:
     values:
       lang: "sk"
       full-lang: "sk"
-      categories: "sk produkty"
+      categories: "sk vyrobky"
 
 
   #### CS ####
@@ -221,7 +221,7 @@ defaults:
     values:
       lang: "cs"
       full-lang: "cs"
-      categories: "cs produkty"
+      categories: "cs vyrobky"
 
 
   #### FR ####
@@ -251,7 +251,7 @@ defaults:
     values:
       lang: "fr"
       full-lang: "fr"
-      categories: "fr produkty"
+      categories: "fr des-produits"
 
 
   #### ES ####
@@ -281,7 +281,7 @@ defaults:
     values:
       lang: "es"
       full-lang: "es"
-      categories: "es produkty"
+      categories: "es productos"
 
 
   #### IT ####
@@ -311,4 +311,4 @@ defaults:
     values:
       lang: "it"
       full-lang: "it"
-      categories: "it produkty"
+      categories: "it prodotti"
