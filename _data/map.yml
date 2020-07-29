@@ -10,11 +10,11 @@
 - pl: pl/produkty/zawor-termostatyczny.html
   en: en/products/thermostatic-valve.html
   de: de/produkte/thermostatventil.html
-  sk: sk/produkty/termostaticky-ventil.html
-  cs: cs/produkty/termostatický-ventil.html
-  fr: fr/produkty/vanne-thermostatique.html
-  es: es/produkty/valvula-termostatica.html
-  it: it/produkty/valvola-termostatica.html
+  sk: sk/vyrobky/termostaticky-ventil.html
+  cs: sk/vyrobky/termostaticky-ventil.html
+  fr: fr/des-produits/vanne-thermostatique.html
+  es: es/productos/valvula-termostatica.html
+  it: it/prodotti/valvola-termostatica.html
 - pl: pl/index.html
   en: en/index.html
   de: de/index.html
