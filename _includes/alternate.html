@@ -12,6 +12,15 @@
           {% endif %}
           <link rel="alternate" hreflang="{{item.full-lang}}" href="{{item.url|absolute_url}}" />
         {% endfor %}
+        
+        {% assign products = site.products | where:"path",trans_path %}
+
+        {% for item in products %}
+          {% if item.full-lang == 'en' %}
+            <link rel="alternate" hreflang="x-default" href="{{item.url|absolute_url}}" />
+          {% endif %}
+          <link rel="alternate" hreflang="{{item.full-lang}}" href="{{item.url|absolute_url}}" />
+        {% endfor %}
 
         {% assign pages = site.pages | where:"path",trans_path %}
 

@@ -1,20 +1,20 @@
 ---
-- pl: collections/_products/pl/system-poziomowania-plytek.html
-  en: collections/_products/en/tile-leveling-system.html
-  de: collections/_products/de/fliesen-nivelliersystem.html
-  sk: collections/_products/sk/nivelacny-system-na-dlazbu.html
-  cs: collections/_products/cs/nivelacni-system-na-dlazbu.html
-  fr: collections/_products/fr/systeme-de-nivellement-des-tuiles.html
-  es: collections/_products/es/sistema-de-nivelacion-de-azulejos.html
-  it: collections/_products/it/sistema-di-livellamento-delle-piastrelle.html
-- pl: collections/_products/pl/zawor-termostatyczny.html
-  en: collections/_products/en/thermostatic-valve.html
-  de: collections/_products/de/thermostatventil.html
-  sk: collections/_products/sk/termostaticky-ventil.html
-  cs: collections/_products/sk/termostaticky-ventil.html
-  fr: collections/_products/fr/vanne-thermostatique.html
-  es: collections/_products/es/valvula-termostatica.html
-  it: collections/_products/it/valvola-termostatica.html
+- pl: _products/pl/system-poziomowania-plytek.html
+  en: _products/en/tile-leveling-system.html
+  de: _products/de/fliesen-nivelliersystem.html
+  sk: _products/sk/nivelacny-system-na-dlazbu.html
+  cs: _products/cs/nivelacni-system-na-dlazbu.html
+  fr: _products/fr/systeme-de-nivellement-des-tuiles.html
+  es: _products/es/sistema-de-nivelacion-de-azulejos.html
+  it: _products/it/sistema-di-livellamento-delle-piastrelle.html
+- pl: _products/pl/zawor-termostatyczny.html
+  en: _products/en/thermostatic-valve.html
+  de: _products/de/thermostatventil.html
+  sk: _products/sk/termostaticky-ventil.html
+  cs: _products/sk/termostaticky-ventil.html
+  fr: _products/fr/vanne-thermostatique.html
+  es: _products/es/valvula-termostatica.html
+  it: _products/it/valvola-termostatica.html
 - pl: pl/index.html
   en: en/index.html
   de: de/index.html
