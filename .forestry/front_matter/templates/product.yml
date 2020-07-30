@@ -47,6 +47,7 @@ fields:
   description: Doatkowy content pod seo
 pages:
 - collections/_products/cs/nivelacni-system-na-dlazbu.html
+- collections/_products/cs/revizni-sachta-spolehliva-a-odolna.html
 - collections/_products/cs/termostatický-ventil.html
 - collections/_products/de/fliesen-nivelliersystem.html
 - collections/_products/de/kontrollschacht.html
