@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-05-28 06:05:23 +0000
-update_date: 2020-05-28 06:05:23 +0000
+date: 2020-05-28T06:05:23.000+00:00
+update_date: 2020-05-28T06:05:23.000+00:00
 h1: 3 Wskazówki, Które Ułatwią Ci Samodzielne Układanie Płytek
 title: 3 Wskazówki, Które Ułatwią Ci Samodzielne Układanie Płytek
 description: "Samodzielne układanie płytek? To nie takie trudne! ➡️ Sprawdź, jak łatwe
@@ -15,7 +15,7 @@ intro: Czeka Cię remont kuchni lub łazienki? Zazwyczaj w tych przestrzeniach d
   jest pomoc specjalisty? Nie zawsze! W większości przypadków możesz zdecydować się
   na samodzielne układanie płytek, a nasze wskazówki Ci to ułatwią.
 image: "/uploads/samodzielne-ukladanie-plytek.jpg"
-promoted: false
+promoted: true
 related_products:
 - collections/_products/pl/system-poziomowania-plytek.html
 

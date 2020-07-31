@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-05-27 13:42:36 +0000
-update_date: 2020-05-27 13:42:36 +0000
+date: 2020-05-27T13:42:36.000+00:00
+update_date: 2020-05-27T13:42:36.000+00:00
 h1: Termostat Grzejnikowy - 5 Podstawowych Zasad Przy Jego Wyborze
 title: Termostat Grzejnikowy - 5 Podstawowych Zasad Przy Jego Wyborze
 description: "Czeka Cię wymiana termostatów kaloryferowych w Twoim domu? \U0001F3E0
@@ -14,7 +14,7 @@ intro: Właściwie działająca instalacja grzewcza wymaga zastosowania odpowied
   Skąd wiadomo, że konieczna jest wymiana głowicy grzejnika? Odpowiedzi na te pytania
   znajdziesz w tekście.
 image: "/uploads/termostat-grzejnikowy.jpg"
-promoted: false
+promoted: true
 related_products:
 - collections/_products/pl/glowica-termostatyczna.html
 
