@@ -9,6 +9,12 @@ sections:
   label: Zarządzanie jezykami
   create: all
   match: "**/*"
+  new_doc_ext: yaml
+- type: directory
+  path: _data
+  label: Zarządzanie jezykami
+  create: all
+  match: "**/*"
   new_doc_ext: yml
 - type: heading
   label: Polski (PL)
