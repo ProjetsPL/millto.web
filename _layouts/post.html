@@ -78,7 +78,7 @@
                 {% assign i = 0 %}
                 {% assign promoted_posts = site.posts | where: 'promoted', true %}
 
-                {% for promoted_post in promoted_posts limit: 4 %}
+                {% for promoted_post in promoted_posts limit: 5 %}
                   {% if i == 4 %}
                     {% break %}
                   {% endif %}
