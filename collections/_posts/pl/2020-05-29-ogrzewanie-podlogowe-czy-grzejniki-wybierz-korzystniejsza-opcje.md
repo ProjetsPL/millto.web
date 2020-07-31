@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-05-29 10:49:09 +0000
-update_date: 2020-05-29 10:49:09 +0000
+date: 2020-05-29T10:49:09.000+00:00
+update_date: 2020-05-29T10:49:09.000+00:00
 h1: Ogrzewanie Podłogowe Czy Grzejniki? Wybierz Korzystniejszą Opcję
 title: Ogrzewanie Podłogowe Czy Grzejniki? Wybierz Korzystniejszą Opcję
 description: "Zastanawiasz się, co wybrać - ogrzewanie podłogowe czy grzejniki? ➡️
@@ -14,7 +14,7 @@ intro: Wybór odpowiedniej instalacji grzewczej to absolutna podstawa w każdym 
   każdego z nich. Podstawowe informacje pozwolą Ci ustalić, co będzie dla Ciebie lepsze
   - podłogówka czy grzejniki.
 image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
-promoted: false
+promoted: true
 related_products:
 - collections/_products/pl/rozdzielacze-co/do-podlogowki.html
 
