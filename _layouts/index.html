@@ -11,7 +11,56 @@
     {% include topline.html active="" %}
 
     <main class="page page-index">
+
+
+      <div class="beams-wrapper global-beam-wrapper">
+        <aside class="beam b-size-6 index-banners">
+            <div class="beam-item b-size-6">
+
+              {% assign main_products = site.products | where:"lang", page.lang | where: "layout", "product" | where: "slider", true%}
+
+              {% for product in main_products  limit:1 %}
+                <section class="main-banner">
+                    <img src="{{ product.photo }}" alt="{{ product.name }}">
+                    <div class="content">
+                        <h3 class="h-xl">{{ product.name }}</h3>
+                        <p>{{ product.intro }}</p>
+                        <a href="{{ product.url | prepend: site.baseurl }}" class="btn">Więcej informacji</a>
+                    </div>
+                </section>
+                {% endfor %}
+
+            </div>
+    
+              <!-- <div class="beam-item b-size-4"> -->
+                {% assign random_products = site.products | where:"lang", page.lang | where: "layout", "product" | sample: 3 %}
+      
+                {% for product in random_products %}
+  
+                <div class="beam-item b-size-2">
+                  <a href="{{ product.url | prepend: site.baseurl }}"class="small-banner">
+                      <div class="banner-img">
+                          <img src="{{ product.photo }}" alt="{{ product.name }}">
+                      </div>
+                      <div class="banner-title">
+                          <span>{{ product.name }}</span>
+                          <svg xmlns="http://www.w3.org/2000/svg" width="64.705" height="22.828" viewBox="0 0 64.705 22.828">
+                              <g transform="translate(-153.241 -945.586)">
+                                  <path data-name="Path 18" d="M1043.117,958.531h60.876" transform="translate(-889.876 -1.531)" fill="none" stroke="#efefef" stroke-width="4"/>
+                                  <path data-name="Path 19" d="M1132.211,946.051l10,10-10,10" transform="translate(-927.093 0.949)" fill="none" stroke="#efefef" stroke-width="4"/>
+                              </g>
+                          </svg>
+                      </div>
+                  </a >
+              </div>
+  
+                {% endfor %}
+              <!-- </div> -->
+    
+              
+        </aside>
       {{ content }}
+      </div>
     </main>
 
     <!-- page_footer -->
