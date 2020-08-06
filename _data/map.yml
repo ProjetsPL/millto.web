@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/silownik-termoelektryczny.html
+  en: _products/en/thermal-actuator.html
+  de: _products/de/thermischer-stellantrieb.html
+  sk: _products/sk/termoelektricky-pohon.html
+  cs: _products/cs/termoelektricke-pohony.html
+  fr: _products/fr/actionneur-thermique.html
+  es: _products/es/actuador-termico.html
+  it: _products/it/attuatore-termico.html
 - pl: _products/pl/studzienka-rewizyjna.html
   en: _products/en/manhole.html
   de: _products/de/kontrollschacht.html
@@ -18,11 +26,11 @@
 - pl: _products/pl/zawor-termostatyczny.html
   en: _products/en/thermostatic-valve.html
   de: _products/de/thermostatventil.html
-  cs: _products/sk/termostaticky-ventil.html
   cs: _products/cs/termostaticky-ventil.html
   fr: _products/fr/vanne-thermostatique.html
   es: _products/es/valvula-termostatica.html
   it: _products/it/valvola-termostatica.html
+  sk: _products/sk/termostaticky-ventil.html
 - pl: pl/index.html
   en: en/index.html
   de: de/index.html
