@@ -13,3 +13,5 @@ fields:
   config: {}
   template: product-base
   label: Podstawowe
+pages:
+- collections/_products/en/manifold-functional-central-and-undefloor-heating.html
