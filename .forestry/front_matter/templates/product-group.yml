@@ -14,4 +14,4 @@ fields:
   template: product-base
   label: Podstawowe
 pages:
-- collections/_products/en/radiant-manifold.html
+- collections/_products/en/radiant-heating-manifold.html
