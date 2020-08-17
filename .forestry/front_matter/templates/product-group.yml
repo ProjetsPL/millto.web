@@ -15,9 +15,16 @@ fields:
   label: Podstawowe
 pages:
 - collections/_products/cs/rozdelovace.html
+- collections/_products/cs/rozdelovace.html
+- collections/_products/de/heizkreisverteiler.html
 - collections/_products/de/heizkreisverteiler.html
 - collections/_products/en/radiant-heat-manifold.html
+- collections/_products/en/radiant-heat-manifold.html
+- collections/_products/es/colector-para-calefaccion.html
 - collections/_products/es/colector-para-calefaccion.html
 - collections/_products/fr/collecteur.html
+- collections/_products/fr/collecteur.html
 - collections/_products/it/collettore-di-calore-radiante.html
+- collections/_products/it/collettore-di-calore-radiante.html
+- collections/_products/sk/rozdelovac.html
 - collections/_products/sk/rozdelovac.html
