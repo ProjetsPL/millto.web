@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/rozdzielacz-co.html
+  en: _products/en/radiant-heat-manifold.html
+  de: _products/de/heizkreisverteiler.html
+  sk: _products/sk/rozdelovac.html
+  cs: _products/cs/rozdelovace.html
+  fr: _products/fr/collecteur.html
+  es: _products/es/colector-para-calefaccion.html
+  it: _products/it/collettore-di-calore-radiante.html
 - pl: _products/pl/silownik-termoelektryczny.html
   en: _products/en/thermal-actuator.html
   de: _products/de/thermischer-stellantrieb.html
