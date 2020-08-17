@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/do-grzejnikow.html
+  en: _products/en/radiator-manifold.html
+  de: _products/de/heizkreisverteiler-fur-heizkorper.html
+  sk: _products/sk/rozdelovac-pre-radiatorove-vykurovanie.html
+  cs: _products/cs/rozdelovac-pro-radiatory.html
+  fr: _products/fr/collecteur-de-radiateur.html
+  es: _products/es/colector-del-radiador.html
+  it: _products/it/collettore-del-radiatore.html
 - pl: _products/pl/do-podlogowki.html
   en: _products/en/underfloor-heating-manifold.html
   de: _products/de/heizkreisverteiler-fur-fussbodenheizung.html
