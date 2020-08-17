@@ -46,6 +46,7 @@ fields:
   label: Seo Content
   description: Doatkowy content pod seo
 pages:
+- collections/_products/cs/Rozdělovač/rozdelovac-podlahoveho-vytapeni-vysoka-kvalita-na-trhu.html
 - collections/_products/cs/nivelacni-system-na-dlazbu.html
 - collections/_products/cs/nivelacni-system-na-dlazbu.html
 - collections/_products/cs/revizni-sachta.html
