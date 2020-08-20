@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/rotametr.html
+  en: _products/en/rotameter.html
+  de: _products/de/durchflussmesser.html
+  sk: _products/sk/prietokomer.html
+  cs: _products/cs/prutokomer.html
+  fr: _products/fr/rotametre.html
+  es: _products/es/rotametro.html
+  it: _products/it/flussometro.html
 - pl: _products/pl/do-grzejnikow.html
   en: _products/en/radiator-manifold.html
   de: _products/de/heizkreisverteiler-fur-heizkorper.html
