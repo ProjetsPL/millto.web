@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/pokrywa-studzienki.html
+  en: _products/en/manhole-cover.html
+  de: _products/de/schachtabdeckung.html
+  sk: _products/sk/sachtovy-poklop.html
+  cs: _products/cs/poklop-na-revizni-sachtu.html
+  fr: _products/fr/couvercle-de-regard.html
+  es: _products/es/tapa-de-alcantarilla.html
+  it: _products/it/chiusino.html
 - pl: _products/pl/rotametr.html
   en: _products/en/rotameter.html
   de: _products/de/durchflussmesser.html
