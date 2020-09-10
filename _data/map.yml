@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/osadnik-rynnowy.html
+  en: _products/en/rainwater-gully.html
+  de: _products/de/regensinkkasten.html
+  sk: _products/sk/lapac-stresnych-splavenin.html
+  cs: _products/cs/lapac-stresnich-splavenin.html
+  fr: _products/fr/regard-pour-eaux-pluviales.html
+  es: _products/es/arqueta-de-pluviales.html
+  it: _products/it/pozetto-pluviale.html
 - pl: _products/pl/pokrywa-studzienki.html
   en: _products/en/manhole-cover.html
   de: _products/de/schachtabdeckung.html
