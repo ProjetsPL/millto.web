@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/kominek-wentylacyjny.html
+  en: _products/en/roof-vent-cap.html
+  de: _products/de/entlufterkamin.html
+  sk: _products/sk/vetraci-komin.html
+  cs: _products/cs/vetraci-kominky.html
+  fr: _products/fr/chapeau-de-ventilation.html
+  es: _products/es/sombrerete-ventilacion.html
+  it: _products/it/sfiato-del-tetto.html
 - pl: _products/pl/osadnik-rynnowy.html
   en: _products/en/rainwater-gully.html
   de: _products/de/regensinkkasten.html
