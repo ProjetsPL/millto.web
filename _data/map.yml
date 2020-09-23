@@ -1,4 +1,12 @@
 ---
+- pl: _products/pl/glowica-termostatyczna.html
+  en: _products/en/radiator-valve.html
+  de: _products/de/heizkorper-ventil.html
+  sk: _products/sk/termostaticka-hlavica.html
+  cs: _products/cs/termostaticka-hlava.html
+  fr: _products/fr/robinet-de-radiateur.html
+  es: _products/es/valvula-del-radiador.html
+  it: _products/it/valvola-del-radiatore.html
 - pl: _products/pl/kominek-wentylacyjny.html
   en: _products/en/roof-vent-cap.html
   de: _products/de/entlufterkamin.html
