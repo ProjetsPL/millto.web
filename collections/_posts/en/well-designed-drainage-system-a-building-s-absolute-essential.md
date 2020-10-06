@@ -26,11 +26,11 @@ The waste should be carried to appropriate containers or to a sewage plant. Depe
 
 {:.list}
 
-* Domestic sewage system - carries the waste from particular home devices. It is made of special connections with the washing facilities and plumbing vents connected to drain lines. Connecting the domestic sewage system requires approval from an administrator. Usually, it's the district office or a municipal department.
+* Domestic sewage system - it carries the waste from particular home devices. It contains special connections with the washing facilities and plumbing vents connected to drain lines. Connecting the domestic sewage system requires approval from an administrator. Usually, it's the district office or a municipal department.
 * Storm drain - also called storm-water drainage. It gathers excess rainwater and meltwater which flows from areas of impervious surfaces. They are carried through a system of sewers and pipes to natural water reservoirs - rivers and lakes. Such systems are rare in rural and suburban areas.
 * Combined sewage system - it's a combination of the aforementioned systems: domestic and storm-water drainage. It collects all types of waste from a specific area. The waste is carried to a single stream and then further to a sewage treatment plant. Before connecting to this type of system, one needs an approval from the administrator.
 
-The waste can also be removed naturally, using its own weight - it's called gravity sewerage. To create such a system, one needs to match the pipes diameter with the amount of waste. If the sanitary facilities are located far from the plumbing vent, one needs to design a pressure-based drainage system. It's a crushing-pumping system which pumps the waste using pressure, forcing the drainage. It is also a good solution if the sanitary equipment is located below the level, for instance in the basement.
+The waste can also be removed naturally, using its own weight - it's called gravity sewerage. To create such a system, one needs to choose pipes of appropriate diameter for the amount of waste. If the sanitary facilities are located far from the plumbing vent, one needs to design a pressure-based drainage system. It's a crushing-pumping system which pumps the waste using pressure, forcing the drainage. It is also a good solution if the sanitary equipment is located below the gound level, for instance in the basement.
 
 ## Drainage system - proper functioning
 
