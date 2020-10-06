@@ -6,8 +6,8 @@ update_date: 2020-10-06 06:14:37 +0000
 h1: Drainage - how to design and build the system?
 title: Well Designed Drainage System - A Building's Absolute Essential
 description: "Are you dreming of a perfect house? \U0001F3E1 An efficient drainage
-  system is the absolute essential. \U0001F449 Learn the most important issues when
-  designing it."
+  system is the absolute essential. \U0001F449 Learn the most important facts about
+  it."
 intro: Every household generates waste, which needs to be removed somehow. Home drainage
   is a system of pipes which carry the waste outside the building's grounds. Water
   system elements are located around the whole area of the property, therefore, it
