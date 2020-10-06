@@ -26,9 +26,9 @@ The most important ones are:
 
 {:.list.list-positive}
 
-* Durabiliy - in many European countries, sewage system is assumed to work without malfunction for 200 years at least. It seems long, however, considering for instance Roman sewers which are functional for 2000 years, one might change attitude to the matter. The higher-quality material - the longer the sewage system is going to work.
+* Durability - in many European countries, sewage system is assumed to work without malfunction for 200 years at least. It seems long, however, considering Roman sewers - functional for 2000 years, one might change attitude to the matter. The higher-quality material - the longer the sewage system is going to work.
 * Leakproofness - the pipes cannot let through neither water from the outside, nor the waste from the inside. Not only the material of the pipes, but also the sealing must be highly durable.
-* Corrosion-resistance - substances flowing in the system might be caustic, therefore the internal walls of the sewage cannot react with them and they must be resistant against the chemicals.
+* Corrosion-resistance - substances flowing in the system might be caustic, therefore, the internal walls of the sewage cannot react with them and they must be resistant against the chemicals.
 * Abrasibility - as the drainage system is being used, the bottom gets wore down, which might affect the flow. For this reason, the thickness loss must be carefully calculated for a given period of use.
 * Resistance to water hammer - that is, scouring of the material under high pressure. This factor is connected to the material's resistance to abrasion.
 * Walls roughness - it determines the degree of sedimentation of particles, especially for lines of a low slope. Both initial roughness and its level after a certain time needs to be calculated. For cast iron pipes, the phenomenon of incrustation increases this factor. It is quite different in concrete pipes as well.
