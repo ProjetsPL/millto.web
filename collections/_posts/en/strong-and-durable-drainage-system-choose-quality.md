@@ -54,3 +54,7 @@ Cast iron is an increasingly popular material as well. The elements made of it a
 ## What to keep in mind when constructing a sewage system?
 
 When designing a sewage system, remember about the proper pipes diameter. Elements used in domestic systems are typically 5, 7.5, 10 and 15 cm wide. The location of sewer pipelines is an important aspect - they mustn't be placed under a gas or electric system lines. Horizontal pipes cannot be located on hard, inflexible grounds.
+
+When installing pipes made of plastic material, one has to keep the thermal expansion in mind, as they elongate under heat. The system should be constructed according to the manufacturer's recommendations.
+
+Choosing the right materials is a key issue when building a drainage system. They determine the durability of the whole construction. Because of this, one should think about what type of pipes to choose right at the stage of designing the system. Good quality materials and professional installation guarantee a reliable drainage system.
