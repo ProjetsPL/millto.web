@@ -26,7 +26,7 @@ The most important ones are:
 
 {:.list.list-positive}
 
-* Durablitity - in many European countries, sewage system is assumes to function without malfunction for 200 years at least. It seems long, however, considering for instance Roman sewers which are functional for 2000 years, one might change attitude to the matter. The higher quality material - the longer the sewage system is going to work.
+* Durabiliy - in many European countries, sewage system is assumed to work without malfunction for 200 years at least. It seems long, however, considering for instance Roman sewers which are functional for 2000 years, one might change attitude to the matter. The higher-quality material - the longer the sewage system is going to work.
 * Leakproofness - the pipes cannot let through neither water from the outside, nor the waste from the inside. Not only the material of the pipes, but also the sealing must be highly durable.
 * Corrosion-resistance - substances flowing in the system might be caustic, therefore the internal walls of the sewage cannot react with them and they must be resistant against the chemicals.
 * Abrasibility - as the drainage system is being used, the bottom gets wore down, which might affect the flow. For this reason, the thickness loss must be carefully calculated for a given period of use.
@@ -41,11 +41,11 @@ The most common materials for sewer pipes are:
 
 {:.list}
 
-* PVC - elements made from this material have low roughness levels and good hydraulic properties. Their characteristic feature is resistance to chemicals and corrosion. They are lightweigh and easy to install - they can be connected with glue. PVC pipes are, however, vulnerable to low temperatures. If the temperature drops below 0°C, they might start to crumble.
+* PVC - elements made from this material have low roughness levels and good hydraulic properties. Their characteristic feature is resistance to chemicals and corrosion. They are lightweight and easy to install - they can be connected with glue. PVC pipes are, however, vulnerable to low temperatures. If the temperature drops below 0°C, they might start to crumble.
 * HDPE - polythene connections are resistant to mechanical damage and chemicals. They do not lose their properties in high nor low temperatures - they can endure from -40 to 80°C. The pieces are connected with each other by welding.
 * Cast iron - pipes of this type can be used for outlets and outside sewage system elements. Cast iron is nonflammable and resistant to high temperatures. The elements are connected with steel clamping rings with rubber seals. Because such pipelines are heavy and difficult to install, they are used less frequently.
 * Stoneware - pipes made of this material are smooth on the inside and they do not react with chemicals. But because they are prone to mechanical damage, it is not a common choice.
-* Concrete - it is used for external sewage system. Concrete connections are resistant to agressive substances and sudden temperature changes. If they are used, the ground cannot be corrosice. Concrete pipes are heavy and they have high resistance to water hammer.
+* Concrete - it is used for external sewage system. Concrete connections are resistant to aggressive substances and sudden temperature changes. If they are used, the ground cannot be corrosive. Concrete pipes are heavy and highly resistant to water hammer.
 
 Plastic materials are the most commonly chosen - because of their low weight and price, and the easy installation. The drawback of plastic pipes is their lack of resistance to fire, however the mentioned advantages decide their choice anyway.
 
