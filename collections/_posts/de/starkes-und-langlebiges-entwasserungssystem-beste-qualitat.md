@@ -19,43 +19,43 @@ related_products:
 published: false
 
 ---
-## The most important parameters of the sewage system materials
+## Die wichtigsten Parameter der Materialien des Abwassersystems
 
-Domestic sewage system, like in any other building, is supposed to work properly for a really long time. To make sure it happens, pay attention to certain characteristics of the materials used for the system.
+Das häusliche Abwassersystem soll, wie in jedem anderen Gebäude auch, für eine wirklich lange Zeit einwandfrei funktionieren. Um dies zu gewährleisten, sollten Sie auf bestimmte Eigenschaften der für das System verwendeten Materialien achten.
 
-The most important ones are:
+Die wichtigsten davon sind:
 
 {:.list.list-positive}
 
-* Durability - in many European countries, sewage system is assumed to work without malfunction for 200 years at least. It seems long, however, considering Roman sewers - functional for 2000 years, one might change attitude to the matter. The higher-quality material - the longer the sewage system is going to work.
-* Leakproofness - the pipes cannot let through neither water from the outside, nor the waste from the inside. Not only the material of the pipes, but also the sealing must be highly durable.
-* Corrosion-resistance - substances flowing in the system might be caustic, therefore, the internal walls of the sewage cannot react with them and they must be resistant against the chemicals.
-* Abrasibility - as the drainage system is being used, the bottom gets wore down, which might affect the flow. For this reason, the thickness loss must be carefully calculated for a given period of use.
-* Resistance to water hammer - that is, scouring of the material under high pressure. This factor is connected to the material's resistance to abrasion.
-* Walls roughness - it determines the degree of sedimentation of particles, especially for lines of a low slope. Both initial roughness and its level after a certain time needs to be calculated. For cast iron pipes, the phenomenon of incrustation increases this factor. It is quite different in concrete pipes as well.
+* Langlebigkeit - in vielen europäischen Ländern wird davon ausgegangen, dass das Abwassersystem mindestens 200 Jahre lang störungsfrei funktioniert. Angesichts der römischen Abwasserkanäle, die 2000 Jahre lang funktionsfähig sind, erscheint es jedoch langwierig, die Einstellung zu diesem Thema zu ändern. Je hochwertiger das Material - desto länger funktioniert das Abwassersystem.
+* Dichtheit - die Rohre können weder Wasser von außen, noch den Abfall von innen durchlassen. Nicht nur das Material der Rohre, sondern auch die Abdichtung muss hochbeständig sein.
+* Korrosionsbeständigkeit - die im System strömenden Stoffe können ätzend sein, deshalb können die Innenwände des Abwassers nicht mit ihnen reagieren und sie müssen gegen die Chemikalien beständig sein.
+* Abriebfestigkeit - während der Benutzung des Entwässerungssystems wird der Boden abgenutzt, was den Durchfluss beeinträchtigen kann. Aus diesem Grund muss der Mächtigkeitsverlust für einen bestimmten Nutzungszeitraum sorgfältig berechnet werden.
+* Beständigkeit gegen Wasserschlag - d.h. Scheuern des Materials unter hohem Druck. Dieser Faktor hängt mit der Abriebfestigkeit des Materials zusammen.
+* Wandrauheit - sie bestimmt den Grad der Sedimentation von Partikeln, insbesondere bei Linien mit geringer Neigung. Sowohl die anfängliche Rauhigkeit als auch ihr Niveau nach einer bestimmten Zeit muss berechnet werden. Bei Rohren aus Gusseisen erhöht das Phänomen der Inkrustation diesen Faktor. Auch bei Betonrohren ist es ganz anders.
 
-## What is a sewage system made of?
+## Woraus besteht ein Abwassersystem?
 
-There are several types of material one can use to build a sewage system. They differ in properties, durability and resistance to chemicals. Depending on the particular destination, one might use various materials which will create the lines.
+Es gibt verschiedene Arten von Material, das man für den Bau eines Abwassersystems verwenden kann. Sie unterscheiden sich in Eigenschaften, Haltbarkeit und Chemikalienbeständigkeit. Abhängig von der jeweiligen Bestimmung kann man verschiedene Materialien verwenden, aus denen die Leitungen hergestellt werden.
 
-The most common materials for sewer pipes are:
+Die gebräuchlichsten Materialien für Kanalisationsrohre sind:
 
 {:.list}
 
-* PVC - elements made from this material have low roughness levels and good hydraulic properties. Their characteristic feature is resistance to chemicals and corrosion. They are lightweight and easy to install - they can be connected with glue. PVC pipes are, however, vulnerable to low temperatures. If the temperature drops below 0°C, they might start to crumble.
-* HDPE - polythene connections are resistant to mechanical damage and chemicals. They do not lose their properties in high nor low temperatures - they can endure from -40 to 80°C. The pieces are connected with each other by welding.
-* Cast iron - pipes of this type can be used for outlets and outside sewage system elements. Cast iron is nonflammable and resistant to high temperatures. The elements are connected with steel clamping rings with rubber seals. Because such pipelines are heavy and difficult to install, they are used less frequently.
-* Stoneware - pipes made of this material are smooth on the inside and they do not react with chemicals. But because they are prone to mechanical damage, it is not a common choice.
-* Concrete - it is used for external sewage system. Concrete connections are resistant to aggressive substances and sudden temperature changes. If they are used, the ground cannot be corrosive. Concrete pipes are heavy and highly resistant to water hammer.
+* PVC - Elemente aus diesem Material haben eine geringe Rauhigkeit und gute hydraulische Eigenschaften. Ihr charakteristisches Merkmal ist die Beständigkeit gegen Chemikalien und Korrosion. Sie sind leicht und einfach zu installieren - sie können mit Klebstoff verbunden werden. PVC-Rohre sind jedoch anfällig für niedrige Temperaturen. Wenn die Temperatur unter 0°C sinkt, können sie anfangen zu bröckeln.
+* HDPE - Polyäthylen-Verbindungen sind beständig gegen mechanische Beschädigungen und Chemikalien. Sie verlieren ihre Eigenschaften weder bei hohen noch bei niedrigen Temperaturen - sie halten von -40 bis 80°C aus. Die Teile werden durch Schweißen miteinander verbunden.
+* Gusseisen - Rohre dieses Typs können für Abflüsse und außerhalb von Kanalisationselementen verwendet werden. Gusseisen ist nicht brennbar und beständig gegen hohe Temperaturen. Die Elemente werden mit Stahlspannringen mit Gummidichtungen verbunden. Da solche Rohrleitungen schwer und schwierig zu installieren sind, werden sie seltener verwendet.
+* Steinzeug - Rohre aus diesem Material sind innen glatt und reagieren nicht mit Chemikalien. Da sie jedoch anfällig für mechanische Beschädigungen sind, ist dies keine übliche Wahl.
+* Beton - er wird für das externe Abwassersystem verwendet. Betonverbindungen sind beständig gegen aggressive Substanzen und plötzliche Temperaturwechsel. Wenn sie verwendet werden, kann der Boden nicht korrosiv sein. Betonrohre sind schwer und sehr widerstandsfähig gegen Wasserschläge.
 
-Plastic materials are the most commonly chosen - because of their low weight and price, and the easy installation. The drawback of plastic pipes is their lack of resistance to fire, however the mentioned advantages decide their choice anyway.
+Kunststoffmaterialien werden am häufigsten gewählt - wegen ihres geringen Gewichts und Preises sowie der einfachen Installation. Der Nachteil von Kunststoffrohren ist ihre mangelnde Feuerbeständigkeit, aber die genannten Vorteile entscheiden dennoch über ihre Wahl.
 
-Cast iron is an increasingly popular material as well. The elements made of it are exceptionally durable and incombustible. In addition, a cast iron sewer system is remarkably quiet.
+Auch Gusseisen ist ein zunehmend beliebtes Material. Die aus ihm hergestellten Elemente sind außergewöhnlich haltbar und unbrennbar. Darüber hinaus ist ein Kanalisationssystem aus Gusseisen bemerkenswert leise.
 
-## What to keep in mind when constructing a sewage system?
+## Was ist beim Bau eines Abwassersystems zu beachten?
 
-When designing a sewage system, remember about the proper pipes diameter. Elements used in domestic systems are typically 5, 7.5, 10 and 15 cm wide. The location of sewer pipelines is an important aspect - they mustn't be placed under a gas or electric system lines. Horizontal pipes cannot be located on hard, inflexible grounds.
+Wenn Sie ein Abwassersystem entwerfen, denken Sie an den richtigen Rohrdurchmesser. Die in häuslichen Systemen verwendeten Elemente sind in der Regel 5, 7,5, 10 und 15 cm breit. Die Lage der Abwasserleitungen ist ein wichtiger Aspekt - sie dürfen nicht unter einer Gas- oder Stromleitung verlegt werden. Horizontale Rohre können nicht auf harten, unflexiblen Böden verlegt werden.
 
-When installing pipes made of plastic material, one has to keep the thermal expansion in mind, as they elongate under heat. The system should be constructed according to the manufacturer's recommendations.
+Bei der Verlegung von Rohren aus Kunststoff muss man die thermische Ausdehnung im Auge behalten, da sie sich bei Hitze dehnen. Das System sollte gemäß den Empfehlungen des Herstellers konstruiert werden.
 
-Choosing the right materials is a key issue when building a drainage system. They determine the durability of the whole construction. Because of this, one should think about what type of pipes to choose right at the stage of designing the system. Good quality materials and professional installation guarantee a reliable drainage system.
+Die Wahl der richtigen Materialien ist eine Schlüsselfrage beim Bau eines Entwässerungssystems. Sie bestimmen die Haltbarkeit der gesamten Konstruktion. Aus diesem Grund sollte man bereits in der Planungsphase des Systems darüber nachdenken, welche Art von Rohren man wählen sollte. Qualitativ hochwertige Materialien und eine professionelle Installation garantieren ein zuverlässiges Entwässerungssystem.
