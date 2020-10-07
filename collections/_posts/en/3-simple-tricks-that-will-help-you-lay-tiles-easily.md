@@ -44,3 +44,25 @@ When leveling **the walls,** keep in mind that the compound mass should be thick
 ### Priming before leveling
 
 In most cases the surface **does not need to be primed before using a compound** to increase its adhesiveness. However, if you have a particularly absorbent ground, it is recommended. How to check it? You need a sponge. Soak it and press onto the surface you are going to tile. If the water gets absorbed pretty quickly - consider priming the surface.
+
+### Removing dirt
+
+If the surface you are going to **tile** is full of the previous layer residues or various kinds of dirt - make sure to remove them. The same applies to **greasy stains and residues from unknown liquids.**
+
+## How to tile floors and walls? Choose the right technique!
+
+**Choosing the right method** is a two-dimensional issue. First of all, it affects the **difficulty level of the task**. The easier the pattern - the easier tile laying. On the other hand, complicated, non-obvious patterns are the most interesting ones.
+
+### Laying tiles for beginners
+
+If you are a beginner and you are laying tiles for the first time in your life, choose a **simple technique**. In this case, the best method is laying tiles in a parallel fashin. You can **begin in the middle** of the room and continue placing the tiles towards the external sides. Even if you have to cut a tile - it will not visible at the sides, as they are usually covered by furniture and other decorative elements.
+
+{% fig %}
+
+ ![Laying tiles for beginners](/uploads/samodzielne-ukladanie-plytek-1.jpg "Laying tiles for beginners") 
+
+{% endfig %}
+
+### Complicated patterns - how tile floor without errors?
+
+If laying tiles is not your strength but you accept the challengeregardless and want to create an interesting interior - we have a tip for you. **It will help you avoid surprises and mistakes.** Try laying tiles "dry" - without glue. It's nothing else than planning the tiles arrangement on the floor. This way you can check whether the elements fit each other well and, if needed, make some changes. This way you will not risk breaking the tiles and wastingthe material. After laying the elements, you can take a photo, which will guide you how to glue the tiles. While it is defeinitely time-consuming, you can be sure that nothing is going to surprise you.
