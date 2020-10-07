@@ -14,8 +14,16 @@ intro: A properly working heating system requires the right equipment. A thermos
   to those qestions in the text below.
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
-related_products:
-- collections/_products/en/thermostatic-valve.html
+related_products: []
 published: false
 
 ---
+## What is a thermostatic valve and how does it work?
+
+A **thermostatic radiator valve** is nothing else that equipment which allows to quickly and easily regulate the temperature in a room. It is a **valve connected to a head** - when turned, it causes change of the temperature, depending on how it is set.
+
+Radiator valves are installed in every heater and they are typically placed at exact same spot. It is regardless of the rdiator type or its construction A thermostatic radiator valve is installed on the pipe delivering the heating medium to the radiator.
+
+**How does a thermostatic valve work?** Its internal part - valve is being opened or closed - depending on the way the valve has been turned. It is not always fully opened or closed - usually the other setting options are used.
+
+## 
