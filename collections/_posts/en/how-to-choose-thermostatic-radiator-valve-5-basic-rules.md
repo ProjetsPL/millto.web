@@ -20,15 +20,15 @@ published: false
 ---
 ## What is a thermostatic valve and how does it work?
 
-A **thermostatic radiator valve** is nothing else that equipment which allows to quickly and easily regulate the temperature in a room. It is a **valve connected to a head** - when turned, it causes change of the temperature, depending on how it is set.
+A **thermostatic radiator valve** is nothing else than equipment which allows to quickly and easily regulate the temperature in a room. It is a **valve connected to a head** - when turned, it triggers a change of the temperature, depending on the setting.
 
-Radiator valves are installed in every heater and they are typically placed at exact same spot. It is regardless of the rdiator type or its construction A thermostatic radiator valve is installed on the pipe delivering the heating medium to the radiator.
+Radiator valves are installed in every heater and they are typically placed at exact same spot. It is regardless of the radiator type or its construction. A thermostatic radiator valve is installed on the pipe delivering the heating medium to the radiator.
 
-**How does a thermostatic valve work?** Its internal part - valve is being opened or closed - depending on the way the valve has been turned. It is not always fully opened or closed - usually the other setting options are used.
+**How does a thermostatic valve work?** Its internal part (called valve) is being opened or closed - depending on the way the valve has been turned. It is not always fully opened or closed - usually the other setting options are used.
 
 ## What should you know when choosing a thermostatic radiator valve - 5 basic rules
 
-The market offers various type of equipment. To choose a thermostatic radiator valve which fits one's individual needs, one needs to remember about several important aspects. They might affect conveniece of use or the durability of the device. There are **5 general rules** which you might follow when choosing a radiator thermostatic valve.
+The market offers various types of equipment. To choose a thermostatic radiator valve which fits one's individual needs, one has to remember about several important aspects. They might affect conveniece of use or the durability of the device. There are **5 general rules** which might be applied when choosing a radiator thermostatic valve.
 
 ### 1. When choosing a thermostatic radiator valve, pay attention to its size
 
@@ -38,7 +38,7 @@ Thermostatic radiator valves are manufactured for various types of heaters. It g
 
 * the head is installed directly onto the valve,
 * the valve has a remote sensor connected with the head with a capillary,
-* the valve has a remote sensor and transmitter.
+* the valve has a remote sensor and a transmitter.
 
 ### 2. Thermostatic radiator valve - not all are the same
 
@@ -48,15 +48,15 @@ Of course, the **aesthetics** are a crucial aspect for many homeowners. Classic 
 
 ### 3. Material - it affects the durability of a thermostatic radiator valve
 
-The durability concerns both elements which build a thermostatic radiator valve. Most importantly, pay attention to the material of the valve itself, as it is the essential in this case. Do not ignore the material of the head either. It might happen that a highly decorative model is of poor quality and it needs to be replaced after a short time - and it generates additional, unnecessary expenses. Carefully examine the element before making a purchase, and if you decide to shop online - check the specification or ask the vendor for details.
+The durability concerns both elements which build a thermostatic radiator valve. Most importantly, pay attention to the material of the valve itself - it is essential in this case. Do not ignore the material of the head either. It might happen that a highly decorative, but poor quality model has to be replaced shortly after the purchase - generating additional, unnecessary expenses. Carefully examine the element before making a purchase, and if you decide to shop online - check the specification or ask the vendor for details.
 
 ### 4. Flow capability - not all thermostatic radiator valves have the same parameters!
 
-Thermostatic radiator valves have various **flow capabilities**. It is a frequently omitted parameter when purchasing a new element - especially by those who have never handled this kind of equipment. The mentioned flow capability is marked as "kv" on the product. For smaller radiators, it really is a minor feature. It is much more important for large rooms where adequately large radiators are installed. In this regard, it is recommended to choose a thermostatic adiator valve with greater flow capabilities.
+Thermostatic radiator valves have various **flow capabilities**. It is a frequently omitted parameter when purchasing a new element - especially by those who have never handled this kind of equipment. The mentioned flow capability is marked as "kv" on the product. For smaller radiators, it really is a minor feature. It is much more important for large rooms where adequately large radiators are installed. In this regard, it is recommended to choose a thermostatic radiator valve with greater flow capabilities.
 
 ### 5. Regulation range of a thermostatic radiator valve
 
-Most thermostatic radiator valves offered on the market have the same **scale of regulation**. Nevertheless, there might be small differences. When you choose a thermostatic valve, you should pay attention to the symbols on the valve. The appearance of the markings is another important issue. The numbers painted on the valve should be readable - so that one can set the correct temperature.
+Most thermostatic radiator valves offered on the market have a similar **scale of regulation**. Nevertheless, they might differ slightly. When you choose a thermostatic valve, you should pay attention to the symbols on the head. The appearance of the markings is another important issue. The numbers painted on the valve should be readable - so that one can set the correct temperature.
 
 {% fig %}
 
@@ -66,9 +66,9 @@ Most thermostatic radiator valves offered on the market have the same **scale of
 
 ## A broken thermostatic radiator valve - when to replace it?
 
-**A broken thermostatic valve** means a lower **thermal comfort in a room**. If also makes using the radiator less effective, which might generate greater heating bills.
+**A broken thermostatic valve** means a lower **thermal comfort in a room**. It also makes the radiator less effective, which might generate greater heating bills.
 
-Two elements might be broken - the valve or the head. This signs of malfuction are very important, and they might be similar to each other. Typically, they concern the differences in the setting of the temperature on the valve and the actual conditions in the room. **For instance - for setting 3 on the radiator valve the temperature should range between 18-20°C (64.4-68 F).** If the thermostatic valve is broken, the real temperature is different. It can be verified with a classic indoor thermometer.
+Two elements might get broken - the valve or the head. The signs of malfuction are very important, and they might be similar to each other. Typically, they concern the differences in the setting of the temperature on the valve and the actual conditions in the room. **For instance - for setting 3 on the radiator valve the temperature should range between 18-20°C (64.4-68 F).** If the thermostatic valve is broken, the real temperature is different. It can be verified with a classic indoor thermometer.
 
 ## Thermostatic radiator valve replacement cost
 
@@ -81,7 +81,7 @@ How does a thermostatic radiator valve work?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-A thermostatic valve is an equipment installed for every radiator. It allows to set the right temperature. It consists of two elements: a valve and head. The valve opens and closes the flow of heating medium which heats up the radiator - it's controlled by the head, which sets the temperature. Modern models set the temperature automatically, adjusting the settings to the conditions in the room.
+A thermostatic valve is an equipment installed for every radiator. It allows to set the right temperature. It consists of two elements: a valve and a head. The valve opens and closes the flow of heating medium which heats up the radiator - it's controlled by the head, which sets the temperature. Modern models set the temperature automatically, adjusting the settings to the conditions in the room.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
@@ -101,6 +101,6 @@ How to replace a thermostatic radiator valve?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-To replace a thermostatic radiator valve, unscrew the element from the radiator. Remove the head and then valve. Install a new device at the same spot.
+To replace a thermostatic radiator valve, unscrew the element from the radiator. Remove the head and the valve. Install a new device at the same spot.
 {% endfaqAnswer %}
 {% endfaqItem %}
