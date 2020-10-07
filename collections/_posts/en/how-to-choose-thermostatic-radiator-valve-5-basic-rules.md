@@ -74,14 +74,33 @@ Two elements might be broken - the valve or the head. This signs of malfuction a
 
 **A thermostatic radiator valve** is easy to replace, therefore, you don't have to worry about the cost of installation. The price of radiator valve, however, depends on the type of the equipment you choose. The differences in that matter are large - the classic solutions are far cheaper than fully automatic, modern-design models.
 
- How does a thermostatic radiator valve work?
 
-A thermostatic valve is an equipment of every radiator. It allows to set the right temperature. It consists of two elements: a valve and head. The valve opens and closes the flow of heating medium which heats up the radiator - it's controlled by the head, which sets the temperature. Modern models set the temperature automatically, adjusting the settings to the conditions in the room.
+{% faqItem %}
+{% faqQuestion %}
+How does a thermostatic radiator valve work?
+{% endfaqQuestion %}
 
+{% faqAnswer %}
+A thermostatic valve is an equipment installed for every radiator. It allows to set the right temperature. It consists of two elements: a valve and head. The valve opens and closes the flow of heating medium which heats up the radiator - it's controlled by the head, which sets the temperature. Modern models set the temperature automatically, adjusting the settings to the conditions in the room.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
 How to check the thermostatic radiator valve?
+{% endfaqQuestion %}
 
+{% faqAnswer %}
 To check the thermostat, one needs to control two elements - the valve and the head. An easy way involves setting a particular temperature on the valve and checking if the value on an indoor thermometer is correct.
+{% endfaqAnswer %}
+{% endfaqItem %}
 
+{% faqItem %}
+{% faqQuestion %}
 How to replace a thermostatic radiator valve?
+{% endfaqQuestion %}
 
+{% faqAnswer %}
 To replace a thermostatic radiator valve, unscrew the element from the radiator. Remove the head and then valve. Install a new device at the same spot.
+{% endfaqAnswer %}
+{% endfaqItem %}
