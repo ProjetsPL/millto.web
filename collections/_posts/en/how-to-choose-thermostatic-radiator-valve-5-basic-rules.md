@@ -8,10 +8,10 @@ title: How to Choose Thermostatic Radiator Valve - 5 Basic Rules
 description: "Do you have to replace thermostatic valves in the house? \U0001F3E0
   Check what you should know about it. ➡️ Choose the best thermostatic radiator valve."
 intro: A properly working heating system requires the right equipment. A thermostatic
-  radiator valve is definitely an absolute essential which allows to set an optimal
-  warmth level in house interiors. How does a hermostatic valve work? How to choose
+  radiator valve is definitely an absolute essential which allows you to set an optimal
+  warmth level in house interiors. How does a thermostatic valve work? How to choose
   the right model? What are the signs that the valve needs replacement? Find the answers
-  to those qestions in the text below.
+  to those questions in the text below.
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
 related_products: []
@@ -22,7 +22,7 @@ published: false
 
 A **thermostatic radiator valve** is nothing else than equipment which allows to quickly regulate the temperature in a room. It is a **valve connected to a head** - when turned, it triggers a change of the temperature, depending on the setting.
 
-Radiator valves are installed in every heater and they are typically placed at exact same spot. It is regardless of the radiator type or its construction. A thermostatic radiator valve is installed on the pipe delivering the heating medium to the radiator.
+Radiator valves are installed in every heater, and they are typically placed at exact same spot. It is regardless of the radiator type or its construction. A thermostatic radiator valve is installed on the pipe delivering the heating medium to the radiator.
 
 **How does a thermostatic valve work?** Its internal part (called valve) is being opened or closed - depending on the way the valve has been turned. It is not always fully opened or closed - usually the other setting options are used.
 
@@ -48,7 +48,7 @@ Of course, the **aesthetics** are a crucial aspect for many homeowners. Classic 
 
 ### 3. Material - it affects the durability of a thermostatic radiator valve
 
-The durability concerns both elements which build a thermostatic radiator valve. Most importantly, pay attention to the material of the valve itself - it is essential in this case. Do not ignore the material of the head either. It might happen that a highly decorative, but poor quality model has to be replaced shortly after the purchase - generating additional, unnecessary expenses. Carefully examine the element before making a purchase, and if you decide to shop online - check the specification or ask the vendor for details.
+The durability concerns both elements which build a thermostatic radiator valve. Most importantly, pay attention to the material of the valve itself - it is essential in this case. Do not ignore the material of the head either. It might happen that a highly decorative but poor quality model has to be replaced shortly after the purchase - generating additional, unnecessary expenses. Carefully examine the element before making a purchase, and if you decide to shop online - check the specification or ask the vendor for details.
 
 ### 4. Flow capability - not all thermostatic radiator valves have the same parameters!
 
@@ -68,7 +68,7 @@ Most thermostatic radiator valves offered on the market have a similar **scale o
 
 **A broken thermostatic valve** means a lower **thermal comfort in a room**. It also makes the radiator less effective, which might generate greater heating bills.
 
-Two elements might get broken - the valve or the head. The signs of malfuction are very important, and they might be similar to each other. Typically, they concern the differences in the setting of the temperature on the valve and the actual conditions in the room. **For instance - for setting 3 on the radiator valve the temperature should range between 18-20°C (64.4-68 F).** If the thermostatic valve is broken, the real temperature is different. It can be verified with a classic indoor thermometer.
+Two elements might get broken - the valve or the head. The signs of malfunction are very important, and they might be similar to each other. Typically, they concern the differences in the setting of the temperature on the valve and the actual conditions in the room. **For instance - for setting 3 on the radiator valve the temperature should range between 18-20°C (64.4-68 F).** If the thermostatic valve is broken, the real temperature is different. It can be verified with a classic indoor thermometer.
 
 ## Thermostatic radiator valve replacement cost
 
