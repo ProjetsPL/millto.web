@@ -20,7 +20,7 @@ published: false
 ---
 ## What is a thermostatic valve and how does it work?
 
-A **thermostatic radiator valve** is nothing else than equipment which allows to quickly and easily regulate the temperature in a room. It is a **valve connected to a head** - when turned, it triggers a change of the temperature, depending on the setting.
+A **thermostatic radiator valve** is nothing else than equipment which allows to quickly regulate the temperature in a room. It is a **valve connected to a head** - when turned, it triggers a change of the temperature, depending on the setting.
 
 Radiator valves are installed in every heater and they are typically placed at exact same spot. It is regardless of the radiator type or its construction. A thermostatic radiator valve is installed on the pipe delivering the heating medium to the radiator.
 
@@ -73,7 +73,6 @@ Two elements might get broken - the valve or the head. The signs of malfuction a
 ## Thermostatic radiator valve replacement cost
 
 **A thermostatic radiator valve** is easy to replace, therefore, you don't have to worry about the cost of installation. The price of radiator valve, however, depends on the type of the equipment you choose. The differences in that matter are large - the classic solutions are far cheaper than fully automatic, modern-design models.
-
 
 {% faqItem %}
 {% faqQuestion %}
