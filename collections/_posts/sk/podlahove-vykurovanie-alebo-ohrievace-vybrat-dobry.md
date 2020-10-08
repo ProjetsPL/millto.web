@@ -31,7 +31,7 @@ Výroba tepla v radiátoroch nie je nič iné ako **konvekcia**. Ohriaty vzduch 
 
 {% fig %}
 
- ![Podlahové vykurovanie alebo ohrievače - ako sa tieto dve metódy líšia?](/uploads/ogrzewanie-podlogowe-czy-grzejniki-1.jpg "Podlahové vykurovanie alebo ohrievače - ako sa tieto dve metódy líšia?") 
+![Podlahové vykurovanie alebo ohrievače - ako sa tieto dve metódy líšia?](/uploads/ogrzewanie-podlogowe-czy-grzejniki-1.jpg "Podlahové vykurovanie alebo ohrievače - ako sa tieto dve metódy líšia?")
 
 {% endfig %}
 
@@ -55,7 +55,7 @@ Tento problém nie je prítomný v prípade podlahového vykurovania. Drôty zod
 
 {% fig %}
 
- ![Domov estetika interiéru - čo vyhrá podlahu alebo ohrievače?](/uploads/podloga-pod-ogrzewanie-podlogowe.jpg "Domov estetika interiéru - čo vyhrá podlahu alebo ohrievače?") 
+![Domov estetika interiéru - čo vyhrá podlahu alebo ohrievače?](/uploads/podloga-pod-ogrzewanie-podlogowe.jpg "Domov estetika interiéru - čo vyhrá podlahu alebo ohrievače?")
 
 {% endfig %}
 
@@ -87,7 +87,7 @@ Pri podlahovom vykurovaní na vodnej báze sa musia brať do úvahy náklady na 
 
 {% fig %}
 
- ![Podlahové vykurovanie v celom dome alebo ohrievače? Náklady na inštaláciu](/uploads/wyposazenie-ogrzewanie-podlogowe-czy-grzejniki.jpg "Podlahové vykurovanie v celom dome alebo ohrievače? Náklady na inštaláciu") 
+![Podlahové vykurovanie v celom dome alebo ohrievače? Náklady na inštaláciu](/uploads/wyposazenie-ogrzewanie-podlogowe-czy-grzejniki.jpg "Podlahové vykurovanie v celom dome alebo ohrievače? Náklady na inštaláciu")
 
 {% endfig %}
 
