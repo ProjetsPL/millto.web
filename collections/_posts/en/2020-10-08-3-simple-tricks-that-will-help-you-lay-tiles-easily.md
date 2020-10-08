@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 12:59:12 +0000
-update_date: 2020-10-07 12:59:12 +0000
+date: 2020-10-08 12:59:12 +0000
+update_date: 2020-10-08 12:59:12 +0000
 h1: 3 Simple Tricks That Will Help You Lay Tiles Easily
 title: 3 Simple Tricks That Will Help You Lay Tiles Easily
 description: "Laying tiles by yourself? It's easier than you think! ➡️ Check how to
@@ -18,12 +18,11 @@ image: "/uploads/samodzielne-ukladanie-plytek.jpg"
 promoted: true
 related_products:
 - collections/_products/en/tile-leveling-system.html
-published: false
 
 ---
 ## Laying tiles - not as difficult as you think
 
-Laying tiles - both on the floor and on the wall is not that difficult to do. **The key is a proper preparation**. It concerns both the surface which is going to be tiled, as well as the equipment you are going to use to help you with the task. If you're wondering how to lay tiles - this guide is perfect for you. In **3 easy steps** you can learn about the most important stages which will prepare you for laying tiles.
+Laying tiles - both on the floor and on the wall is not that difficult to do. **Proper preparation is key.** It concerns both the surface which is going to be tiled, as well as the equipment you are going to use to help you with the task. If you're wondering how to lay tiles - this guide is perfect for you. In **3 easy steps** you can learn about the most important stages which will prepare you for laying tiles.
 
 ## Before you start tiling the floor or walls - prepare the surface
 
