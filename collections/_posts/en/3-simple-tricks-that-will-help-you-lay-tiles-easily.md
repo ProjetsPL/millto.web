@@ -33,7 +33,7 @@ Most importantly, **the base for tiles** should be **even.** Preparation of the 
 
 {% fig %}
 
- ![Before you start tiling the floor or walls - prepare the surface](/uploads/ukladanie-plytek-sprzatanie.jpg "Before you start tiling the floor or walls - prepare the surface") 
+![Before you start tiling the floor or walls - prepare the surface](/uploads/ukladanie-plytek-sprzatanie.jpg "Before you start tiling the floor or walls - prepare the surface")
 
 {% endfig %}
 
@@ -59,10 +59,50 @@ If you are a beginner and you are laying tiles for the first time in your life, 
 
 {% fig %}
 
- ![Laying tiles for beginners](/uploads/samodzielne-ukladanie-plytek-1.jpg "Laying tiles for beginners") 
+![Laying tiles for beginners](/uploads/samodzielne-ukladanie-plytek-1.jpg "Laying tiles for beginners")
 
 {% endfig %}
 
 ### Complicated patterns - how tile floor without errors?
 
 If laying tiles is not your strength but you accept the challengeregardless and want to create an interesting interior - we have a tip for you. **It will help you avoid surprises and mistakes.** Try laying tiles "dry" - without glue. It's nothing else than planning the tiles arrangement on the floor. This way you can check whether the elements fit each other well and, if needed, make some changes. This way you will not risk breaking the tiles and wastingthe material. After laying the elements, you can take a photo, which will guide you how to glue the tiles. While it is defeinitely time-consuming, you can be sure that nothing is going to surprise you.
+
+## Easy tiling? It's a matter of good equipment
+
+Tiling floors and walls **requires using proper accessories**. Various types of trowels are the basis - they will help you with laying the tiles, and later - grouting.
+
+**The adhesive is also important - it should match the types of the tiles**. Substances of this type have various adhesiveness classes. The glue should not only comply with the material of the tiles, but also their size. A special quick-drying tile adhesive is an interesting option which reduces the time of work.
+
+When grouting, you might also use a **special bucket with rubber rolls** for draining the trowel.
+
+### A modern look on laying tiles
+
+Up until recently, a level and spacers were the basic equipment used for laying tiles. Thanks to those tools, one could **lay tiles evenly and precisely**. Today, however, those elements are rarely used.
+
+{% fig %}
+
+![A modern look on laying tiles](/uploads/samodzielne-ukladanie-plytek-2.jpg "A modern look on laying tiles")
+
+ {% endfig %}
+
+Recently, a new kind of equpment has been used, both by professionals and amateurs - [tile leveling system](). The clips and wedges which are components of the system help to keep an even spacing between the tiles and also they alow for **quick leveling of the surface**. Thanks to this method, tiling a room by yourself is not only very precise, but, more importantly, far quicker. As stated by professionals who lay tiles daily, the task might be done **even twice faster than usual.**
+
+{% faqItem %}
+{% faqQuestion %}
+How to tile walls?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Beging tiling your walls by preparing a careful plan how they should look like. Make sure you have enough tiles and all necessary tools. Then clean the surface, prepare the adhesive and beging tiling. Start from the spot which is the most visible upon entering the room.
+{% endfaqAnswer %}
+{% endfaqItem %}
+
+{% faqItem %}
+{% faqQuestion %}
+How to tile floor?
+{% endfaqQuestion %}
+
+{% faqAnswer %}
+Tiling the floor and walls looks quite similar. Preparing the surface is the most important step, as well as gathering all the necessary equipment. If you have everything, just choose the right technique and start laying the tiles - beginning at the most exposed spot.
+{% endfaqAnswer %}
+{% endfaqItem %}
