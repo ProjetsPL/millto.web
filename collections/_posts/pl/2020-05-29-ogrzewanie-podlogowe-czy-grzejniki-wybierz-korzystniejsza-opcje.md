@@ -69,7 +69,7 @@ Jeżeli jesteś na etapie wyborów ogrzewanie podłogowe czy grzejniki - powinie
 
 Coraz więcej osób decyduje się na kocioł kondensacyjny lub pompy ciepła. Te dwa rozwiązania idealnie sprawdzają się w połączeniu z ogrzewaniem podłogowym, co daje **bardzo wydajny system zapewniający odpowiednią temperaturę wnętrz**. Czy przy wykorzystaniu takich źródeł nie ma możliwości zastosowania kaloryferów? Nie jest to wykluczone, natomiast dopasowanie właściwych grzejników bywa trudniejsze. Zazwyczaj konieczne jest zdecydowanie się na większe modele, które zajmują sporo miejsca i dezorganizują wnętrza.
 
-Wybierając **kotły na paliwa stałe**, znacznie lepiej sprawdzają się natomiast kaloryfery. Podłogówka jest możliwa do wykorzystania tylko w momencie wyposażenia instalacja w dodatkowe urządzenia mające na celu obniżenie temperatury wody w systemie. To podnosi także koszty całej inwestycji.
+Wybierając **kotły na paliwa stałe**, znacznie lepiej sprawdzają się natomiast kaloryfery. Podłogówka jest możliwa do wykorzystania tylko w momencie wyposażenia instalacji w dodatkowe urządzenia mające na celu obniżenie temperatury wody w systemie. To podnosi także koszty całej inwestycji.
 
 ## Połączenie dwóch metod ogrzewania - tylko z odpowiednim wyposażeniem
 
