@@ -93,7 +93,7 @@ How to tile walls?
 {% endfaqQuestion %}
 
 {% faqAnswer %}
-Beging tiling your walls by preparing a careful plan on how they should look like. Make sure you have enough tiles and all necessary tools. Then clean the surface, prepare the adhesive and beging tiling. Start from the spot which is the most visible upon entering the room.
+Begin tiling your walls by preparing a careful plan on how they should look like. Make sure you have enough tiles and all necessary tools. Then clean the surface, prepare the adhesive and beging tiling. Start from the spot which is the most visible upon entering the room.
 {% endfaqAnswer %}
 {% endfaqItem %}
 
