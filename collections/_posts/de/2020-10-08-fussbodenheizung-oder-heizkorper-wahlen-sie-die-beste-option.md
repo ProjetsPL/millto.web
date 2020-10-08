@@ -18,7 +18,6 @@ image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: false
 related_products:
 - collections/_products/de/Heizkreisverteiler/heizkreisverteiler-fur-fussbodenheizung.html
-published: false
 
 ---
 ## Fußbodenheizung vs. Heizkörper - was sind die Unterschiede?
