@@ -24,7 +24,7 @@ published: false
 
 A key difference between underfloor heating and traditional system with radiators lies in **the way the heat is being transmitted to a room.**
 
-The heat emission for radiators is simply **convetion**. The heated air circulates around the whole room, providing a suitable temperature level. It's completely different for underfloor heating, as **the warmth gets transmitted by radiation** in this case. The warm air moves up towards the upper parts of the room. The temperature decreases as the air gets higher.
+The heat emission for radiators is simply **convection**. The heated air circulates around the whole room, providing a suitable temperature level. It's completely different for underfloor heating, as **the warmth gets transmitted by radiation** in this case. The warm air moves up towards the upper parts of the room. The temperature decreases as the air gets higher.
 
 **What's the significance of this for us?** The highest temperature is by the floor. At the head level it is lower. Such distribution complies with the natural physiology and provides definitely more comfort - which affects one's well-being.
 
@@ -44,7 +44,7 @@ Underfloor heating provides more or less the same temperature across the whole h
 
 Dust which accumulates in household interiors is very unpleasant for allergy sufferers. Unfortunately, traditional radiators, even those with a simple construction, collect a lot of dust on their surface. The warm air circulation does not make it any better - **it lifts the particles** - and the symptoms of allergy might get stronger.
 
-Underfloor heating not only provides the aforementioned **optimal temperature distribution for humans**, but also protects from dust and mites. Radiation doesn't lift the air, therefore, the risk of discomfrot for allergy sufferers is lower.
+Underfloor heating not only provides the aforementioned **optimal temperature distribution for humans**, but also protects from dust and mites. Radiation doesn't lift the air, therefore, the risk of discomfort for allergy sufferers is lower.
 
 ## The interior aesthetics - what wins: underfloor heating or radiators?
 
@@ -64,7 +64,7 @@ With underfloor heating, there is no such problem. The tubes which provide warmt
 
 When deciding which heating system is better, many homeowners wonder which one is more durable - **underfloor heating or radiators**. There is no straight answer to this question, as a lot depends on the used materials and elements. They affect the reliability of the system.
 
-**It is assumed that a properly constructed underfloor heating made of good-quality materials might last for several dozen of years.** The classic radidators might provide the same results - but not always. A lot depends on the type of radiators, as well as regular check-ups of the system and if needed - repairs.
+**It is assumed that a properly constructed underfloor heating made of good-quality materials might last for several dozen of years.** The classic radiators might provide the same results - but not always. A lot depends on the type of radiators, as well as regular check-ups of the system and if needed - repairs.
 
 What's even more important is the fact that the radiators might not look that well after several years from installation. **The visual aspect might cause the necessity of replacing them, which generates costs.**
 
@@ -72,7 +72,7 @@ What's even more important is the fact that the radiators might not look that we
 
 If you are considering the choice - underfloor heating or radiators - it is advised to look at the **technical aspect** of the problem as well. Which means checking the main source of heating in the building - in reality, the key issue.
 
-An increasing number of homeowners decide to choose a condesing bioler or a heat pump. Those two solutions are perfect for underfloor heating, which results in a **highly efficient system providing a suitable temperature in every room**. Can those sources be used for radiators as well? It is not impossible, however choosing the right heaters might be problematic. Usually, larger models need to be picked, which takes a lot of space and disorganize interiors.
+An increasing number of homeowners decide to choose a condensing boiler or a heat pump. Those two solutions are perfect for underfloor heating, which results in a **highly efficient system providing a suitable temperature in every room**. Can those sources be used for radiators as well? It is not impossible, however choosing the right heaters might be problematic. Usually, larger models need to be picked, which takes a lot of space and disorganize interiors.
 
 If you, however, choose a **solid fuel boiler**, radiators are a better option. Underfloor heating can be used only if the system is equipped with additional devices to lower the water temperature in the system. It also increases the cost of the whole project.
 
@@ -92,10 +92,10 @@ For water underfloor heating, you have to include the cost of tubes, insulation 
 
 {% endfig %}
 
-What about traditional radiators? You should include the number of the heaters and the accessories. Similar to the underfloor heating, the connection pieces, manifolds and costs of work contribute to the full cost. It is difficult to estimate a standard price for one radiator, as they differ. With standard solutions, traditional system is approximately **30% cheaper** than underflooor heating.
+What about traditional radiators? You should include the number of the heaters and the accessories. Similar to the underfloor heating, the connection pieces, manifolds and costs of work contribute to the full cost. It is difficult to estimate a standard price for one radiator, as they differ. With standard solutions, traditional system is approximately **30% cheaper** than underfloor heating.
 
 ## Maintenance - what is cheaper: underfloor heating or radiators?
 
-Considering the cost of constructing the system, it might seem that underfloor heating is a more expensive solution than radiators. The insitial expenses, however, are not everything. The system works for many years, which makes the utilization costs a very important factor.
+Considering the cost of constructing the system, it might seem that underfloor heating is a more expensive solution than radiators. The initial expenses, however, are not everything. The system works for many years, which makes the utilization costs a very important factor.
 
 If you consider **maintenance costs** - underfloor heating system wins without any doubt. The same temperature level in every room means not only thermal comfort, but also savings - especially at the peak of heating season. Comparing the two systems, you can save a lot of many with a water-based underfloor heating.
