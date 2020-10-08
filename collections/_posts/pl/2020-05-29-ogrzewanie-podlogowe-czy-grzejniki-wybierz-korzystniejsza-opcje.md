@@ -65,7 +65,7 @@ To, co należy wziąć pod uwagę to również fakt, że po kilku, czy kilkunast
 
 ## Podłogówka czy grzejniki? Zwróć uwagę na źródło ogrzewania budynku
 
-Jeżeli jestem na etapie wyborów ogrzewanie podłogowe czy grzejniki - powinieneś zgłębić temat także od **strony technicznej**. Mowa o niczym innym jak źródle ogrzewania budynku, która ma tak naprawdę kluczowe znaczenie.
+Jeżeli jesteś na etapie wyborów ogrzewanie podłogowe czy grzejniki - powinieneś zgłębić temat także od **strony technicznej**. Mowa o niczym innym jak źródle ogrzewania budynku, która ma tak naprawdę kluczowe znaczenie.
 
 Coraz więcej osób decyduje się na kocioł kondensacyjny lub pompy ciepła. Te dwa rozwiązania idealnie sprawdzają się w połączeniu z ogrzewaniem podłogowym, co daje **bardzo wydajny system zapewniający odpowiednią temperaturę wnętrz**. Czy przy wykorzystaniu takich źródeł nie ma możliwości zastosowania kaloryferów? Nie jest to wykluczone, natomiast dopasowanie właściwych grzejników bywa trudniejsze. Zazwyczaj konieczne jest zdecydowanie się na większe modele, które zajmują sporo miejsca i dezorganizują wnętrza.
 
