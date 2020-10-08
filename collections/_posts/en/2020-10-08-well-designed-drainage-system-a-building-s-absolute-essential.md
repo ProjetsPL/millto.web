@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 06:14:37 +0000
-update_date: 2020-10-06 06:14:37 +0000
+date: 2020-10-08 06:14:37 +0000
+update_date: 2020-10-08 06:14:37 +0000
 h1: Drainage - how to design and build the system?
 title: Well Designed Drainage System - A Building's Absolute Essential
 description: "Are you dreming of a perfect house? \U0001F3E1 An efficient drainage
@@ -17,7 +17,6 @@ image: "/uploads/blog/kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.jpg"
 promoted: true
 related_products:
 - collections/_products/en/manhole-cover.html
-published: false
 
 ---
 ## Drainage - system types
