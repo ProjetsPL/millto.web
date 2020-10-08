@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 10:58:58 +0000
-update_date: 2020-10-06 10:58:58 +0000
+date: 2020-10-08 10:58:58 +0000
+update_date: 2020-10-08 10:58:58 +0000
 h1: Entwässerung - wie entwirft und baut man das System?
 title: Gut Entwässerungssystem - Absolut Notwendig für ein Gebaude
 description: "Erinnern Sie sich an ein perfektes Haus? \U0001F3E1 Ein effizientes
@@ -18,7 +18,6 @@ image: "/uploads/blog/kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.jpg"
 promoted: true
 related_products:
 - collections/_products/de/schachtabdeckung.html
-published: false
 
 ---
 ## Entwässerung - Systemtypen
