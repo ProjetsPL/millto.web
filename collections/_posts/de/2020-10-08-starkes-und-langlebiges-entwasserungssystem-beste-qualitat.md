@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 13:37:58 +0000
-update_date: 2020-10-06 13:37:58 +0000
+date: 2020-10-08 13:37:58 +0000
+update_date: 2020-10-08 13:37:58 +0000
 h1: Abwassersystem - welche Materialien werden für seine Errichtung benötigt?
 title: Starkes und Langlebiges Entwässerungssystem - Beste Qualität
 description: "Wollen Sie, dass Ihr Entwässerungssystem richtig funktioniert? \U0001F6BD
@@ -16,7 +16,6 @@ image: "/uploads/blog/system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworz
 promoted: true
 related_products:
 - collections/_products/de/schachtabdeckung.html
-published: false
 
 ---
 ## Die wichtigsten Parameter der Materialien des Abwassersystems
