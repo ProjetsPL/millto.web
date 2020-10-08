@@ -31,7 +31,7 @@ Odvod tepla v radiátorech není nic jiného než **konvekce**. Vyhřívaný vzd
 
 {% fig %}
 
- ![Podlahové vytápění nebo ohřívače - jak se liší tyto dvě metody?](/uploads/ogrzewanie-podlogowe-czy-grzejniki-1.jpg "Podlahové vytápění nebo ohřívače - jak se liší tyto dvě metody?") 
+![Podlahové vytápění nebo ohřívače - jak se liší tyto dvě metody?](/uploads/ogrzewanie-podlogowe-czy-grzejniki-1.jpg "Podlahové vytápění nebo ohřívače - jak se liší tyto dvě metody?")
 
 {% endfig %}
 
@@ -55,7 +55,7 @@ Tento problém není v případě podlahového vytápění. Dráty zodpovědné 
 
 {% fig %}
 
- ![Estetika domácího interiéru - co vyhrává podlaha nebo ohřívače?](/uploads/podloga-pod-ogrzewanie-podlogowe.jpg "Estetika domácího interiéru - co vyhrává podlaha nebo ohřívače?") 
+![Estetika domácího interiéru - co vyhrává podlaha nebo ohřívače?](/uploads/podloga-pod-ogrzewanie-podlogowe.jpg "Estetika domácího interiéru - co vyhrává podlaha nebo ohřívače?")
 
 {% endfig %}
 
@@ -87,7 +87,7 @@ Při ohřevu podlahy je třeba vzít v úvahu náklady na elektroinstalaci, izol
 
 {% fig %}
 
- ![Podlahové vytápění v celém domě nebo ohřívače? Náklady na instalaci](/uploads/wyposazenie-ogrzewanie-podlogowe-czy-grzejniki.jpg "Podlahové vytápění v celém domě nebo ohřívače? Náklady na instalaci") 
+![Podlahové vytápění v celém domě nebo ohřívače? Náklady na instalaci](/uploads/wyposazenie-ogrzewanie-podlogowe-czy-grzejniki.jpg "Podlahové vytápění v celém domě nebo ohřívače? Náklady na instalaci")
 
 {% endfig %}
 
@@ -97,4 +97,4 @@ Jak to vypadá při použití systému s tradičními radiátory? V ceně je tř
 
 Vzhledem k **nákladům na instalaci**, které čelí výběru podlahového vytápění nebo ohřívačů, lze předpokládat, že toto druhé rozhodnutí je finančně výhodnější. Počáteční náklady však nejsou všechno. Instalace funguje již řadu let, proto je důležité i její provoz a s tím související náklady.
 
-Vzhledem k životním nákladům - podlahové vytápění rozhodně vyhrává. Schopnost udržovat konstantní teplotu v domácích interiérech vede nejen k tepelnému komfortu, ale také k úsporám - zejména uprostřed topné sezóny. Porovnáním obou systémů lze při použití vodního podlahového vytápění ročně ušetřit mnoho-v závislosti na vytápěném povrchu.
+Vzhledem k **životním nákladům** - podlahové vytápění rozhodně vyhrává. Schopnost udržovat konstantní teplotu v domácích interiérech vede nejen k tepelnému komfortu, ale také k úsporám - zejména uprostřed topné sezóny. Porovnáním obou systémů lze při použití podlahového vytápění ušetřit mnoho - v závislosti na vytápěném povrchu.
