@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 11:17:34 +0000
-update_date: 2020-10-07 11:17:34 +0000
+date: 2020-10-08 11:17:34 +0000
+update_date: 2020-10-08 11:17:34 +0000
 h1: Wie Wählt Man ein Heizkörperventil aus - 5 Grundregeln
 title: Wie Wählt Man ein Heizkörperventil aus - 5 Grundregeln
 description: "Müssen Sie die Thermostatventile im Haus austauschen? \U0001F3E0 Prüfen
@@ -16,7 +16,6 @@ intro: Ein gut funktionierendes Heizsystem erfordert die richtige Ausrüstung. E
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
 related_products: []
-published: false
 
 ---
 ## Was ist ein Thermostatventil und wie funktioniert es?
