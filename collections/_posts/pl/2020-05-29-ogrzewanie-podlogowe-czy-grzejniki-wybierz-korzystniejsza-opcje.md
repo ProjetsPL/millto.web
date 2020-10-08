@@ -21,7 +21,7 @@ related_products:
 ---
 ## Ogrzewanie podłogowe czy grzejniki - co różni te dwie metody?
 
-Kluczowa różnica między ogrzewaniem podłogowym a tradycyjną instalacją wykorzystującą grzejniki polega przede wszystkim na s**posobie przekazywania ciepła do wnętrza**.
+Kluczowa różnica między ogrzewaniem podłogowym a tradycyjną instalacją wykorzystującą grzejniki polega przede wszystkim na **sposobie przekazywania ciepła do wnętrza**.
 
 Emisja ciepła w przypadku kaloryferów to nic innego jak **konwekcja**. Ogrzane powietrze krąży po całym pomieszczeniu, zapewniając odpowiednią temperaturę. Zupełnie inaczej wygląda to w przypadku ogrzewania podłogowego, gdzie **przekazywanie ciepła odbywa się drogą promieniowania**. Ciepłe powietrze unosi się pionowo do górnych części ogrzewanego wnętrza i wraz z wysokością jego temperatura stopniowo maleje.
 
