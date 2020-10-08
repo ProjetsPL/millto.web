@@ -97,4 +97,4 @@ Ako to vyzerá pri používaní systému s tradičnými radiátormi? Cena musí 
 
 Vzhľadom na **náklady na inštaláciu**, keď čelíme výberu podlahového vykurovania alebo ohrievačov, môžeme predpokladať, že toto druhé riešenie je finančne výhodnejšie. Počiatočné náklady však nie sú všetko. Zariadenie funguje už mnoho rokov, takže je tiež dôležité udržiavať ho a súvisiace náklady.
 
-Vzhľadom na **životné náklady** podlahové vykurovanie určite vyhrá. Schopnosť udržiavať konštantnú teplotu v domácich interiéroch vedie nielen k tepelnému komfortu, ale aj k úsporám - najmä vo výške vykurovacej sezóny. Pri porovnaní oboch systémov môžete ušetriť až niekoľko stoviek zlotých ročne pri použití podlahového vykurovania na báze vody v závislosti od vyhrievaného povrchu.
+Vzhľadom na **životné náklady** podlahové vykurovanie určite vyhrá. Schopnosť udržiavať konštantnú teplotu v domácich interiéroch vedie nielen k tepelnému komfortu, ale aj k úsporám - najmä vo výške vykurovacej sezóny. Pri porovnaní oboch systémov môžete ušetriť veľa pri použití podlahového vykurovania v závislosti od vyhrievaného povrchu.
