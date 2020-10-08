@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 06:03:47 +0000
-update_date: 2020-10-07 06:03:47 +0000
+date: 2020-10-08 06:03:47 +0000
+update_date: 2020-10-08 06:03:47 +0000
 h1: How to Choose Thermostatic Radiator Valve - 5 Basic Rules
 title: How to Choose Thermostatic Radiator Valve - 5 Basic Rules
 description: "Do you have to replace thermostatic valves in the house? \U0001F3E0
@@ -15,7 +15,6 @@ intro: A properly working heating system requires the right equipment. A thermos
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
 related_products: []
-published: false
 
 ---
 ## What is a thermostatic valve and how does it work?
