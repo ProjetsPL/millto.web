@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 12:14:00 +0000
-update_date: 2020-10-06 12:14:00 +0000
+date: 2020-10-08 12:14:00 +0000
+update_date: 2020-10-08 12:14:00 +0000
 h1: Sewage system - what materials are needed for its creation?
 title: Strong and Durable Drainage System - Choose Quality
 description: "Do you want you drainage system to function properly? \U0001F6BD Choose
@@ -15,7 +15,6 @@ image: "/uploads/blog/system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworz
 promoted: true
 related_products:
 - collections/_products/en/manhole-cover.html
-published: false
 
 ---
 ## The most important parameters of the sewage system materials
