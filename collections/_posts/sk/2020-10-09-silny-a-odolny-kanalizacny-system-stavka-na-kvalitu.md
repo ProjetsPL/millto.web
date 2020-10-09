@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 14:07:14 +0000
-update_date: 2020-10-06 14:07:14 +0000
+date: 2020-10-09 14:07:14 +0000
+update_date: 2020-10-09 14:07:14 +0000
 h1: Kanalizačný systém - aké materiály by som sa mal rozhodnúť vytvoriť?
 title: Silný a Odolný Kanalizačný Systém - Stávka na Kvalitu
 description: "Staráte sa o správne fungovanie kanalizačného systému? \U0001F6BD Postaw
@@ -15,7 +15,6 @@ image: "/uploads/blog/system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworz
 promoted: true
 related_products:
 - collections/_products/sk/sachtovy-poklop.html
-published: false
 
 ---
 ## Základné parametre odpadových materiálov
