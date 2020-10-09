@@ -17,7 +17,6 @@ image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: true
 related_products:
 - collections/_products/en/heat-manifolds/underfloor-heating-manifold.html
-published: false
 
 ---
 ## Underfloor heating vs Radiators - what are the differences?
