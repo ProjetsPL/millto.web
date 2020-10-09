@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 11:41:51 +0000
-update_date: 2020-10-06 11:41:51 +0000
+date: 2020-10-09 11:41:51 +0000
+update_date: 2020-10-09 11:41:51 +0000
 h1: Kanalizácia - ako navrhnúť a vykonať inštaláciu?
 title: Dobre Navrhnutý Kanalizačný Systém Je Základom Každej Budovy
 description: "Snívate o domu bez problémov s inštaláciou? \U0001F3E1 Foundation efektívna
