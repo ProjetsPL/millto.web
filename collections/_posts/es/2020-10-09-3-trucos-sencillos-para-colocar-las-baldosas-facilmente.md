@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 10:32:51 +0000
-update_date: 2020-10-08 10:32:51 +0000
+date: 2020-10-09 10:32:51 +0000
+update_date: 2020-10-09 10:32:51 +0000
 h1: 3 Trucos Sencillos Para Colocar las Baldosas Fácilmente
 title: 3 Trucos Sencillos Para Colocar las Baldosas Fácilmente
 description: "¿Poner baldosas tú mismo? ¡Es más fácil de lo que crees! ➡️ Comprueba
@@ -20,7 +20,6 @@ image: "/uploads/samodzielne-ukladanie-plytek.jpg"
 promoted: true
 related_products:
 - collections/_products/es/sistema-de-nivelacion-de-azulejos.html
-published: false
 
 ---
 ## Colocar las baldosas - no es tan difícil como piensas
