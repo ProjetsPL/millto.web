@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 12:47:41 +0000
-update_date: 2020-10-07 12:47:41 +0000
+date: 2020-10-09 12:47:41 +0000
+update_date: 2020-10-09 12:47:41 +0000
 h1: Termostat Chladiče - 5 Základních Principů Při Výběru
 title: Termostat Chladiče - 5 Základních Principů Při Výběru
 description: "Chystáte se vyměnit termostaty chladiče ve vašem domě? \U0001F3E0 Zkontrolujte,
@@ -15,7 +15,6 @@ intro: Správně fungující topný systém vyžaduje použití vhodného zaří
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
 related_products: []
-published: false
 
 ---
 ## Co je termostat chladiče a jak funguje?
