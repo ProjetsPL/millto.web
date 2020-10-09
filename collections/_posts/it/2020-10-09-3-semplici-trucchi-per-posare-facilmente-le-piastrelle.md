@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 10:41:55 +0000
-update_date: 2020-10-08 10:41:55 +0000
+date: 2020-10-09 10:41:55 +0000
+update_date: 2020-10-09 10:41:55 +0000
 h1: 3 Semplici Trucchi per Posare Facilmente le Piastrelle
 title: 3 Semplici Trucchi per Posare Facilmente le Piastrelle
 description: "Posa delle piastrelle da solo? È più facile di quanto si pensi! ➡️ Verificate
@@ -20,7 +20,6 @@ image: "/uploads/samodzielne-ukladanie-plytek.jpg"
 promoted: true
 related_products:
 - collections/_products/it/sistema-di-livellamento-delle-piastrelle.html
-published: false
 
 ---
 ## Posa delle piastrelle - non così difficile come si pensa
