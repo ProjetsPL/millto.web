@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 13:27:39 +0000
-update_date: 2020-10-08 13:27:39 +0000
+date: 2020-10-09 13:27:39 +0000
+update_date: 2020-10-09 13:27:39 +0000
 h1: Riscaldamento a Pavimento o Radiatori? Scegliete il Migliore
 title: Riscaldamento a Pavimento o Radiatori? Scegliete il Migliore
 description: "Vi state chiedendo cosa scegliere: riscaldamento a pavimento o radiatori?
@@ -18,7 +18,6 @@ image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: true
 related_products:
 - collections/_products/it/collectore/collettore-di-riscaldamento-a-pavimento.html
-published: false
 
 ---
 ## Riscaldamento a pavimento contro i radiatori - quali sono le differenze?
