@@ -15,7 +15,6 @@ image: "/uploads/blog/system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworz
 promoted: true
 related_products:
 - collections/_products/es/tapa-de-alcantarilla.html
-published: false
 
 ---
 ## Los parámetros más importantes de los materiales del sistema de alcantarillado
