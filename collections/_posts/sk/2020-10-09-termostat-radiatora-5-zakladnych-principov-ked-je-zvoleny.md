@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 12:35:43 +0000
-update_date: 2020-10-07 12:35:43 +0000
+date: 2020-10-09 12:35:43 +0000
+update_date: 2020-10-09 12:35:43 +0000
 h1: Termostat Radiátora 5 Základných Princípov, Keď Je Zvolený
 title: Termostat Radiátora 5 Základných Princípov, Keď Je Zvolený
 description: "Chcete vymeniť termostaty radiátora? \U0001F3E0 Skontrolujte, na čo
@@ -15,7 +15,6 @@ intro: Správne fungujúci vykurovací systém vyžaduje použitie vhodného zar
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
 related_products: []
-published: false
 
 ---
 ## Čo je termostat radiátora a ako to funguje?
