@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 13:50:56 +0000
-update_date: 2020-10-08 13:50:56 +0000
+date: 2020-10-09 13:50:56 +0000
+update_date: 2020-10-09 13:50:56 +0000
 h1: Podlahové Vytápění Nebo Ohřívače? Zvolte Výhodnější Variantu
 title: Podlahové Vytápění Nebo Ohřívače? Zvolte Výhodnější Variantu
 description: "Zajímalo by mě, co si vybrat - podlahové vytápění nebo ohřívače? ️➡️
@@ -16,7 +16,6 @@ image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: true
 related_products:
 - collections/_products/cs/Rozdělovač/rozdelovac-podlahoveho-vytapeni.html
-published: false
 
 ---
 ## Podlahové vytápění nebo ohřívače - jak se liší tyto dvě metody?
