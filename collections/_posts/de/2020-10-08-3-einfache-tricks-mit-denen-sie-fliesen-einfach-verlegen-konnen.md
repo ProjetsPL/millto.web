@@ -19,7 +19,6 @@ image: "/uploads/samodzielne-ukladanie-plytek.jpg"
 promoted: true
 related_products:
 - collections/_products/de/fliesen-nivelliersystem.html
-published: false
 
 ---
 ## Fliesen verlegen - nicht so schwierig, wie Sie denken
