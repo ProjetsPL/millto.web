@@ -16,7 +16,6 @@ image: "/uploads/blog/kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.jpg"
 promoted: true
 related_products:
 - collections/_products/sk/sachtovy-poklop.html
-published: false
 
 ---
 ## Kanalizácia - typy inštalácie
