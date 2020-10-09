@@ -17,7 +17,6 @@ image: "/uploads/blog/kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.jpg"
 promoted: true
 related_products:
 - collections/_products/es/tapa-de-alcantarilla.html
-published: false
 
 ---
 ## Drenaje - tipos de sistema
