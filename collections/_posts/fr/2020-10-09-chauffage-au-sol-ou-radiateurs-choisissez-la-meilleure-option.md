@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 13:11:17 +0000
-update_date: 2020-10-08 13:11:17 +0000
+date: 2020-10-09 13:11:17 +0000
+update_date: 2020-10-09 13:11:17 +0000
 h1: Chauffage au Sol ou Radiateurs ? Choisissez la Meilleure Option
 title: Chauffage au Sol ou Radiateurs ? Choisissez la Meilleure Option
 description: "Vous vous demandez quoi choisir - un chauffage au sol ou des radiateurs
@@ -18,7 +18,6 @@ image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: true
 related_products:
 - collections/_products/fr/Collecteur/collecteur-de-chauffage-au-sol.html
-published: false
 
 ---
 ## Chauffage au sol et radiateurs : quelles sont les différences ?
