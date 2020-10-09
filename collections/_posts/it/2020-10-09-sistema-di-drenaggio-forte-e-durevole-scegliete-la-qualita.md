@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 13:55:02 +0000
-update_date: 2020-10-06 13:55:02 +0000
+date: 2020-10-09 13:55:02 +0000
+update_date: 2020-10-09 13:55:02 +0000
 h1: Sistema fognario - quali materiali sono necessari per la sua creazione?
 title: Sistema di Drenaggio Forte e Durevole - Scegliete la Qualità
 description: "Volete che il vostro sistema di drenaggio funzioni correttamente? \U0001F6BD
@@ -15,7 +15,6 @@ image: "/uploads/blog/system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworz
 promoted: true
 related_products:
 - collections/_products/it/chiusino.html
-published: false
 
 ---
 ## I parametri più importanti dei materiali del sistema fognario
