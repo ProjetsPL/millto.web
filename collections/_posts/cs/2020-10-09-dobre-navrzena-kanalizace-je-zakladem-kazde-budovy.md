@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 12:01:08 +0000
-update_date: 2020-10-06 12:01:08 +0000
+date: 2020-10-09 12:01:08 +0000
+update_date: 2020-10-09 12:01:08 +0000
 h1: Kanalizace - jak navrhnout a provést instalaci?
 title: Dobře Navržená Kanalizace Je Základem Každé Budovy
 description: "Sníte o získání domu bez problémů s instalací? \U0001F3E1 Efektivní
@@ -16,7 +16,6 @@ image: "/uploads/blog/kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.jpg"
 promoted: true
 related_products:
 - collections/_products/cs/poklop-na-revizni-sachtu.html
-published: false
 
 ---
 ## Kanalizace - typy instalace
