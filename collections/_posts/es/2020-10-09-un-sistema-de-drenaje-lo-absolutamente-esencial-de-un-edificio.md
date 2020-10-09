@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 11:25:24 +0000
-update_date: 2020-10-06 11:25:24 +0000
+date: 2020-10-09 11:25:24 +0000
+update_date: 2020-10-09 11:25:24 +0000
 h1: Drenaje - ¿cómo diseñar y construir el sistema?
 title: Un Sistema de Drenaje - Lo Absolutamente Esencial de un Edificio
 description: "¿Estás soñando con una casa perfecta? \U0001F3E1 Un sistema de drenaje
