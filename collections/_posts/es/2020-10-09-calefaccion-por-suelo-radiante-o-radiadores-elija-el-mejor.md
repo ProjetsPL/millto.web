@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 13:18:34 +0000
-update_date: 2020-10-08 13:18:34 +0000
+date: 2020-10-09 13:18:34 +0000
+update_date: 2020-10-09 13:18:34 +0000
 h1: "¿Calefacción por Suelo Radiante o Radiadores? Elija el Mejor"
 title: "¿Calefacción por Suelo Radiante o Radiadores? Elija el Mejor"
 description: "¿Te preguntas qué elegir? ¿Calefacción por suelo radiante o radiadores?
@@ -18,7 +18,6 @@ image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: true
 related_products:
 - collections/_products/es/Colectores/colector-de-suelo-radiante.html
-published: false
 
 ---
 ## Calefacción por suelo radiante vs. Radiadores, ¿cuáles son las diferencias?
