@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 12:19:45 +0000
-update_date: 2020-10-07 12:19:45 +0000
+date: 2020-10-09 12:19:45 +0000
+update_date: 2020-10-09 12:19:45 +0000
 h1: Cómo Elegir la Válvula de Radiador Termostático - 5 Reglas
 title: Cómo Elegir la Válvula de Radiador Termostático - 5 Reglas
 description: "¿Tienes que reemplazar las válvulas termostáticas en la casa? \U0001F3E0
@@ -16,7 +16,6 @@ intro: Un sistema de calefacción que funcione correctamente requiere el equipo 
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: false
 related_products: []
-published: false
 
 ---
 ## ¿Qué es una válvula termostática y cómo funciona?
