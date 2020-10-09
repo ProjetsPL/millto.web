@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 14:12:19 +0000
-update_date: 2020-10-06 14:12:19 +0000
+date: 2020-10-09 14:12:19 +0000
+update_date: 2020-10-09 14:12:19 +0000
 h1: Kanalizační systém - jaké materiály zvolit pro jeho vytvoření?
 title: Pevná a Odolná Kanalizace - Vyberte na Kvalitu
 description: "Staráte se o správné fungování kanalizace? \U0001F6BD Vyberte na lepší
@@ -15,7 +15,6 @@ image: "/uploads/blog/system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworz
 promoted: true
 related_products:
 - collections/_products/cs/poklop-na-revizni-sachtu.html
-published: false
 
 ---
 ## Základní parametry materiálů pro kanalizaci
