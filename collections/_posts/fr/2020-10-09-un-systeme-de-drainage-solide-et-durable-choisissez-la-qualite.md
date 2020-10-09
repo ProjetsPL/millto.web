@@ -17,7 +17,6 @@ image: "/uploads/blog/system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworz
 promoted: true
 related_products:
 - collections/_products/fr/couvercle-de-regard.html
-published: false
 
 ---
 ## Les paramètres les plus importants des matériaux du système d'égout
