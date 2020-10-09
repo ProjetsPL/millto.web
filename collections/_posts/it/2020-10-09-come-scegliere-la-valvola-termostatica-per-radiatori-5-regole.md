@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 12:28:02 +0000
-update_date: 2020-10-07 12:28:02 +0000
+date: 2020-10-09 12:28:02 +0000
+update_date: 2020-10-09 12:28:02 +0000
 h1: Come Scegliere la Valvola Termostatica per Radiatori - 5 Regole
 title: Come Scegliere la Valvola Termostatica per Radiatori - 5 Regole
 description: "Dovete sostituire le valvole termostatiche in casa? \U0001F3E0 Verificate
@@ -16,7 +16,6 @@ intro: Un sistema di riscaldamento che funzioni correttamente richiede l'attrezz
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
 related_products: []
-published: false
 
 ---
 ## Cos'è una valvola termostatica e come funziona?
