@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 11:35:50 +0000
-update_date: 2020-10-06 11:35:50 +0000
+date: 2020-10-09 11:35:50 +0000
+update_date: 2020-10-09 11:35:50 +0000
 h1: Drenaggio - come progettare e costruire il sistema?
 title: Sistema di Drenaggio ben Progettato - L'essenziale di un Edificio
 description: "Stai svalutando una casa perfetta? \U0001F3E1 Un sistema di drenaggio
@@ -17,7 +17,6 @@ image: "/uploads/blog/kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.jpg"
 promoted: true
 related_products:
 - collections/_products/it/chiusino.html
-published: false
 
 ---
 ## Drenaggio - tipi di sistema
