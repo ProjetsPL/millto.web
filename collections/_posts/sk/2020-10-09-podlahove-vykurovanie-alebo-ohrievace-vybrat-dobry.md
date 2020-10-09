@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 13:35:58 +0000
-update_date: 2020-10-08 13:35:58 +0000
+date: 2020-10-09 13:35:58 +0000
+update_date: 2020-10-09 13:35:58 +0000
 h1: Podlahové Vykurovanie Alebo Ohrievače? Vybrať Dobrý
 title: Podlahové Vykurovanie Alebo Ohrievače? Vybrať Dobrý
 description: "Čo si vybrať - podlahové vykurovanie alebo ohrievače? ➡️ Pozrite sa
@@ -16,7 +16,6 @@ image: "/uploads/ogrzewanie-podlogowe-czy-grzejniki.jpg"
 promoted: true
 related_products:
 - collections/_products/sk/Rozdělovače/rozdelovac-pre-podlahove-vykurovanie.html
-published: false
 
 ---
 ## Podlahové vykurovanie alebo ohrievače - ako sa tieto dve metódy líšia?
