@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 11:01:47 +0000
-update_date: 2020-10-08 11:01:47 +0000
+date: 2020-10-09 11:01:47 +0000
+update_date: 2020-10-09 11:01:47 +0000
 h1: 3 Tipy, Které Vám Usnadní Pokládku Dlaždic Sami
 title: 3 Tipy, Které Vám Usnadní Pokládku Dlaždic Sami
 description: "Zdivo dlaždice? Není to tak těžké! ️➡️ Zkontrolujte jak snadné může
@@ -18,7 +18,6 @@ image: "/uploads/samodzielne-ukladanie-plytek.jpg"
 promoted: true
 related_products:
 - collections/_products/cs/nivelacni-system-na-dlazbu.html
-published: false
 
 ---
 ## Pokládání dlaždic není tak těžké, jak si myslíte
