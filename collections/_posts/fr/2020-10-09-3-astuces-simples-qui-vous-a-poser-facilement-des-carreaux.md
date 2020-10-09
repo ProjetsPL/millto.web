@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-08 10:22:05 +0000
-update_date: 2020-10-08 10:22:05 +0000
+date: 2020-10-09 10:22:05 +0000
+update_date: 2020-10-09 10:22:05 +0000
 h1: 3 Astuces Simples qui Vous à Poser Facilement des Carreaux
 title: 3 Astuces Simples qui Vous à Poser Facilement des Carreaux
 description: "Pose de carreaux par vous-même ? C'est plus facile que vous ne le pensez
@@ -20,7 +20,6 @@ image: "/uploads/samodzielne-ukladanie-plytek.jpg"
 promoted: true
 related_products:
 - collections/_products/fr/systeme-de-nivellement-des-tuiles.html
-published: false
 
 ---
 ## Pose de carreaux - pas aussi difficile que vous le pensez
