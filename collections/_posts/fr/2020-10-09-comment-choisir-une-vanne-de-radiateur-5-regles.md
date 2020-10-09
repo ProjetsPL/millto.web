@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-07 12:11:40 +0000
-update_date: 2020-10-07 12:11:40 +0000
+date: 2020-10-09 12:11:40 +0000
+update_date: 2020-10-09 12:11:40 +0000
 h1: Comment Choisir une Vanne de Radiateur - 5 Règles
 title: Comment Choisir une Vanne de Radiateur - 5 Règles
 description: "Faut-il remplacer les robinets thermostatiques de la maison ? \U0001F3E0
@@ -16,7 +16,6 @@ intro: Un système de chauffage qui fonctionne correctement nécessite un équip
 image: "/uploads/termostat-grzejnikowy.jpg"
 promoted: true
 related_products: []
-published: false
 
 ---
 ## Qu'est-ce qu'une vanne thermostatique et comment fonctionne-t-elle ?
