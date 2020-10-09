@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-date: 2020-10-06 11:09:01 +0000
-update_date: 2020-10-06 11:09:01 +0000
+date: 2020-10-09 11:09:01 +0000
+update_date: 2020-10-09 11:09:01 +0000
 h1: Drainage - comment concevoir et construire le système ?
 title: Un Système de Drainage Bien Conçu - L'essentiel d'un Bâtiment
 description: "Vous rêvez d'une maison parfaite ? \U0001F3E1 Un système de drainage
@@ -18,7 +18,6 @@ image: "/uploads/blog/kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.jpg"
 promoted: true
 related_products:
 - collections/_products/fr/couvercle-de-regard.html
-published: false
 
 ---
 ## Drainage - types de systèmes
