@@ -1,4 +1,44 @@
 ---
+- pl: _posts/pl/2020-05-28-3-wskazowki-ktore-ulatwia-ci-samodzielne-ukladanie-plytek.md
+  en: ''
+  de: ''
+  sk: ''
+  cs: ''
+  fr: ''
+  es: ''
+  it: ''
+- pl: _posts/pl/2019-10-28-kanalizacja-jak-zaprojektowac-i-wykonac-instalacje.md
+  en: ''
+  de: ''
+  sk: ''
+  cs: ''
+  fr: ''
+  es: ''
+  it: ''
+- pl: _posts/pl/2020-05-29-ogrzewanie-podlogowe-czy-grzejniki-wybierz-korzystniejsza-opcje.md
+  en: ''
+  de: ''
+  sk: ''
+  cs: ''
+  fr: ''
+  es: ''
+  it: ''
+- pl: _posts/pl/2019-11-28-system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworzenia.md
+  en: ''
+  de: ''
+  sk: ''
+  cs: ''
+  fr: ''
+  es: ''
+  it: ''
+- pl: _posts/pl/2020-05-27-termostat-grzejnikowy-5-podstawowych-zasad-przy-jego-wyborze.md
+  en: _posts/en/2020-10-08-how-to-choose-thermostatic-radiator-valve-5-basic-rules.md
+  de: _posts/de/2020-10-08-wie-wahlt-man-ein-heizkorperventil-aus-5-grundregeln.md
+  sk: _posts/sk/2020-10-09-termostat-radiatora-5-zakladnych-principov-ked-je-zvoleny.md
+  cs: _posts/cs/2020-10-09-termostat-chladice-5-zakladnich-principu-pri-vyberu.md
+  fr: _posts/fr/2020-10-09-comment-choisir-une-vanne-de-radiateur-5-regles.md
+  es: _posts/es/2020-10-09-como-elegir-la-valvula-de-radiador-termostatico-5-reglas.md
+  it: _posts/it/2020-10-09-come-scegliere-la-valvola-termostatica-per-radiatori-5-regole.md
 - pl: _products/pl/glowica-termostatyczna.html
   en: _products/en/radiator-valve.html
   de: _products/de/heizkorper-ventil.html
