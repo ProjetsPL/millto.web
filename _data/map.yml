@@ -24,13 +24,13 @@
   es: ''
   it: ''
 - pl: _posts/pl/2019-11-28-system-kanalizacyjny-jakie-materialy-wybrac-do-jego-stworzenia.md
-  en: ''
-  de: ''
-  sk: ''
-  cs: ''
-  fr: ''
-  es: ''
-  it: ''
+  en: _posts/en/2020-10-08-well-designed-drainage-system-a-building-s-absolute-essential.md
+  de: _posts/de/2020-10-08-gut-entwasserungssystem-absolut-notwendig-fur-ein-gebaude.md
+  sk: _posts/sk/2020-10-09-dobre-navrhnuty-kanalizacny-system-je-zakladom-kazdej-budovy.md
+  cs: _posts/cs/2020-10-09-dobre-navrzena-kanalizace-je-zakladem-kazde-budovy.md
+  fr: _posts/fr/2020-10-09-un-systeme-de-drainage-bien-concu-l-essentiel-d-un-batiment.md
+  es: _posts/es/2020-10-09-un-sistema-de-drenaje-lo-absolutamente-esencial-de-un-edificio.md
+  it: _posts/it/2020-10-09-sistema-di-drenaggio-ben-progettato-l-essenziale-di-un-edificio.md
 - pl: _posts/pl/2020-05-27-termostat-grzejnikowy-5-podstawowych-zasad-przy-jego-wyborze.md
   en: _posts/en/2020-10-08-how-to-choose-thermostatic-radiator-valve-5-basic-rules.md
   de: _posts/de/2020-10-08-wie-wahlt-man-ein-heizkorperventil-aus-5-grundregeln.md
