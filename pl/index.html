@@ -22,7 +22,7 @@ description: "Produkty Millto to kompleksowa odpowiedź na wszystkie potrzeby bu
             <a href="/pl/blog.html" class="btn">Pokaż wszystkie</a>
         </div>
 
-        {% for post in site.posts limit: 2 %}
+        {% for post in site.posts limit: 2  | where:"lang", page.lang %}
           <div class="beam-item b-size-2">
               {% include parts/articles-listing-boxitem.html post=post %}
           </div>

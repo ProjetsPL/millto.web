@@ -76,7 +76,7 @@
                     <h3 class="beam-border">{{site.data.translations.featuredarticles[page.lang]}}</h3>
                 </div>
                 {% assign i = 0 %}
-                {% assign promoted_posts = site.posts | where: 'promoted', true %}
+                {% assign promoted_posts = site.posts | where: 'promoted', true  | where:"lang", page.lang %}
 
                 {% for promoted_post in promoted_posts limit: 5 %}
                   {% if i == 4 %}
