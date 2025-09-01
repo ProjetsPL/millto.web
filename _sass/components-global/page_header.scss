@@ -172,7 +172,8 @@
                 }
                 &.active {                    
                     border-top: none;
-                    order:1;                    
+                    order: 1;
+                    min-height: var(--header-height);
                     a {
                         pointer-events: none;
                     }
@@ -233,4 +234,5 @@
             }
         }
     }
+
 }
