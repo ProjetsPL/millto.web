@@ -3,7 +3,3 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-.bundle
-.bundle-cache
-gemfiles
-Gemfile.lock
