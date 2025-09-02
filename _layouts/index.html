@@ -33,7 +33,7 @@
             </div>
     
               <!-- <div class="beam-item b-size-4"> -->
-                {% assign random_products = site.products | where:"lang", page.lang | where: "layout", "product" | sample: 3 %}
+                {% assign random_products = site.products | where:"lang", page.lang | where: "layout", "product" | where: "promo", true | sample: 3 %}
       
                 {% for product in random_products %}
   
