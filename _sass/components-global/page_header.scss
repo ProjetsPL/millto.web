@@ -89,7 +89,7 @@
                 &:hover {
                     background-color: $gray-1;
                     a {
-                        color: lighten( $main, 10%);
+                        color: scale-color($main, $lightness: 10%);
                     }
                 }
                 &:active {
@@ -145,8 +145,8 @@
                 &:hover {
                     background-color: $gray-1;
                     a {
-                        span {                      
-                            color: lighten( $main, 10%);
+                        span {
+                            color: scale-color($main, $lightness: 10%);
                         }
                     }
                 }
@@ -183,14 +183,14 @@
     }
     .menu-mobile-btn {
         display: none;
-        @media (max-width: 760px) {
-            display: flex;
-            align-items: center;
-        }
         background-color: $gray-0;
         border: 0px;
         padding: 0 20px;
         outline: none;
+        @media (max-width: 760px) {
+            display: flex;
+            align-items: center;
+        }
         .close {
             display: none;
         }
@@ -206,17 +206,17 @@
 }
 .menu-mobile {
     display: none;
-    &.open {
-        display: block;
-        @media (min-width: 760px) {
-            display: none;
-        }        
-    }
     position: fixed;
     background-color: $gray-0;
     z-index: 1;
     height: 100%;
     width: 100%;
+    &.open {
+        display: block;
+        @media (min-width: 760px) {
+            display: none;
+        }
+    }
     top:0;
     left:0;
     padding: calc(var(--header-height) + 10px) 20px 0;

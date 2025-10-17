@@ -70,7 +70,7 @@ a {
     color: $main;
     text-decoration: underline;
     &:hover {
-        color: lighten($main, 10%)
+        color: scale-color($main, $lightness: 10%)
     }
 }
 b,

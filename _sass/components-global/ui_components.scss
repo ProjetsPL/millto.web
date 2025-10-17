@@ -18,7 +18,7 @@
         padding-right: 10px;
     }
     &:hover {
-        background-color: lighten( $main, 10%);
+        background-color: scale-color($main, $lightness: 10%);
         color: $gray-0;
     }
     &:active {
@@ -37,12 +37,12 @@
         color: $gray-5;
         letter-spacing: 0px;
         &:hover {
-            color: lighten( $main, 10%);
+            color: scale-color($main, $lightness: 10%);
         }
         &.btn-active {
             border: 2px solid $main;
             &:hover {
-                border: 2px solid lighten( $main, 10%);
+                border: scale-color($main, $lightness: 10%);
             }
         }
     }

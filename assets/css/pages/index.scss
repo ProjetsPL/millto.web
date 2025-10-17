@@ -100,13 +100,13 @@
                 }
                 .banner-title {
                     span {
-                        color: lighten($main, 10%);
+                        color: scale-color($main, $lightness: 10%);
                     }
                     #arrow-lg {
                         transform: scale(0.8) translateX(10px);
                         g {
                             path {
-                                stroke: lighten($main, 10%);
+                                stroke: scale-color($main, $lightness: 10%);
                             }
                         }
                     }

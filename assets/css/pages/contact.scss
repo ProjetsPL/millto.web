@@ -58,7 +58,7 @@
                     &:hover {
 
                         .content {
-                            color: lighten($main, 10%)
+                            color: scale-color($main, $lightness: 10%)
                         }
                     }
                 }

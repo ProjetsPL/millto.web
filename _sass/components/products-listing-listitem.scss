@@ -41,7 +41,7 @@
         margin-right: -20px;
         .product-content {
             h3 {
-                color: lighten($main, 10%)
+                color: scale-color($main, $lightness: 10%)
             }
         }
         .product-img {
@@ -52,7 +52,7 @@
             svg {
                 transform: scale(0.8) translateX(10px);
                 path {
-                    stroke: lighten($main, 10%)
+                    stroke: scale-color($main, $lightness: 10%)
                 }
             }
         }

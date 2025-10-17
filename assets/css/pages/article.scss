@@ -40,7 +40,7 @@
             }
             &:hover {
                 h1, h2, h3, h4 {
-                    color:lighten($main, 10%)
+                    color:scale-color($main, $lightness: 10%)
                 }
                 img {
                     transform: scale(1.05);

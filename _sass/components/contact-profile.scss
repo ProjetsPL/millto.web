@@ -90,7 +90,7 @@
            position: relative;
            .contact-mobile-btn {               
                 height: 100%;
-                background-color: lighten($main, 10%);
+                background-color: scale-color($main, $lightness: 10%);
                 border:0;
                 padding:10px;
                 display: flex;
