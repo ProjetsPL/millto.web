@@ -3,6 +3,32 @@
   publish = "_site"
 
 [build.environment]
-  RUBY_VERSION = "3.1.4"
+  RUBY_VERSION = "3.3.6"
   BUNDLE_PATH = "vendor/bundle"
+  JEKYLL_ENV = "production"
 
+# Performance headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Cache static assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/uploads/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Redirects (optional - can also use _redirects file)
+# [[redirects]]
+#   from = "/old-path"
+#   to = "/new-path"
+#   status = 301

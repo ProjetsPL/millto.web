@@ -21,16 +21,16 @@ Gem::Specification.new do |spec|
     raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end
 
-  spec.required_ruby_version = ">= 2.3.0"
+  spec.required_ruby_version = ">= 3.1.0"
 
-  spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r!^(test|spec|features)/!) }
+  spec.files         = Dir["lib/**/*", "LICENSE.txt"]
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r!^exe/!) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "jekyll", ">= 3.3", "< 5.0"
-  spec.add_development_dependency "bundler", ">= 1.15"
-  spec.add_development_dependency "html-proofer", "~> 3.7"
-  spec.add_development_dependency "rspec", "~> 3.5"
-  spec.add_development_dependency "rubocop-jekyll", "~> 0.4"
+  spec.add_dependency "jekyll", ">= 3.8", "< 5.0"
+  spec.add_development_dependency "bundler", ">= 2.0"
+  spec.add_development_dependency "html-proofer", "~> 5.0"
+  spec.add_development_dependency "rspec", "~> 3.12"
+  spec.add_development_dependency "rubocop-jekyll", "~> 0.14"
 end

@@ -1,26 +1,62 @@
-url: "https://millto.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+# ============================================================
+# Site Configuration
+# ============================================================
+url: "https://millto.com"
+baseurl: ""
+title: "Millto"
+description: ""
 logo: '/assets/img/logo.png'
 logo_svg: '/assets/img/logo.svg'
 icon: '/assets/img/01.png'
+lang: "en"
 
+# ============================================================
+# Build Settings
+# ============================================================
+markdown: kramdown
+permalink: /:categories/blog/:title:output_ext
+timezone: Europe/Warsaw
+
+# Markdown processor configuration
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 2..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter: rouge
+
+# Sass/SCSS configuration
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+# ============================================================
+# File Handling
+# ============================================================
 include:
   - _redirects
+
 exclude:
   - config
   - plugins
   - Capfile
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .bundle
+  - .git
+  - .gitignore
+  - .ruby-version
 
-# Build settings
-markdown: kramdown
-permalink: /:categories/blog/:title:output_ext
-
-# Sass
-sass:
-  sass_dir: _sass
-  style: compressed
+keep_files:
+  - .git
+  - .svn
 
 toc:
   min_level: 2

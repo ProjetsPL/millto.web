@@ -15,15 +15,15 @@ Gem::Specification.new do |spec|
 
   spec.files = Dir['{lib}/**/*']
 
-  spec.required_ruby_version = ">= 2.3.0"
+  spec.required_ruby_version = ">= 3.1.0"
 
-  spec.add_dependency "jekyll", ">= 3.7", "< 5.0"
+  spec.add_dependency "jekyll", ">= 3.8", "< 5.0"
 
-  spec.add_runtime_dependency 'nokogiri', '~> 1.9'
+  spec.add_runtime_dependency 'nokogiri', '~> 1.12'
 
-  spec.add_development_dependency "pry", '~> 0.12.2'
-  spec.add_development_dependency "bundler"
-  spec.add_development_dependency "rake"
-  spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "rubocop-jekyll", "~> 0.4"
+  spec.add_development_dependency "pry", '~> 0.15'
+  spec.add_development_dependency "bundler", ">= 2.0"
+  spec.add_development_dependency "rake", "~> 13.0"
+  spec.add_development_dependency "rspec", "~> 3.12"
+  spec.add_development_dependency "rubocop-jekyll", "~> 0.14"
 end
